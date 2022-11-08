@@ -35,6 +35,7 @@ $(function () {
         memberListDiv.hide()
         memberListSelect.html("")
         memberListSelect.append($("<option disabled selected value>Select a boss/dungeon</option>"))
+        memberList = []
         outputDiv.hide()
         outputPTag.text("")
         GetPlayers(FindFight($(this).val()))
