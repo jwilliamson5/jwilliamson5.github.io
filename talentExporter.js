@@ -34,7 +34,7 @@ $(function () {
     fightListSelect.on("change", function (e) {
         memberListDiv.hide()
         memberListSelect.html("")
-        memberListSelect.append($("<option disabled selected value>Select a boss/dungeon</option>"))
+        memberListSelect.append($("<option disabled selected value>Select a player</option>"))
         memberList = []
         outputDiv.hide()
         outputPTag.text("")
@@ -115,7 +115,7 @@ $(function () {
                 fightListSelect.append(option)
             }
             fightListDiv.show()
-            $("#StatusDisplay").text("Done! Please select a boss/dungeon")
+            $("#StatusDisplay").text("Done!")
         })
     }
 
@@ -267,7 +267,7 @@ $(function () {
         fightListSelect.html("")
         fightListSelect.append($("<option disabled selected value>Select a boss/dungeon</option>"))
         memberListSelect.html("")
-        memberListSelect.append($("<option disabled selected value>Select a boss/dungeon</option>"))
+        memberListSelect.append($("<option disabled selected value>Select a player</option>"))
         fightList = []
         memberList = []
         outputPTag.text("")
