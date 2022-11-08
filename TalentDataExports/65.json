@@ -1,0 +1,1019 @@
+[
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 135949,
+    "nodeID": 81508,
+    "spellName": "Improved Cleanse",
+    "maxRanks": 1,
+    "spellID": 393024
+  },
+  {
+    "type": 0,
+    "spellIcon": 1030099,
+    "nodeID": 81509,
+    "spellName": "Hallowed Ground",
+    "maxRanks": 1,
+    "spellID": 377043
+  },
+  {
+    "type": 0,
+    "spellIcon": 613533,
+    "nodeID": 81510,
+    "spellName": "Hammer of Wrath",
+    "maxRanks": 1,
+    "spellID": 24275
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 2,
+    "spellIcon": 1030095,
+    "nodeID": 81554,
+    "spellName": "Beacon of Faith",
+    "maxRanks": 1,
+    "spellID": 156910
+  },
+  {
+    "type": 2,
+    "spellIcon": 1030094,
+    "nodeID": 81554,
+    "spellName": "Beacon of Virtue",
+    "maxRanks": 1,
+    "spellID": 200025
+  },
+  {
+    "type": 0,
+    "spellIcon": 135972,
+    "nodeID": 81555,
+    "spellName": "Holy Shock",
+    "maxRanks": 1,
+    "spellID": 20473
+  },
+  {
+    "type": 0,
+    "spellIcon": 255347,
+    "nodeID": 81556,
+    "spellName": "Echoing Blessings",
+    "maxRanks": 1,
+    "spellID": 387801
+  },
+  {
+    "type": 0,
+    "spellIcon": 612968,
+    "nodeID": 81557,
+    "spellName": "Imbued Infusions",
+    "maxRanks": 1,
+    "spellID": 392961
+  },
+  {
+    "type": 0,
+    "spellIcon": 4067370,
+    "nodeID": 81558,
+    "spellName": "Barrier of Faith",
+    "maxRanks": 1,
+    "spellID": 148039
+  },
+  {
+    "type": 0,
+    "spellIcon": 460953,
+    "nodeID": 81559,
+    "spellName": "Maraad's Dying Breath",
+    "maxRanks": 1,
+    "spellID": 388018
+  },
+  {
+    "type": 0,
+    "spellIcon": 1714094,
+    "nodeID": 81560,
+    "spellName": "Untempered Dedication",
+    "maxRanks": 1,
+    "spellID": 387814
+  },
+  {
+    "type": 0,
+    "spellIcon": 1360762,
+    "nodeID": 81561,
+    "spellName": "Light of the Martyr",
+    "maxRanks": 1,
+    "spellID": 183998
+  },
+  {
+    "type": 0,
+    "spellIcon": 571556,
+    "nodeID": 81562,
+    "spellName": "Rule of Law",
+    "maxRanks": 1,
+    "spellID": 214202
+  },
+  {
+    "type": 0,
+    "spellIcon": 1030102,
+    "nodeID": 81563,
+    "spellName": "Saved by the Light",
+    "maxRanks": 1,
+    "spellID": 157047
+  },
+  {
+    "type": 2,
+    "spellIcon": 135920,
+    "nodeID": 81564,
+    "spellName": "Unending Light",
+    "maxRanks": 1,
+    "spellID": 387998
+  },
+  {
+    "type": 2,
+    "spellIcon": 236249,
+    "nodeID": 81564,
+    "spellName": "Bestow Faith",
+    "maxRanks": 1,
+    "spellID": 223306
+  },
+  {
+    "type": 0,
+    "spellIcon": 461859,
+    "nodeID": 81565,
+    "spellName": "Light of Dawn",
+    "maxRanks": 1,
+    "spellID": 85222
+  },
+  {
+    "type": 2,
+    "spellIcon": 135905,
+    "nodeID": 81566,
+    "spellName": "Unwavering Spirit",
+    "maxRanks": 1,
+    "spellID": 392911
+  },
+  {
+    "type": 2,
+    "spellIcon": 135872,
+    "nodeID": 81566,
+    "spellName": "Protection of Tyr",
+    "maxRanks": 1,
+    "spellID": 200430
+  },
+  {
+    "type": 0,
+    "spellIcon": 135872,
+    "nodeID": 81567,
+    "spellName": "Aura Mastery",
+    "maxRanks": 1,
+    "spellID": 31821
+  },
+  {
+    "type": 0,
+    "spellIcon": 524353,
+    "nodeID": 81568,
+    "spellName": "Divine Protection",
+    "maxRanks": 1,
+    "spellID": 498
+  },
+  {
+    "type": 0,
+    "spellIcon": 135981,
+    "nodeID": 81569,
+    "spellName": "Holy Light",
+    "maxRanks": 1,
+    "spellID": 82326
+  },
+  {
+    "type": 0,
+    "spellIcon": 135915,
+    "nodeID": 81570,
+    "spellName": "Divine Favor",
+    "maxRanks": 1,
+    "spellID": 210294
+  },
+  {
+    "type": 2,
+    "spellIcon": 135907,
+    "nodeID": 81571,
+    "spellName": "Moment of Compassion",
+    "maxRanks": 1,
+    "spellID": 387786
+  },
+  {
+    "type": 2,
+    "spellIcon": 612099,
+    "nodeID": 81571,
+    "spellName": "Resplendent Light",
+    "maxRanks": 1,
+    "spellID": 392902
+  },
+  {
+    "type": 2,
+    "spellIcon": 461857,
+    "nodeID": 81572,
+    "spellName": "Illumination",
+    "maxRanks": 1,
+    "spellID": 387993
+  },
+  {
+    "type": 2,
+    "spellIcon": 135948,
+    "nodeID": 81572,
+    "spellName": "Divine Insight",
+    "maxRanks": 1,
+    "spellID": 392914
+  },
+  {
+    "type": 0,
+    "spellIcon": 135921,
+    "nodeID": 81573,
+    "spellName": "Tirion's Devotion",
+    "maxRanks": 1,
+    "spellID": 392928
+  },
+  {
+    "type": 0,
+    "spellIcon": 135891,
+    "nodeID": 81574,
+    "spellName": "Radiant Onslaught",
+    "maxRanks": 1,
+    "spellID": 231667
+  },
+  {
+    "type": 0,
+    "spellIcon": 135928,
+    "nodeID": 81575,
+    "spellName": "Empyreal Ward",
+    "maxRanks": 1,
+    "spellID": 387791
+  },
+  {
+    "type": 0,
+    "spellIcon": 236261,
+    "nodeID": 81576,
+    "spellName": "Shining Savior",
+    "maxRanks": 1,
+    "spellID": 388005
+  },
+  {
+    "type": 2,
+    "spellIcon": 613955,
+    "nodeID": 81577,
+    "spellName": "Light's Hammer",
+    "maxRanks": 1,
+    "spellID": 114158
+  },
+  {
+    "type": 2,
+    "spellIcon": 613408,
+    "nodeID": 81577,
+    "spellName": "Holy Prism",
+    "maxRanks": 1,
+    "spellID": 114165
+  },
+  {
+    "type": 0,
+    "spellIcon": 236254,
+    "nodeID": 81578,
+    "spellName": "Divine Revelations",
+    "maxRanks": 1,
+    "spellID": 387808
+  },
+  {
+    "type": 0,
+    "spellIcon": 3565448,
+    "nodeID": 81579,
+    "spellName": "Divine Toll",
+    "maxRanks": 1,
+    "spellID": 375576
+  },
+  {
+    "type": 0,
+    "spellIcon": 236247,
+    "nodeID": 81580,
+    "spellName": "Commanding Light",
+    "maxRanks": 2,
+    "spellID": 387781
+  },
+  {
+    "type": 0,
+    "spellIcon": 839106,
+    "nodeID": 81581,
+    "spellName": "Veneration",
+    "maxRanks": 1,
+    "spellID": 392938
+  },
+  {
+    "type": 0,
+    "spellIcon": 252269,
+    "nodeID": 81582,
+    "spellName": "Breaking Dawn",
+    "maxRanks": 1,
+    "spellID": 387879
+  },
+  {
+    "type": 0,
+    "spellIcon": 135931,
+    "nodeID": 81583,
+    "spellName": "Second Sunrise",
+    "maxRanks": 2,
+    "spellID": 200482
+  },
+  {
+    "type": 2,
+    "spellIcon": 135875,
+    "nodeID": 81584,
+    "spellName": "Avenging Wrath",
+    "maxRanks": 1,
+    "spellID": 31884
+  },
+  {
+    "type": 2,
+    "spellIcon": 589117,
+    "nodeID": 81584,
+    "spellName": "Avenging Crusader",
+    "maxRanks": 1,
+    "spellID": 216331
+  },
+  {
+    "type": 0,
+    "spellIcon": 255347,
+    "nodeID": 81585,
+    "spellName": "Divine Glimpse",
+    "maxRanks": 2,
+    "spellID": 387805
+  },
+  {
+    "type": 0,
+    "spellIcon": 236247,
+    "nodeID": 81586,
+    "spellName": "Tower of Radiance",
+    "maxRanks": 1,
+    "spellID": 231642
+  },
+  {
+    "type": 0,
+    "spellIcon": 571557,
+    "nodeID": 81587,
+    "spellName": "Boundless Salvation",
+    "maxRanks": 1,
+    "spellID": 392951
+  },
+  {
+    "type": 0,
+    "spellIcon": 1122562,
+    "nodeID": 81588,
+    "spellName": "Tyr's Deliverance",
+    "maxRanks": 1,
+    "spellID": 200652
+  },
+  {
+    "type": 0,
+    "spellIcon": 236248,
+    "nodeID": 81589,
+    "spellName": "Power of the Silver Hand",
+    "maxRanks": 1,
+    "spellID": 200474
+  },
+  {
+    "type": 0,
+    "spellIcon": 135934,
+    "nodeID": 81590,
+    "spellName": "Relentless Inquisitor",
+    "maxRanks": 2,
+    "spellID": 383388
+  },
+  {
+    "type": 2,
+    "spellIcon": 348566,
+    "nodeID": 81591,
+    "spellName": "Inflorescence of the Sunwell",
+    "maxRanks": 1,
+    "spellID": 392907
+  },
+  {
+    "type": 2,
+    "spellIcon": 1519263,
+    "nodeID": 81591,
+    "spellName": "Empyrean Legacy",
+    "maxRanks": 1,
+    "spellID": 387170
+  },
+  {
+    "type": 0,
+    "spellIcon": 898454,
+    "nodeID": 81592,
+    "spellName": "Awakening",
+    "maxRanks": 2,
+    "spellID": 248033
+  },
+  {
+    "type": 0,
+    "spellIcon": 3636845,
+    "nodeID": 81593,
+    "spellName": "Blessing of Summer",
+    "maxRanks": 1,
+    "spellID": 388007
+  },
+  {
+    "type": 0,
+    "spellIcon": 236266,
+    "nodeID": 81594,
+    "spellName": "Crusader's Might",
+    "maxRanks": 2,
+    "spellID": 196926
+  },
+  {
+    "type": 0,
+    "spellIcon": 1360764,
+    "nodeID": 81595,
+    "spellName": "Glimmer of Light",
+    "maxRanks": 1,
+    "spellID": 325966
+  },
+  {
+    "type": 0,
+    "spellIcon": 3565448,
+    "nodeID": 81596,
+    "spellName": "Divine Resonance",
+    "maxRanks": 1,
+    "spellID": 387893
+  },
+  {
+    "type": 0,
+    "spellIcon": 135928,
+    "nodeID": 81597,
+    "spellName": "Lay on Hands",
+    "maxRanks": 1,
+    "spellID": 633
+  },
+  {
+    "type": 2,
+    "spellIcon": 135942,
+    "nodeID": 81598,
+    "spellName": "Repentance",
+    "maxRanks": 1,
+    "spellID": 20066
+  },
+  {
+    "type": 2,
+    "spellIcon": 571553,
+    "nodeID": 81598,
+    "spellName": "Blinding Light",
+    "maxRanks": 1,
+    "spellID": 115750
+  },
+  {
+    "type": 0,
+    "spellIcon": 135893,
+    "nodeID": 81599,
+    "spellName": "Auras of the Resolute",
+    "maxRanks": 1,
+    "spellID": 385633
+  },
+  {
+    "type": 0,
+    "spellIcon": 135968,
+    "nodeID": 81600,
+    "spellName": "Blessing of Freedom",
+    "maxRanks": 1,
+    "spellID": 1044
+  },
+  {
+    "type": 0,
+    "spellIcon": 135889,
+    "nodeID": 81601,
+    "spellName": "Auras of Swift Vengeance",
+    "maxRanks": 1,
+    "spellID": 385639
+  },
+  {
+    "type": 0,
+    "spellIcon": 135906,
+    "nodeID": 81602,
+    "spellName": "Fist of Justice",
+    "maxRanks": 2,
+    "spellID": 234299
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 523893,
+    "nodeID": 81604,
+    "spellName": "Rebuke",
+    "maxRanks": 1,
+    "spellID": 96231
+  },
+  {
+    "type": 0,
+    "spellIcon": 1360759,
+    "nodeID": 81605,
+    "spellName": "Cavalier",
+    "maxRanks": 1,
+    "spellID": 230332
+  },
+  {
+    "type": 0,
+    "spellIcon": 135875,
+    "nodeID": 81606,
+    "spellName": "Avenging Wrath",
+    "maxRanks": 1,
+    "spellID": 31884
+  },
+  {
+    "type": 2,
+    "spellIcon": 135966,
+    "nodeID": 81607,
+    "spellName": "Sacrifice of the Just",
+    "maxRanks": 1,
+    "spellID": 384820
+  },
+  {
+    "type": 2,
+    "spellIcon": 1786407,
+    "nodeID": 81607,
+    "spellName": "Recompense",
+    "maxRanks": 1,
+    "spellID": 384914
+  },
+  {
+    "type": 0,
+    "spellIcon": 237541,
+    "nodeID": 81608,
+    "spellName": "Judgment of Light",
+    "maxRanks": 1,
+    "spellID": 183778
+  },
+  {
+    "type": 0,
+    "spellIcon": 236267,
+    "nodeID": 81609,
+    "spellName": "Holy Aegis",
+    "maxRanks": 2,
+    "spellID": 385515
+  },
+  {
+    "type": 0,
+    "spellIcon": 612098,
+    "nodeID": 81610,
+    "spellName": "Golden Path",
+    "maxRanks": 1,
+    "spellID": 377128
+  },
+  {
+    "type": 0,
+    "spellIcon": 135910,
+    "nodeID": 81611,
+    "spellName": "Seal of Mercy",
+    "maxRanks": 2,
+    "spellID": 384897
+  },
+  {
+    "type": 0,
+    "spellIcon": 1386546,
+    "nodeID": 81612,
+    "spellName": "Seal of Clarity",
+    "maxRanks": 2,
+    "spellID": 384815
+  },
+  {
+    "type": 0,
+    "spellIcon": 237537,
+    "nodeID": 81613,
+    "spellName": "Afterimage",
+    "maxRanks": 1,
+    "spellID": 385414
+  },
+  {
+    "type": 0,
+    "spellIcon": 135966,
+    "nodeID": 81614,
+    "spellName": "Blessing of Sacrifice",
+    "maxRanks": 1,
+    "spellID": 6940
+  },
+  {
+    "type": 0,
+    "spellIcon": 135921,
+    "nodeID": 81615,
+    "spellName": "Unbreakable Spirit",
+    "maxRanks": 1,
+    "spellID": 114154
+  },
+  {
+    "type": 0,
+    "spellIcon": 135964,
+    "nodeID": 81616,
+    "spellName": "Blessing of Protection",
+    "maxRanks": 1,
+    "spellID": 1022
+  },
+  {
+    "type": 0,
+    "spellIcon": 135964,
+    "nodeID": 81617,
+    "spellName": "Improved Blessing of Protection",
+    "maxRanks": 1,
+    "spellID": 384909
+  },
+  {
+    "type": 2,
+    "spellIcon": 135897,
+    "nodeID": 81618,
+    "spellName": "Divine Purpose",
+    "maxRanks": 1,
+    "spellID": 223817
+  },
+  {
+    "type": 2,
+    "spellIcon": 571555,
+    "nodeID": 81618,
+    "spellName": "Holy Avenger",
+    "maxRanks": 1,
+    "spellID": 105809
+  },
+  {
+    "type": 0,
+    "spellIcon": 135969,
+    "nodeID": 81619,
+    "spellName": "Seal of Alacrity",
+    "maxRanks": 2,
+    "spellID": 385425
+  },
+  {
+    "type": 2,
+    "spellIcon": 135875,
+    "nodeID": 81620,
+    "spellName": "Avenging Wrath",
+    "maxRanks": 1,
+    "spellID": 31884
+  },
+  {
+    "type": 2,
+    "spellIcon": 1030103,
+    "nodeID": 81620,
+    "spellName": "Seraphim",
+    "maxRanks": 1,
+    "spellID": 152262
+  },
+  {
+    "type": 0,
+    "spellIcon": 135971,
+    "nodeID": 81621,
+    "spellName": "Seal of Might",
+    "maxRanks": 2,
+    "spellID": 385450
+  },
+  {
+    "type": 0,
+    "spellIcon": 135905,
+    "nodeID": 81622,
+    "spellName": "Aspiration of Divinity",
+    "maxRanks": 2,
+    "spellID": 385416
+  },
+  {
+    "type": 0,
+    "spellIcon": 135970,
+    "nodeID": 81623,
+    "spellName": "Seal of Order",
+    "maxRanks": 1,
+    "spellID": 385129
+  },
+  {
+    "type": 0,
+    "spellIcon": 461859,
+    "nodeID": 81624,
+    "spellName": "Of Dusk and Dawn",
+    "maxRanks": 1,
+    "spellID": 385125
+  },
+  {
+    "type": 0,
+    "spellIcon": 460689,
+    "nodeID": 81625,
+    "spellName": "Zealot's Paragon",
+    "maxRanks": 1,
+    "spellID": 391142
+  },
+  {
+    "type": 0,
+    "spellIcon": 135924,
+    "nodeID": 81626,
+    "spellName": "Seal of the Crusader",
+    "maxRanks": 2,
+    "spellID": 385728
+  },
+  {
+    "type": 0,
+    "spellIcon": 571558,
+    "nodeID": 81627,
+    "spellName": "Obduracy",
+    "maxRanks": 1,
+    "spellID": 385427
+  },
+  {
+    "type": 2,
+    "spellIcon": 135265,
+    "nodeID": 81628,
+    "spellName": "Incandescence",
+    "maxRanks": 1,
+    "spellID": 385464
+  },
+  {
+    "type": 2,
+    "spellIcon": 574795,
+    "nodeID": 81628,
+    "spellName": "Touch of Light",
+    "maxRanks": 1,
+    "spellID": 385349
+  },
+  {
+    "type": 0,
+    "spellIcon": 135962,
+    "nodeID": 81629,
+    "spellName": "Seal of Reprisal",
+    "maxRanks": 2,
+    "spellID": 377053
+  },
+  {
+    "type": 0,
+    "spellIcon": 571559,
+    "nodeID": 81630,
+    "spellName": "Turn Evil",
+    "maxRanks": 1,
+    "spellID": 10326
+  },
+  {
+    "type": 2,
+    "spellIcon": 136103,
+    "nodeID": 81631,
+    "spellName": "Seasoned Warhorse",
+    "maxRanks": 1,
+    "spellID": 376996
+  },
+  {
+    "type": 2,
+    "spellIcon": 236246,
+    "nodeID": 81631,
+    "spellName": "Seal of the Templar",
+    "maxRanks": 1,
+    "spellID": 377016
+  },
+  {
+    "type": 0,
+    "spellIcon": 1360759,
+    "nodeID": 81632,
+    "spellName": "Divine Steed",
+    "maxRanks": 1,
+    "spellID": 190784
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 135959,
+    "nodeID": 92220,
+    "spellName": "Judgment",
+    "maxRanks": 1,
+    "spellID": 231644
+  }
+]

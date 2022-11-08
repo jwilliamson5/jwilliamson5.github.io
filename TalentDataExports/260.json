@@ -1,0 +1,986 @@
+[
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 132108,
+    "nodeID": 90636,
+    "spellName": "Master Poisoner",
+    "maxRanks": 1,
+    "spellID": 378436
+  },
+  {
+    "type": 0,
+    "spellIcon": 134197,
+    "nodeID": 90637,
+    "spellName": "Improved Wound Poison",
+    "maxRanks": 1,
+    "spellID": 319066
+  },
+  {
+    "type": 2,
+    "spellIcon": 3565450,
+    "nodeID": 90638,
+    "spellName": "Resounding Clarity",
+    "maxRanks": 1,
+    "spellID": 381622
+  },
+  {
+    "type": 2,
+    "spellIcon": 3528283,
+    "nodeID": 90638,
+    "spellName": "Reverberation",
+    "maxRanks": 1,
+    "spellID": 394332
+  },
+  {
+    "type": 0,
+    "spellIcon": 3565450,
+    "nodeID": 90639,
+    "spellName": "Echoing Reprimand",
+    "maxRanks": 1,
+    "spellID": 385616
+  },
+  {
+    "type": 0,
+    "spellIcon": 237031,
+    "nodeID": 90640,
+    "spellName": "Recuperator",
+    "maxRanks": 1,
+    "spellID": 378996
+  },
+  {
+    "type": 0,
+    "spellIcon": 132282,
+    "nodeID": 90641,
+    "spellName": "Audacity",
+    "maxRanks": 1,
+    "spellID": 381845
+  },
+  {
+    "type": 0,
+    "spellIcon": 136189,
+    "nodeID": 90642,
+    "spellName": "Heavy Hitter",
+    "maxRanks": 1,
+    "spellID": 381885
+  },
+  {
+    "type": 0,
+    "spellIcon": 133592,
+    "nodeID": 90643,
+    "spellName": "Blinding Powder",
+    "maxRanks": 1,
+    "spellID": 256165
+  },
+  {
+    "type": 0,
+    "spellIcon": 1016243,
+    "nodeID": 90644,
+    "spellName": "Blade Rush",
+    "maxRanks": 1,
+    "spellID": 271877
+  },
+  {
+    "type": 0,
+    "spellIcon": 460691,
+    "nodeID": 90645,
+    "spellName": "Dirty Tricks",
+    "maxRanks": 1,
+    "spellID": 108216
+  },
+  {
+    "type": 0,
+    "spellIcon": 135673,
+    "nodeID": 90646,
+    "spellName": "Combat Potency",
+    "maxRanks": 1,
+    "spellID": 61329
+  },
+  {
+    "type": 0,
+    "spellIcon": 1035036,
+    "nodeID": 90647,
+    "spellName": "Weaponmaster",
+    "maxRanks": 1,
+    "spellID": 200733
+  },
+  {
+    "type": 0,
+    "spellIcon": 460692,
+    "nodeID": 90648,
+    "spellName": "Combat Stamina",
+    "maxRanks": 1,
+    "spellID": 381877
+  },
+  {
+    "type": 0,
+    "spellIcon": 132306,
+    "nodeID": 90649,
+    "spellName": "Swift Slasher",
+    "maxRanks": 1,
+    "spellID": 381988
+  },
+  {
+    "type": 0,
+    "spellIcon": 2059634,
+    "nodeID": 90650,
+    "spellName": "Float Like a Butterfly",
+    "maxRanks": 1,
+    "spellID": 354897
+  },
+  {
+    "type": 0,
+    "spellIcon": 237285,
+    "nodeID": 90651,
+    "spellName": "Sleight of Hand",
+    "maxRanks": 1,
+    "spellID": 381839
+  },
+  {
+    "type": 0,
+    "spellIcon": 4667423,
+    "nodeID": 90652,
+    "spellName": "Keep It Rolling",
+    "maxRanks": 1,
+    "spellID": 381989
+  },
+  {
+    "type": 0,
+    "spellIcon": 236286,
+    "nodeID": 90653,
+    "spellName": "Summarily Dispatched",
+    "maxRanks": 2,
+    "spellID": 381990
+  },
+  {
+    "type": 0,
+    "spellIcon": 136206,
+    "nodeID": 90654,
+    "spellName": "Improved Adrenaline Rush",
+    "maxRanks": 1,
+    "spellID": 395422
+  },
+  {
+    "type": 0,
+    "spellIcon": 237284,
+    "nodeID": 90655,
+    "spellName": "Count the Odds",
+    "maxRanks": 2,
+    "spellID": 381982
+  },
+  {
+    "type": 0,
+    "spellIcon": 1373910,
+    "nodeID": 90656,
+    "spellName": "Loaded Dice",
+    "maxRanks": 1,
+    "spellID": 256170
+  },
+  {
+    "type": 0,
+    "spellIcon": 1373910,
+    "nodeID": 90657,
+    "spellName": "Roll the Bones",
+    "maxRanks": 1,
+    "spellID": 315508
+  },
+  {
+    "type": 0,
+    "spellIcon": 458731,
+    "nodeID": 90658,
+    "spellName": "Restless Blades",
+    "maxRanks": 1,
+    "spellID": 79096
+  },
+  {
+    "type": 0,
+    "spellIcon": 136206,
+    "nodeID": 90659,
+    "spellName": "Adrenaline Rush",
+    "maxRanks": 1,
+    "spellID": 13750
+  },
+  {
+    "type": 0,
+    "spellIcon": 3527517,
+    "nodeID": 90660,
+    "spellName": "Ambidexterity",
+    "maxRanks": 1,
+    "spellID": 381822
+  },
+  {
+    "type": 0,
+    "spellIcon": 132336,
+    "nodeID": 90661,
+    "spellName": "Riposte",
+    "maxRanks": 1,
+    "spellID": 344363
+  },
+  {
+    "type": 0,
+    "spellIcon": 236285,
+    "nodeID": 90662,
+    "spellName": "Fatal Flourish",
+    "maxRanks": 1,
+    "spellID": 35551
+  },
+  {
+    "type": 0,
+    "spellIcon": 331438,
+    "nodeID": 90663,
+    "spellName": "Quick Draw",
+    "maxRanks": 1,
+    "spellID": 196938
+  },
+  {
+    "type": 2,
+    "spellIcon": 236277,
+    "nodeID": 90664,
+    "spellName": "Killing Spree",
+    "maxRanks": 1,
+    "spellID": 51690
+  },
+  {
+    "type": 2,
+    "spellIcon": 1301078,
+    "nodeID": 90664,
+    "spellName": "Dreadblades",
+    "maxRanks": 1,
+    "spellID": 343142
+  },
+  {
+    "type": 0,
+    "spellIcon": 132096,
+    "nodeID": 90665,
+    "spellName": "Greenskin's Wickers",
+    "maxRanks": 1,
+    "spellID": 386823
+  },
+  {
+    "type": 0,
+    "spellIcon": 1373908,
+    "nodeID": 90666,
+    "spellName": "Fan the Hammer",
+    "maxRanks": 2,
+    "spellID": 381846
+  },
+  {
+    "type": 0,
+    "spellIcon": 132350,
+    "nodeID": 90667,
+    "spellName": "Precise Cuts",
+    "maxRanks": 1,
+    "spellID": 381985
+  },
+  {
+    "type": 0,
+    "spellIcon": 135651,
+    "nodeID": 90668,
+    "spellName": "Improved Main Gauche",
+    "maxRanks": 2,
+    "spellID": 382746
+  },
+  {
+    "type": 0,
+    "spellIcon": 132350,
+    "nodeID": 90669,
+    "spellName": "Dancing Steel",
+    "maxRanks": 1,
+    "spellID": 272026
+  },
+  {
+    "type": 0,
+    "spellIcon": 135610,
+    "nodeID": 90670,
+    "spellName": "Ace Up Your Sleeve",
+    "maxRanks": 1,
+    "spellID": 381828
+  },
+  {
+    "type": 0,
+    "spellIcon": 135610,
+    "nodeID": 90671,
+    "spellName": "Improved Between the Eyes",
+    "maxRanks": 1,
+    "spellID": 235484
+  },
+  {
+    "type": 0,
+    "spellIcon": 589068,
+    "nodeID": 90672,
+    "spellName": "Deft Maneuvers",
+    "maxRanks": 1,
+    "spellID": 381878
+  },
+  {
+    "type": 0,
+    "spellIcon": 132296,
+    "nodeID": 90673,
+    "spellName": "Hit and Run",
+    "maxRanks": 1,
+    "spellID": 196922
+  },
+  {
+    "type": 0,
+    "spellIcon": 132350,
+    "nodeID": 90674,
+    "spellName": "Blade Flurry",
+    "maxRanks": 1,
+    "spellID": 13877
+  },
+  {
+    "type": 0,
+    "spellIcon": 132282,
+    "nodeID": 90675,
+    "spellName": "Hidden Opportunity",
+    "maxRanks": 1,
+    "spellID": 383281
+  },
+  {
+    "type": 0,
+    "spellIcon": 132320,
+    "nodeID": 90676,
+    "spellName": "Take 'em by Surprise",
+    "maxRanks": 2,
+    "spellID": 382742
+  },
+  {
+    "type": 2,
+    "spellIcon": 3636848,
+    "nodeID": 90677,
+    "spellName": "Sepsis",
+    "maxRanks": 1,
+    "spellID": 385408
+  },
+  {
+    "type": 2,
+    "spellIcon": 132094,
+    "nodeID": 90677,
+    "spellName": "Ghostly Strike",
+    "maxRanks": 1,
+    "spellID": 196937
+  },
+  {
+    "type": 0,
+    "spellIcon": 132147,
+    "nodeID": 90678,
+    "spellName": "Triple Threat",
+    "maxRanks": 2,
+    "spellID": 381894
+  },
+  {
+    "type": 0,
+    "spellIcon": 644377,
+    "nodeID": 90679,
+    "spellName": "Devious Stratagem",
+    "maxRanks": 1,
+    "spellID": 394321
+  },
+  {
+    "type": 0,
+    "spellIcon": 132122,
+    "nodeID": 90680,
+    "spellName": "Ruthlessness",
+    "maxRanks": 1,
+    "spellID": 14161
+  },
+  {
+    "type": 0,
+    "spellIcon": 1373906,
+    "nodeID": 90681,
+    "spellName": "Retractable Hook",
+    "maxRanks": 1,
+    "spellID": 256188
+  },
+  {
+    "type": 0,
+    "spellIcon": 1373906,
+    "nodeID": 90682,
+    "spellName": "Grappling Hook",
+    "maxRanks": 1,
+    "spellID": 195457
+  },
+  {
+    "type": 0,
+    "spellIcon": 136189,
+    "nodeID": 90683,
+    "spellName": "Opportunity",
+    "maxRanks": 1,
+    "spellID": 279876
+  },
+  {
+    "type": 0,
+    "spellIcon": 136175,
+    "nodeID": 90684,
+    "spellName": "Blind",
+    "maxRanks": 1,
+    "spellID": 2094
+  },
+  {
+    "type": 0,
+    "spellIcon": 132310,
+    "nodeID": 90685,
+    "spellName": "Sap",
+    "maxRanks": 1,
+    "spellID": 6770
+  },
+  {
+    "type": 0,
+    "spellIcon": 236283,
+    "nodeID": 90686,
+    "spellName": "Tricks of the Trade",
+    "maxRanks": 1,
+    "spellID": 57934
+  },
+  {
+    "type": 0,
+    "spellIcon": 132320,
+    "nodeID": 90687,
+    "spellName": "Shadowrunner",
+    "maxRanks": 1,
+    "spellID": 378807
+  },
+  {
+    "type": 0,
+    "spellIcon": 571317,
+    "nodeID": 90688,
+    "spellName": "Subterfuge",
+    "maxRanks": 1,
+    "spellID": 108208
+  },
+  {
+    "type": 0,
+    "spellIcon": 236279,
+    "nodeID": 90689,
+    "spellName": "Shadow Dance",
+    "maxRanks": 1,
+    "spellID": 185313
+  },
+  {
+    "type": 0,
+    "spellIcon": 132295,
+    "nodeID": 90690,
+    "spellName": "Find Weakness",
+    "maxRanks": 2,
+    "spellID": 91023
+  },
+  {
+    "type": 0,
+    "spellIcon": 136223,
+    "nodeID": 90691,
+    "spellName": "Soothing Darkness",
+    "maxRanks": 1,
+    "spellID": 393970
+  },
+  {
+    "type": 0,
+    "spellIcon": 132282,
+    "nodeID": 90692,
+    "spellName": "Improved Ambush",
+    "maxRanks": 1,
+    "spellID": 381620
+  },
+  {
+    "type": 0,
+    "spellIcon": 132320,
+    "nodeID": 90693,
+    "spellName": "Nightstalker",
+    "maxRanks": 2,
+    "spellID": 14062
+  },
+  {
+    "type": 0,
+    "spellIcon": 133786,
+    "nodeID": 90694,
+    "spellName": "Tight Spender",
+    "maxRanks": 1,
+    "spellID": 381621
+  },
+  {
+    "type": 0,
+    "spellIcon": 132303,
+    "nodeID": 90695,
+    "spellName": "Shadowstep",
+    "maxRanks": 1,
+    "spellID": 36554
+  },
+  {
+    "type": 0,
+    "spellIcon": 132310,
+    "nodeID": 90696,
+    "spellName": "Blackjack",
+    "maxRanks": 1,
+    "spellID": 379005
+  },
+  {
+    "type": 0,
+    "spellIcon": 136177,
+    "nodeID": 90697,
+    "spellName": "Cloak of Shadows",
+    "maxRanks": 1,
+    "spellID": 31224
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 135428,
+    "nodeID": 90740,
+    "spellName": "Shiv",
+    "maxRanks": 1,
+    "spellID": 5938
+  },
+  {
+    "type": 0,
+    "spellIcon": 132155,
+    "nodeID": 90741,
+    "spellName": "Gouge",
+    "maxRanks": 1,
+    "spellID": 1776
+  },
+  {
+    "type": 0,
+    "spellIcon": 132294,
+    "nodeID": 90742,
+    "spellName": "Feint",
+    "maxRanks": 1,
+    "spellID": 1966
+  },
+  {
+    "type": 0,
+    "spellIcon": 132300,
+    "nodeID": 90743,
+    "spellName": "Deadened Nerves",
+    "maxRanks": 1,
+    "spellID": 231719
+  },
+  {
+    "type": 0,
+    "spellIcon": 237415,
+    "nodeID": 90744,
+    "spellName": "Iron Stomach",
+    "maxRanks": 1,
+    "spellID": 193546
+  },
+  {
+    "type": 0,
+    "spellIcon": 1373904,
+    "nodeID": 90745,
+    "spellName": "Nimble Fingers",
+    "maxRanks": 1,
+    "spellID": 378427
+  },
+  {
+    "type": 0,
+    "spellIcon": 132307,
+    "nodeID": 90746,
+    "spellName": "Improved Sprint",
+    "maxRanks": 1,
+    "spellID": 231691
+  },
+  {
+    "type": 2,
+    "spellIcon": 236284,
+    "nodeID": 90747,
+    "spellName": "Elusiveness",
+    "maxRanks": 1,
+    "spellID": 79008
+  },
+  {
+    "type": 2,
+    "spellIcon": 132285,
+    "nodeID": 90747,
+    "spellName": "Cheat Death",
+    "maxRanks": 1,
+    "spellID": 31230
+  },
+  {
+    "type": 0,
+    "spellIcon": 135988,
+    "nodeID": 90748,
+    "spellName": "Cold Blood",
+    "maxRanks": 1,
+    "spellID": 382245
+  },
+  {
+    "type": 0,
+    "spellIcon": 132109,
+    "nodeID": 90749,
+    "spellName": "Lethality",
+    "maxRanks": 2,
+    "spellID": 382238
+  },
+  {
+    "type": 2,
+    "spellIcon": 644377,
+    "nodeID": 90750,
+    "spellName": "Deeper Stratagem",
+    "maxRanks": 1,
+    "spellID": 193531
+  },
+  {
+    "type": 2,
+    "spellIcon": 236364,
+    "nodeID": 90750,
+    "spellName": "Marked for Death",
+    "maxRanks": 1,
+    "spellID": 137619
+  },
+  {
+    "type": 0,
+    "spellIcon": 571558,
+    "nodeID": 90751,
+    "spellName": "Alacrity",
+    "maxRanks": 2,
+    "spellID": 193539
+  },
+  {
+    "type": 0,
+    "spellIcon": 589068,
+    "nodeID": 90752,
+    "spellName": "Acrobatic Strikes",
+    "maxRanks": 1,
+    "spellID": 196924
+  },
+  {
+    "type": 0,
+    "spellIcon": 636277,
+    "nodeID": 90753,
+    "spellName": "Thief's Versatility",
+    "maxRanks": 2,
+    "spellID": 381619
+  },
+  {
+    "type": 0,
+    "spellIcon": 1029589,
+    "nodeID": 90754,
+    "spellName": "Rushed Setup",
+    "maxRanks": 1,
+    "spellID": 378803
+  },
+  {
+    "type": 0,
+    "spellIcon": 236278,
+    "nodeID": 90755,
+    "spellName": "Prey on the Weak",
+    "maxRanks": 1,
+    "spellID": 131511
+  },
+  {
+    "type": 0,
+    "spellIcon": 132819,
+    "nodeID": 90756,
+    "spellName": "Thistle Tea",
+    "maxRanks": 1,
+    "spellID": 381623
+  },
+  {
+    "type": 0,
+    "spellIcon": 236281,
+    "nodeID": 90757,
+    "spellName": "Seal Fate",
+    "maxRanks": 2,
+    "spellID": 14190
+  },
+  {
+    "type": 0,
+    "spellIcon": 538440,
+    "nodeID": 90758,
+    "spellName": "Leeching Poison",
+    "maxRanks": 1,
+    "spellID": 280716
+  },
+  {
+    "type": 0,
+    "spellIcon": 458737,
+    "nodeID": 90759,
+    "spellName": "Vigor",
+    "maxRanks": 1,
+    "spellID": 14983
+  },
+  {
+    "type": 0,
+    "spellIcon": 132286,
+    "nodeID": 90760,
+    "spellName": "Deadly Precision",
+    "maxRanks": 2,
+    "spellID": 381542
+  },
+  {
+    "type": 0,
+    "spellIcon": 132108,
+    "nodeID": 90761,
+    "spellName": "Virulent Poisons",
+    "maxRanks": 1,
+    "spellID": 381543
+  },
+  {
+    "type": 0,
+    "spellIcon": 132301,
+    "nodeID": 90762,
+    "spellName": "Fleet Footed",
+    "maxRanks": 1,
+    "spellID": 378813
+  },
+  {
+    "type": 2,
+    "spellIcon": 136066,
+    "nodeID": 90763,
+    "spellName": "Numbing Poison",
+    "maxRanks": 1,
+    "spellID": 5761
+  },
+  {
+    "type": 2,
+    "spellIcon": 132300,
+    "nodeID": 90763,
+    "spellName": "Atrophic Poison",
+    "maxRanks": 1,
+    "spellID": 381637
+  },
+  {
+    "type": 0,
+    "spellIcon": 136205,
+    "nodeID": 90764,
+    "spellName": "Evasion",
+    "maxRanks": 1,
+    "spellID": 5277
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  }
+]

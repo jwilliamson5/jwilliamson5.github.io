@@ -1,0 +1,962 @@
+[
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 135836,
+    "nodeID": 76044,
+    "spellName": "Blinding Sleet",
+    "maxRanks": 1,
+    "spellID": 207167
+  },
+  {
+    "type": 0,
+    "spellIcon": 237527,
+    "nodeID": 76045,
+    "spellName": "Coldthirst",
+    "maxRanks": 1,
+    "spellID": 378848
+  },
+  {
+    "type": 0,
+    "spellIcon": 136120,
+    "nodeID": 76046,
+    "spellName": "Anti-Magic Barrier",
+    "maxRanks": 1,
+    "spellID": 205727
+  },
+  {
+    "type": 0,
+    "spellIcon": 237525,
+    "nodeID": 76047,
+    "spellName": "Acclimation",
+    "maxRanks": 1,
+    "spellID": 373926
+  },
+  {
+    "type": 0,
+    "spellIcon": 237510,
+    "nodeID": 76048,
+    "spellName": "Assimilation",
+    "maxRanks": 1,
+    "spellID": 374383
+  },
+  {
+    "type": 0,
+    "spellIcon": 3578196,
+    "nodeID": 76049,
+    "spellName": "Abomination Limb",
+    "maxRanks": 1,
+    "spellID": 383269
+  },
+  {
+    "type": 0,
+    "spellIcon": 135372,
+    "nodeID": 76050,
+    "spellName": "Empower Rune Weapon",
+    "maxRanks": 1,
+    "spellID": 47568
+  },
+  {
+    "type": 0,
+    "spellIcon": 252994,
+    "nodeID": 76051,
+    "spellName": "Icy Talons",
+    "maxRanks": 2,
+    "spellID": 194878
+  },
+  {
+    "type": 0,
+    "spellIcon": 132291,
+    "nodeID": 76052,
+    "spellName": "Gloom Ward",
+    "maxRanks": 1,
+    "spellID": 391571
+  },
+  {
+    "type": 0,
+    "spellIcon": 636333,
+    "nodeID": 76053,
+    "spellName": "Soul Reaper",
+    "maxRanks": 1,
+    "spellID": 343294
+  },
+  {
+    "type": 0,
+    "spellIcon": 254094,
+    "nodeID": 76054,
+    "spellName": "Will of the Necropolis",
+    "maxRanks": 2,
+    "spellID": 206967
+  },
+  {
+    "type": 0,
+    "spellIcon": 1112519,
+    "nodeID": 76055,
+    "spellName": "Unholy Bond",
+    "maxRanks": 2,
+    "spellID": 374261
+  },
+  {
+    "type": 0,
+    "spellIcon": 237022,
+    "nodeID": 76056,
+    "spellName": "Death's Echo",
+    "maxRanks": 1,
+    "spellID": 356367
+  },
+  {
+    "type": 2,
+    "spellIcon": 237532,
+    "nodeID": 76057,
+    "spellName": "Death's Reach",
+    "maxRanks": 1,
+    "spellID": 276079
+  },
+  {
+    "type": 2,
+    "spellIcon": 132102,
+    "nodeID": 76057,
+    "spellName": "Grip of the Dead",
+    "maxRanks": 1,
+    "spellID": 273952
+  },
+  {
+    "type": 0,
+    "spellIcon": 538768,
+    "nodeID": 76058,
+    "spellName": "Unholy Ground",
+    "maxRanks": 1,
+    "spellID": 374265
+  },
+  {
+    "type": 0,
+    "spellIcon": 237273,
+    "nodeID": 76059,
+    "spellName": "Control Undead",
+    "maxRanks": 1,
+    "spellID": 111673
+  },
+  {
+    "type": 0,
+    "spellIcon": 132103,
+    "nodeID": 76060,
+    "spellName": "Enfeeble",
+    "maxRanks": 1,
+    "spellID": 392566
+  },
+  {
+    "type": 0,
+    "spellIcon": 1117877,
+    "nodeID": 76061,
+    "spellName": "Brittle",
+    "maxRanks": 1,
+    "spellID": 374504
+  },
+  {
+    "type": 0,
+    "spellIcon": 636332,
+    "nodeID": 76062,
+    "spellName": "Clenching Grasp",
+    "maxRanks": 1,
+    "spellID": 389679
+  },
+  {
+    "type": 0,
+    "spellIcon": 237533,
+    "nodeID": 76063,
+    "spellName": "Unholy Endurance",
+    "maxRanks": 1,
+    "spellID": 389682
+  },
+  {
+    "type": 0,
+    "spellIcon": 538558,
+    "nodeID": 76064,
+    "spellName": "Asphyxiate",
+    "maxRanks": 1,
+    "spellID": 221562
+  },
+  {
+    "type": 0,
+    "spellIcon": 237510,
+    "nodeID": 76065,
+    "spellName": "Anti-Magic Zone",
+    "maxRanks": 1,
+    "spellID": 51052
+  },
+  {
+    "type": 0,
+    "spellIcon": 135769,
+    "nodeID": 76066,
+    "spellName": "Blood Scent",
+    "maxRanks": 1,
+    "spellID": 374030
+  },
+  {
+    "type": 0,
+    "spellIcon": 237517,
+    "nodeID": 76067,
+    "spellName": "Improved Death Strike",
+    "maxRanks": 1,
+    "spellID": 374277
+  },
+  {
+    "type": 0,
+    "spellIcon": 136005,
+    "nodeID": 76068,
+    "spellName": "Veteran of the Third War",
+    "maxRanks": 2,
+    "spellID": 48263
+  },
+  {
+    "type": 0,
+    "spellIcon": 1778226,
+    "nodeID": 76069,
+    "spellName": "March of Darkness",
+    "maxRanks": 1,
+    "spellID": 391546
+  },
+  {
+    "type": 0,
+    "spellIcon": 136120,
+    "nodeID": 76070,
+    "spellName": "Anti-Magic Shell",
+    "maxRanks": 1,
+    "spellID": 48707
+  },
+  {
+    "type": 0,
+    "spellIcon": 237517,
+    "nodeID": 76071,
+    "spellName": "Death Strike",
+    "maxRanks": 1,
+    "spellID": 49998
+  },
+  {
+    "type": 0,
+    "spellIcon": 1100170,
+    "nodeID": 76072,
+    "spellName": "Raise Dead",
+    "maxRanks": 1,
+    "spellID": 46585
+  },
+  {
+    "type": 0,
+    "spellIcon": 136144,
+    "nodeID": 76073,
+    "spellName": "Cleaving Strikes",
+    "maxRanks": 1,
+    "spellID": 316916
+  },
+  {
+    "type": 0,
+    "spellIcon": 136133,
+    "nodeID": 76074,
+    "spellName": "Sacrificial Pact",
+    "maxRanks": 1,
+    "spellID": 327574
+  },
+  {
+    "type": 0,
+    "spellIcon": 135769,
+    "nodeID": 76075,
+    "spellName": "Suppression",
+    "maxRanks": 1,
+    "spellID": 374049
+  },
+  {
+    "type": 0,
+    "spellIcon": 135769,
+    "nodeID": 76076,
+    "spellName": "Might of Thassarian",
+    "maxRanks": 1,
+    "spellID": 374111
+  },
+  {
+    "type": 0,
+    "spellIcon": 136146,
+    "nodeID": 76077,
+    "spellName": "Death Pact",
+    "maxRanks": 1,
+    "spellID": 48743
+  },
+  {
+    "type": 0,
+    "spellIcon": 1100041,
+    "nodeID": 76078,
+    "spellName": "Wraith Walk",
+    "maxRanks": 1,
+    "spellID": 212552
+  },
+  {
+    "type": 0,
+    "spellIcon": 1394887,
+    "nodeID": 76079,
+    "spellName": "Blood Draw",
+    "maxRanks": 2,
+    "spellID": 374598
+  },
+  {
+    "type": 0,
+    "spellIcon": 1376744,
+    "nodeID": 76080,
+    "spellName": "Rune Mastery",
+    "maxRanks": 2,
+    "spellID": 374574
+  },
+  {
+    "type": 0,
+    "spellIcon": 135834,
+    "nodeID": 76081,
+    "spellName": "Chains of Ice",
+    "maxRanks": 1,
+    "spellID": 45524
+  },
+  {
+    "type": 0,
+    "spellIcon": 237527,
+    "nodeID": 76082,
+    "spellName": "Mind Freeze",
+    "maxRanks": 1,
+    "spellID": 47528
+  },
+  {
+    "type": 0,
+    "spellIcon": 1031536,
+    "nodeID": 76083,
+    "spellName": "Permafrost",
+    "maxRanks": 1,
+    "spellID": 207200
+  },
+  {
+    "type": 0,
+    "spellIcon": 237525,
+    "nodeID": 76084,
+    "spellName": "Icebound Fortitude",
+    "maxRanks": 1,
+    "spellID": 48792
+  },
+  {
+    "type": 0,
+    "spellIcon": 135769,
+    "nodeID": 76085,
+    "spellName": "Merciless Strikes",
+    "maxRanks": 1,
+    "spellID": 373923
+  },
+  {
+    "type": 0,
+    "spellIcon": 135834,
+    "nodeID": 76086,
+    "spellName": "Proliferating Chill",
+    "maxRanks": 1,
+    "spellID": 373930
+  },
+  {
+    "type": 0,
+    "spellIcon": 1323035,
+    "nodeID": 76087,
+    "spellName": "Runic Attenuation",
+    "maxRanks": 1,
+    "spellID": 207104
+  },
+  {
+    "type": 0,
+    "spellIcon": 2446023,
+    "nodeID": 76088,
+    "spellName": "Insidious Chill",
+    "maxRanks": 1,
+    "spellID": 391566
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 2,
+    "spellIcon": 3578226,
+    "nodeID": 76148,
+    "spellName": "Magus of the Dead",
+    "maxRanks": 1,
+    "spellID": 390196
+  },
+  {
+    "type": 2,
+    "spellIcon": 1392566,
+    "nodeID": 76148,
+    "spellName": "Ruptured Viscera",
+    "maxRanks": 1,
+    "spellID": 390236
+  },
+  {
+    "type": 0,
+    "spellIcon": 136159,
+    "nodeID": 76149,
+    "spellName": "Commander of the Dead",
+    "maxRanks": 1,
+    "spellID": 390259
+  },
+  {
+    "type": 0,
+    "spellIcon": 1390942,
+    "nodeID": 76150,
+    "spellName": "Unholy Aura",
+    "maxRanks": 2,
+    "spellID": 377440
+  },
+  {
+    "type": 0,
+    "spellIcon": 136224,
+    "nodeID": 76151,
+    "spellName": "Unholy Assault",
+    "maxRanks": 1,
+    "spellID": 207289
+  },
+  {
+    "type": 0,
+    "spellIcon": 4667413,
+    "nodeID": 76152,
+    "spellName": "Festermight",
+    "maxRanks": 2,
+    "spellID": 377590
+  },
+  {
+    "type": 0,
+    "spellIcon": 1392565,
+    "nodeID": 76153,
+    "spellName": "Army of the Damned",
+    "maxRanks": 1,
+    "spellID": 276837
+  },
+  {
+    "type": 0,
+    "spellIcon": 460695,
+    "nodeID": 76154,
+    "spellName": "Ghoulish Frenzy",
+    "maxRanks": 2,
+    "spellID": 377587
+  },
+  {
+    "type": 0,
+    "spellIcon": 237521,
+    "nodeID": 76155,
+    "spellName": "Superstrain",
+    "maxRanks": 1,
+    "spellID": 390283
+  },
+  {
+    "type": 0,
+    "spellIcon": 876914,
+    "nodeID": 76156,
+    "spellName": "Coil of Devastation",
+    "maxRanks": 1,
+    "spellID": 390270
+  },
+  {
+    "type": 0,
+    "spellIcon": 1029009,
+    "nodeID": 76157,
+    "spellName": "Pestilence",
+    "maxRanks": 1,
+    "spellID": 277234
+  },
+  {
+    "type": 0,
+    "spellIcon": 132095,
+    "nodeID": 76158,
+    "spellName": "Death Rot",
+    "maxRanks": 1,
+    "spellID": 377537
+  },
+  {
+    "type": 0,
+    "spellIcon": 136182,
+    "nodeID": 76159,
+    "spellName": "Vile Contagion",
+    "maxRanks": 1,
+    "spellID": 390279
+  },
+  {
+    "type": 0,
+    "spellIcon": 132100,
+    "nodeID": 76160,
+    "spellName": "Pestilent Pustules",
+    "maxRanks": 1,
+    "spellID": 194917
+  },
+  {
+    "type": 0,
+    "spellIcon": 136066,
+    "nodeID": 76161,
+    "spellName": "Epidemic",
+    "maxRanks": 1,
+    "spellID": 207317
+  },
+  {
+    "type": 0,
+    "spellIcon": 136132,
+    "nodeID": 76162,
+    "spellName": "Unholy Blight",
+    "maxRanks": 1,
+    "spellID": 115989
+  },
+  {
+    "type": 0,
+    "spellIcon": 1129420,
+    "nodeID": 76163,
+    "spellName": "Replenishing Wounds",
+    "maxRanks": 1,
+    "spellID": 377585
+  },
+  {
+    "type": 2,
+    "spellIcon": 236158,
+    "nodeID": 76164,
+    "spellName": "Bursting Sores",
+    "maxRanks": 1,
+    "spellID": 207264
+  },
+  {
+    "type": 2,
+    "spellIcon": 136134,
+    "nodeID": 76164,
+    "spellName": "Ebon Fever",
+    "maxRanks": 1,
+    "spellID": 207269
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 136181,
+    "nodeID": 76175,
+    "spellName": "Harbinger of Doom",
+    "maxRanks": 1,
+    "spellID": 276023
+  },
+  {
+    "type": 0,
+    "spellIcon": 458967,
+    "nodeID": 76176,
+    "spellName": "Summon Gargoyle",
+    "maxRanks": 1,
+    "spellID": 49206
+  },
+  {
+    "type": 0,
+    "spellIcon": 538039,
+    "nodeID": 76177,
+    "spellName": "Reaping",
+    "maxRanks": 1,
+    "spellID": 377514
+  },
+  {
+    "type": 0,
+    "spellIcon": 840190,
+    "nodeID": 76178,
+    "spellName": "Rotten Touch",
+    "maxRanks": 1,
+    "spellID": 390275
+  },
+  {
+    "type": 0,
+    "spellIcon": 136181,
+    "nodeID": 76179,
+    "spellName": "Sudden Doom",
+    "maxRanks": 1,
+    "spellID": 49530
+  },
+  {
+    "type": 2,
+    "spellIcon": 237557,
+    "nodeID": 76180,
+    "spellName": "Unholy Pact",
+    "maxRanks": 1,
+    "spellID": 319230
+  },
+  {
+    "type": 2,
+    "spellIcon": 1029008,
+    "nodeID": 76180,
+    "spellName": "Defile",
+    "maxRanks": 1,
+    "spellID": 152280
+  },
+  {
+    "type": 0,
+    "spellIcon": 132151,
+    "nodeID": 76181,
+    "spellName": "All Will Serve",
+    "maxRanks": 1,
+    "spellID": 194916
+  },
+  {
+    "type": 0,
+    "spellIcon": 237535,
+    "nodeID": 76182,
+    "spellName": "Infected Claws",
+    "maxRanks": 1,
+    "spellID": 207272
+  },
+  {
+    "type": 2,
+    "spellIcon": 135774,
+    "nodeID": 76183,
+    "spellName": "Plaguebringer",
+    "maxRanks": 1,
+    "spellID": 390175
+  },
+  {
+    "type": 2,
+    "spellIcon": 615099,
+    "nodeID": 76183,
+    "spellName": "Clawing Shadows",
+    "maxRanks": 1,
+    "spellID": 207311
+  },
+  {
+    "type": 0,
+    "spellIcon": 136145,
+    "nodeID": 76184,
+    "spellName": "Improved Death Coil",
+    "maxRanks": 2,
+    "spellID": 377580
+  },
+  {
+    "type": 0,
+    "spellIcon": 1392565,
+    "nodeID": 76185,
+    "spellName": "Apocalypse",
+    "maxRanks": 1,
+    "spellID": 275699
+  },
+  {
+    "type": 0,
+    "spellIcon": 538769,
+    "nodeID": 76186,
+    "spellName": "Runic Mastery",
+    "maxRanks": 2,
+    "spellID": 390166
+  },
+  {
+    "type": 0,
+    "spellIcon": 342913,
+    "nodeID": 76187,
+    "spellName": "Dark Transformation",
+    "maxRanks": 1,
+    "spellID": 63560
+  },
+  {
+    "type": 0,
+    "spellIcon": 1100170,
+    "nodeID": 76188,
+    "spellName": "Raise Dead",
+    "maxRanks": 1,
+    "spellID": 46584
+  },
+  {
+    "type": 0,
+    "spellIcon": 879926,
+    "nodeID": 76189,
+    "spellName": "Festering Strike",
+    "maxRanks": 1,
+    "spellID": 85948
+  },
+  {
+    "type": 0,
+    "spellIcon": 237530,
+    "nodeID": 76190,
+    "spellName": "Scourge Strike",
+    "maxRanks": 1,
+    "spellID": 55090
+  },
+  {
+    "type": 0,
+    "spellIcon": 348565,
+    "nodeID": 76191,
+    "spellName": "Outbreak",
+    "maxRanks": 1,
+    "spellID": 77575
+  },
+  {
+    "type": 0,
+    "spellIcon": 879926,
+    "nodeID": 76192,
+    "spellName": "Improved Festering Strike",
+    "maxRanks": 2,
+    "spellID": 316867
+  },
+  {
+    "type": 0,
+    "spellIcon": 252271,
+    "nodeID": 76193,
+    "spellName": "Feasting Strikes",
+    "maxRanks": 1,
+    "spellID": 390161
+  },
+  {
+    "type": 0,
+    "spellIcon": 458727,
+    "nodeID": 76194,
+    "spellName": "Unholy Command",
+    "maxRanks": 2,
+    "spellID": 316941
+  },
+  {
+    "type": 0,
+    "spellIcon": 2576090,
+    "nodeID": 76195,
+    "spellName": "Eternal Agony",
+    "maxRanks": 1,
+    "spellID": 390268
+  },
+  {
+    "type": 0,
+    "spellIcon": 237511,
+    "nodeID": 76196,
+    "spellName": "Army of the Dead",
+    "maxRanks": 1,
+    "spellID": 42650
+  },
+  {
+    "type": 0,
+    "spellIcon": 2576087,
+    "nodeID": 76197,
+    "spellName": "Morbidity",
+    "maxRanks": 2,
+    "spellID": 377592
+  }
+]

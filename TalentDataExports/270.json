@@ -1,0 +1,1069 @@
+[
+  {
+    "type": 2,
+    "spellIcon": 628675,
+    "nodeID": 80558,
+    "spellName": "Tear of Morning",
+    "maxRanks": 1,
+    "spellID": 387991
+  },
+  {
+    "type": 2,
+    "spellIcon": 1360977,
+    "nodeID": 80558,
+    "spellName": "Rising Mist",
+    "maxRanks": 1,
+    "spellID": 274909
+  },
+  {
+    "type": 0,
+    "spellIcon": 1360980,
+    "nodeID": 80559,
+    "spellName": "Invigorating Mists",
+    "maxRanks": 1,
+    "spellID": 274586
+  },
+  {
+    "type": 0,
+    "spellIcon": 3636842,
+    "nodeID": 80560,
+    "spellName": "Faeline Stomp",
+    "maxRanks": 1,
+    "spellID": 388193
+  },
+  {
+    "type": 0,
+    "spellIcon": 332402,
+    "nodeID": 80561,
+    "spellName": "Song of Chi-Ji",
+    "maxRanks": 1,
+    "spellID": 198898
+  },
+  {
+    "type": 0,
+    "spellIcon": 977169,
+    "nodeID": 80562,
+    "spellName": "Spirit of the Crane",
+    "maxRanks": 1,
+    "spellID": 210802
+  },
+  {
+    "type": 2,
+    "spellIcon": 988196,
+    "nodeID": 80563,
+    "spellName": "Mist Wrap",
+    "maxRanks": 1,
+    "spellID": 197900
+  },
+  {
+    "type": 2,
+    "spellIcon": 606549,
+    "nodeID": 80563,
+    "spellName": "Refreshing Jade Wind",
+    "maxRanks": 1,
+    "spellID": 196725
+  },
+  {
+    "type": 2,
+    "spellIcon": 606547,
+    "nodeID": 80564,
+    "spellName": "Echoing Reverberation",
+    "maxRanks": 1,
+    "spellID": 388604
+  },
+  {
+    "type": 2,
+    "spellIcon": 642417,
+    "nodeID": 80564,
+    "spellName": "Accumulating Mist",
+    "maxRanks": 1,
+    "spellID": 388564
+  },
+  {
+    "type": 2,
+    "spellIcon": 651601,
+    "nodeID": 80565,
+    "spellName": "Tea of Serenity",
+    "maxRanks": 1,
+    "spellID": 393460
+  },
+  {
+    "type": 2,
+    "spellIcon": 651940,
+    "nodeID": 80565,
+    "spellName": "Tea of Plenty",
+    "maxRanks": 1,
+    "spellID": 388517
+  },
+  {
+    "type": 0,
+    "spellIcon": 613397,
+    "nodeID": 80566,
+    "spellName": "Zen Pulse",
+    "maxRanks": 1,
+    "spellID": 124081
+  },
+  {
+    "type": 0,
+    "spellIcon": 1629917,
+    "nodeID": 80567,
+    "spellName": "Mists of Life",
+    "maxRanks": 1,
+    "spellID": 388548
+  },
+  {
+    "type": 0,
+    "spellIcon": 775461,
+    "nodeID": 80568,
+    "spellName": "Enveloping Mist",
+    "maxRanks": 1,
+    "spellID": 124682
+  },
+  {
+    "type": 0,
+    "spellIcon": 3528274,
+    "nodeID": 80569,
+    "spellName": "Ancient Concordance",
+    "maxRanks": 2,
+    "spellID": 388740
+  },
+  {
+    "type": 0,
+    "spellIcon": 629483,
+    "nodeID": 80570,
+    "spellName": "Secret Infusion",
+    "maxRanks": 2,
+    "spellID": 388491
+  },
+  {
+    "type": 0,
+    "spellIcon": 2178534,
+    "nodeID": 80571,
+    "spellName": "Invoker's Delight",
+    "maxRanks": 1,
+    "spellID": 388661
+  },
+  {
+    "type": 0,
+    "spellIcon": 608939,
+    "nodeID": 80572,
+    "spellName": "Healing Elixir",
+    "maxRanks": 1,
+    "spellID": 122281
+  },
+  {
+    "type": 2,
+    "spellIcon": 132096,
+    "nodeID": 80573,
+    "spellName": "Unison",
+    "maxRanks": 1,
+    "spellID": 388477
+  },
+  {
+    "type": 2,
+    "spellIcon": 1629909,
+    "nodeID": 80573,
+    "spellName": "Mending Proliferation",
+    "maxRanks": 1,
+    "spellID": 388509
+  },
+  {
+    "type": 2,
+    "spellIcon": 1020466,
+    "nodeID": 80574,
+    "spellName": "Revival",
+    "maxRanks": 1,
+    "spellID": 115310
+  },
+  {
+    "type": 2,
+    "spellIcon": 1381300,
+    "nodeID": 80574,
+    "spellName": "Restoral",
+    "maxRanks": 1,
+    "spellID": 388615
+  },
+  {
+    "type": 2,
+    "spellIcon": 988198,
+    "nodeID": 80575,
+    "spellName": "Lifecycles",
+    "maxRanks": 1,
+    "spellID": 197915
+  },
+  {
+    "type": 2,
+    "spellIcon": 608949,
+    "nodeID": 80575,
+    "spellName": "Mana Tea",
+    "maxRanks": 1,
+    "spellID": 197908
+  },
+  {
+    "type": 2,
+    "spellIcon": 636337,
+    "nodeID": 80576,
+    "spellName": "Jade Bond",
+    "maxRanks": 1,
+    "spellID": 388031
+  },
+  {
+    "type": 2,
+    "spellIcon": 877408,
+    "nodeID": 80576,
+    "spellName": "Gift of the Celestials",
+    "maxRanks": 1,
+    "spellID": 388212
+  },
+  {
+    "type": 0,
+    "spellIcon": 3528275,
+    "nodeID": 80577,
+    "spellName": "Awakened Faeline",
+    "maxRanks": 1,
+    "spellID": 388779
+  },
+  {
+    "type": 0,
+    "spellIcon": 988193,
+    "nodeID": 80578,
+    "spellName": "Yu'lon's Whisper",
+    "maxRanks": 1,
+    "spellID": 388038
+  },
+  {
+    "type": 0,
+    "spellIcon": 1056569,
+    "nodeID": 80579,
+    "spellName": "Rapid Diffusion",
+    "maxRanks": 2,
+    "spellID": 388847
+  },
+  {
+    "type": 0,
+    "spellIcon": 237590,
+    "nodeID": 80580,
+    "spellName": "Font of Life",
+    "maxRanks": 1,
+    "spellID": 337209
+  },
+  {
+    "type": 0,
+    "spellIcon": 1394953,
+    "nodeID": 80581,
+    "spellName": "Overflowing Mists",
+    "maxRanks": 2,
+    "spellID": 388511
+  },
+  {
+    "type": 0,
+    "spellIcon": 988195,
+    "nodeID": 80582,
+    "spellName": "Enveloping Breath",
+    "maxRanks": 1,
+    "spellID": 343655
+  },
+  {
+    "type": 0,
+    "spellIcon": 606546,
+    "nodeID": 80583,
+    "spellName": "Calming Coalescence",
+    "maxRanks": 1,
+    "spellID": 388218
+  },
+  {
+    "type": 0,
+    "spellIcon": 627485,
+    "nodeID": 80584,
+    "spellName": "Life Cocoon",
+    "maxRanks": 1,
+    "spellID": 116849
+  },
+  {
+    "type": 0,
+    "spellIcon": 136006,
+    "nodeID": 80585,
+    "spellName": "Resplendent Mist",
+    "maxRanks": 2,
+    "spellID": 388020
+  },
+  {
+    "type": 0,
+    "spellIcon": 3578227,
+    "nodeID": 80586,
+    "spellName": "Bonedust Brew",
+    "maxRanks": 1,
+    "spellID": 386276
+  },
+  {
+    "type": 0,
+    "spellIcon": 988197,
+    "nodeID": 80587,
+    "spellName": "Dancing Mists",
+    "maxRanks": 2,
+    "spellID": 388701
+  },
+  {
+    "type": 0,
+    "spellIcon": 627487,
+    "nodeID": 80588,
+    "spellName": "Renewing Mist",
+    "maxRanks": 1,
+    "spellID": 115151
+  },
+  {
+    "type": 0,
+    "spellIcon": 237556,
+    "nodeID": 80589,
+    "spellName": "Mastery of Mist",
+    "maxRanks": 1,
+    "spellID": 281231
+  },
+  {
+    "type": 2,
+    "spellIcon": 574571,
+    "nodeID": 80590,
+    "spellName": "Invoke Yu'lon, the Jade Serpent",
+    "maxRanks": 1,
+    "spellID": 322118
+  },
+  {
+    "type": 2,
+    "spellIcon": 877514,
+    "nodeID": 80590,
+    "spellName": "Invoke Chi-Ji, the Red Crane",
+    "maxRanks": 1,
+    "spellID": 325197
+  },
+  {
+    "type": 0,
+    "spellIcon": 611421,
+    "nodeID": 80591,
+    "spellName": "Uplifted Spirits",
+    "maxRanks": 1,
+    "spellID": 388551
+  },
+  {
+    "type": 0,
+    "spellIcon": 572034,
+    "nodeID": 80592,
+    "spellName": "Peaceful Mending",
+    "maxRanks": 2,
+    "spellID": 388593
+  },
+  {
+    "type": 2,
+    "spellIcon": 839394,
+    "nodeID": 80593,
+    "spellName": "Focused Thunder",
+    "maxRanks": 1,
+    "spellID": 197895
+  },
+  {
+    "type": 2,
+    "spellIcon": 628135,
+    "nodeID": 80593,
+    "spellName": "Upwelling",
+    "maxRanks": 1,
+    "spellID": 274963
+  },
+  {
+    "type": 0,
+    "spellIcon": 236841,
+    "nodeID": 80594,
+    "spellName": "Misty Peaks",
+    "maxRanks": 2,
+    "spellID": 388682
+  },
+  {
+    "type": 0,
+    "spellIcon": 611422,
+    "nodeID": 80595,
+    "spellName": "Teachings of the Monastery",
+    "maxRanks": 1,
+    "spellID": 116645
+  },
+  {
+    "type": 2,
+    "spellIcon": 3528297,
+    "nodeID": 80596,
+    "spellName": "Bountiful Brew",
+    "maxRanks": 1,
+    "spellID": 386949
+  },
+  {
+    "type": 2,
+    "spellIcon": 3528295,
+    "nodeID": 80596,
+    "spellName": "Attenuation",
+    "maxRanks": 1,
+    "spellID": 386941
+  },
+  {
+    "type": 0,
+    "spellIcon": 1360978,
+    "nodeID": 80597,
+    "spellName": "Essence Font",
+    "maxRanks": 1,
+    "spellID": 191837
+  },
+  {
+    "type": 2,
+    "spellIcon": 133739,
+    "nodeID": 80598,
+    "spellName": "Ancient Teachings",
+    "maxRanks": 1,
+    "spellID": 388023
+  },
+  {
+    "type": 2,
+    "spellIcon": 606550,
+    "nodeID": 80598,
+    "spellName": "Clouded Focus",
+    "maxRanks": 1,
+    "spellID": 388047
+  },
+  {
+    "type": 0,
+    "spellIcon": 134125,
+    "nodeID": 80599,
+    "spellName": "Nourishing Chi",
+    "maxRanks": 1,
+    "spellID": 387765
+  },
+  {
+    "type": 0,
+    "spellIcon": 611418,
+    "nodeID": 80600,
+    "spellName": "Thunder Focus Tea",
+    "maxRanks": 1,
+    "spellID": 116680
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 606550,
+    "nodeID": 80603,
+    "spellName": "Elusive Mists",
+    "maxRanks": 2,
+    "spellID": 388681
+  },
+  {
+    "type": 0,
+    "spellIcon": 642414,
+    "nodeID": 80604,
+    "spellName": "Tiger Tail Sweep",
+    "maxRanks": 2,
+    "spellID": 264348
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 132316,
+    "nodeID": 80679,
+    "spellName": "Disable",
+    "maxRanks": 1,
+    "spellID": 116095
+  },
+  {
+    "type": 0,
+    "spellIcon": 615341,
+    "nodeID": 80680,
+    "spellName": "Fortifying Brew",
+    "maxRanks": 1,
+    "spellID": 115203
+  },
+  {
+    "type": 2,
+    "spellIcon": 615341,
+    "nodeID": 80681,
+    "spellName": "Ironshell Brew",
+    "maxRanks": 1,
+    "spellID": 388814
+  },
+  {
+    "type": 2,
+    "spellIcon": 615341,
+    "nodeID": 80681,
+    "spellName": "Expeditious Fortification",
+    "maxRanks": 1,
+    "spellID": 388813
+  },
+  {
+    "type": 0,
+    "spellIcon": 606546,
+    "nodeID": 80682,
+    "spellName": "Strength of Spirit",
+    "maxRanks": 1,
+    "spellID": 387276
+  },
+  {
+    "type": 0,
+    "spellIcon": 1500920,
+    "nodeID": 80683,
+    "spellName": "Generous Pour",
+    "maxRanks": 2,
+    "spellID": 389575
+  },
+  {
+    "type": 0,
+    "spellIcon": 606552,
+    "nodeID": 80684,
+    "spellName": "Improved Touch of Death",
+    "maxRanks": 1,
+    "spellID": 322113
+  },
+  {
+    "type": 2,
+    "spellIcon": 607848,
+    "nodeID": 80685,
+    "spellName": "Celerity",
+    "maxRanks": 1,
+    "spellID": 115173
+  },
+  {
+    "type": 2,
+    "spellIcon": 607849,
+    "nodeID": 80685,
+    "spellName": "Chi Torpedo",
+    "maxRanks": 1,
+    "spellID": 115008
+  },
+  {
+    "type": 0,
+    "spellIcon": 608940,
+    "nodeID": 80686,
+    "spellName": "Spear Hand Strike",
+    "maxRanks": 1,
+    "spellID": 116705
+  },
+  {
+    "type": 0,
+    "spellIcon": 629534,
+    "nodeID": 80687,
+    "spellName": "Improved Paralysis",
+    "maxRanks": 1,
+    "spellID": 344359
+  },
+  {
+    "type": 0,
+    "spellIcon": 629534,
+    "nodeID": 80688,
+    "spellName": "Paralysis",
+    "maxRanks": 1,
+    "spellID": 115078
+  },
+  {
+    "type": 0,
+    "spellIcon": 651727,
+    "nodeID": 80689,
+    "spellName": "Tiger's Lust",
+    "maxRanks": 1,
+    "spellID": 116841
+  },
+  {
+    "type": 0,
+    "spellIcon": 642415,
+    "nodeID": 80690,
+    "spellName": "Rising Sun Kick",
+    "maxRanks": 1,
+    "spellID": 107428
+  },
+  {
+    "type": 0,
+    "spellIcon": 606550,
+    "nodeID": 80691,
+    "spellName": "Soothing Mist",
+    "maxRanks": 1,
+    "spellID": 115175
+  },
+  {
+    "type": 0,
+    "spellIcon": 1360980,
+    "nodeID": 80692,
+    "spellName": "Improved Vivify",
+    "maxRanks": 2,
+    "spellID": 231602
+  },
+  {
+    "type": 0,
+    "spellIcon": 134333,
+    "nodeID": 80693,
+    "spellName": "Calming Presence",
+    "maxRanks": 1,
+    "spellID": 388664
+  },
+  {
+    "type": 0,
+    "spellIcon": 627608,
+    "nodeID": 80694,
+    "spellName": "Transcendence",
+    "maxRanks": 1,
+    "spellID": 101643
+  },
+  {
+    "type": 0,
+    "spellIcon": 1360980,
+    "nodeID": 80695,
+    "spellName": "Vivacious Vivification",
+    "maxRanks": 1,
+    "spellID": 388812
+  },
+  {
+    "type": 0,
+    "spellIcon": 620830,
+    "nodeID": 80696,
+    "spellName": "Hasty Provocation",
+    "maxRanks": 1,
+    "spellID": 328670
+  },
+  {
+    "type": 0,
+    "spellIcon": 775460,
+    "nodeID": 80697,
+    "spellName": "Diffuse Magic",
+    "maxRanks": 1,
+    "spellID": 122783
+  },
+  {
+    "type": 0,
+    "spellIcon": 839107,
+    "nodeID": 80698,
+    "spellName": "Ring of Peace",
+    "maxRanks": 1,
+    "spellID": 116844
+  },
+  {
+    "type": 0,
+    "spellIcon": 611420,
+    "nodeID": 80699,
+    "spellName": "Windwalking",
+    "maxRanks": 2,
+    "spellID": 157411
+  },
+  {
+    "type": 0,
+    "spellIcon": 236165,
+    "nodeID": 80700,
+    "spellName": "Eye of the Tiger",
+    "maxRanks": 1,
+    "spellID": 196607
+  },
+  {
+    "type": 0,
+    "spellIcon": 4667418,
+    "nodeID": 80701,
+    "spellName": "Summon White Tiger Statue",
+    "maxRanks": 1,
+    "spellID": 388686
+  },
+  {
+    "type": 0,
+    "spellIcon": 135607,
+    "nodeID": 80702,
+    "spellName": "Resonant Fists",
+    "maxRanks": 2,
+    "spellID": 389578
+  },
+  {
+    "type": 0,
+    "spellIcon": 606552,
+    "nodeID": 80703,
+    "spellName": "Fatal Touch",
+    "maxRanks": 2,
+    "spellID": 394123
+  },
+  {
+    "type": 0,
+    "spellIcon": 620827,
+    "nodeID": 80704,
+    "spellName": "Dampen Harm",
+    "maxRanks": 1,
+    "spellID": 122278
+  },
+  {
+    "type": 0,
+    "spellIcon": 642415,
+    "nodeID": 80705,
+    "spellName": "Fast Feet",
+    "maxRanks": 2,
+    "spellID": 388809
+  },
+  {
+    "type": 0,
+    "spellIcon": 132252,
+    "nodeID": 80706,
+    "spellName": "Ferocity of Xuen",
+    "maxRanks": 2,
+    "spellID": 388674
+  },
+  {
+    "type": 0,
+    "spellIcon": 794469,
+    "nodeID": 80707,
+    "spellName": "Close to Heart",
+    "maxRanks": 2,
+    "spellID": 389574
+  },
+  {
+    "type": 0,
+    "spellIcon": 627486,
+    "nodeID": 80708,
+    "spellName": "Profound Rebuttal",
+    "maxRanks": 1,
+    "spellID": 392910
+  },
+  {
+    "type": 2,
+    "spellIcon": 606541,
+    "nodeID": 80709,
+    "spellName": "Chi Wave",
+    "maxRanks": 1,
+    "spellID": 115098
+  },
+  {
+    "type": 2,
+    "spellIcon": 135734,
+    "nodeID": 80709,
+    "spellName": "Chi Burst",
+    "maxRanks": 1,
+    "spellID": 123986
+  },
+  {
+    "type": 0,
+    "spellIcon": 608949,
+    "nodeID": 80710,
+    "spellName": "Grace of the Crane",
+    "maxRanks": 2,
+    "spellID": 388811
+  },
+  {
+    "type": 0,
+    "spellIcon": 627486,
+    "nodeID": 80711,
+    "spellName": "Vigorous Expulsion",
+    "maxRanks": 1,
+    "spellID": 392900
+  },
+  {
+    "type": 0,
+    "spellIcon": 574574,
+    "nodeID": 80712,
+    "spellName": "Improved Roll",
+    "maxRanks": 1,
+    "spellID": 328669
+  },
+  {
+    "type": 0,
+    "spellIcon": 620831,
+    "nodeID": 80713,
+    "spellName": "Summon Jade Serpent Statue",
+    "maxRanks": 1,
+    "spellID": 115313
+  },
+  {
+    "type": 0,
+    "spellIcon": 237500,
+    "nodeID": 80714,
+    "spellName": "Save Them All",
+    "maxRanks": 2,
+    "spellID": 389579
+  },
+  {
+    "type": 0,
+    "spellIcon": 627608,
+    "nodeID": 80715,
+    "spellName": "Escape from Reality",
+    "maxRanks": 2,
+    "spellID": 394110
+  },
+  {
+    "type": 0,
+    "spellIcon": 627607,
+    "nodeID": 80716,
+    "spellName": "Summon Black Ox Statue",
+    "maxRanks": 1,
+    "spellID": 115315
+  },
+  {
+    "type": 0,
+    "spellIcon": 999951,
+    "nodeID": 80717,
+    "spellName": "Bounce Back",
+    "maxRanks": 2,
+    "spellID": 389577
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 460692,
+    "nodeID": 81634,
+    "spellName": "Improved Detox",
+    "maxRanks": 1,
+    "spellID": 388874
+  }
+]

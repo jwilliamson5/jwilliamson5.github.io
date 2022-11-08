@@ -1,0 +1,1132 @@
+[
+  {
+    "type": 0,
+    "spellIcon": 135053,
+    "nodeID": 90258,
+    "spellName": "Armored to the Teeth",
+    "maxRanks": 2,
+    "spellID": 384124
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 136111,
+    "nodeID": 90321,
+    "spellName": "Sonic Boom",
+    "maxRanks": 1,
+    "spellID": 390725
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 3565453,
+    "nodeID": 90323,
+    "spellName": "Elysian Might",
+    "maxRanks": 1,
+    "spellID": 386285
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 132275,
+    "nodeID": 90325,
+    "spellName": "Berserker Stance",
+    "maxRanks": 1,
+    "spellID": 386196
+  },
+  {
+    "type": 0,
+    "spellIcon": 589768,
+    "nodeID": 90326,
+    "spellName": "Impending Victory",
+    "maxRanks": 1,
+    "spellID": 202168
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 132365,
+    "nodeID": 90329,
+    "spellName": "Intervene",
+    "maxRanks": 1,
+    "spellID": 3411
+  },
+  {
+    "type": 0,
+    "spellIcon": 132341,
+    "nodeID": 90330,
+    "spellName": "Defensive Stance",
+    "maxRanks": 1,
+    "spellID": 386208
+  },
+  {
+    "type": 0,
+    "spellIcon": 132351,
+    "nodeID": 90331,
+    "spellName": "Rallying Cry",
+    "maxRanks": 1,
+    "spellID": 97462
+  },
+  {
+    "type": 2,
+    "spellIcon": 463829,
+    "nodeID": 90332,
+    "spellName": "Inspiring Presence",
+    "maxRanks": 1,
+    "spellID": 382310
+  },
+  {
+    "type": 2,
+    "spellIcon": 132175,
+    "nodeID": 90332,
+    "spellName": "Second Wind",
+    "maxRanks": 1,
+    "spellID": 29838
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 2,
+    "spellIcon": 892449,
+    "nodeID": 90335,
+    "spellName": "Barbaric Training",
+    "maxRanks": 1,
+    "spellID": 390674
+  },
+  {
+    "type": 2,
+    "spellIcon": 132348,
+    "nodeID": 90335,
+    "spellName": "Concussive Blows",
+    "maxRanks": 1,
+    "spellID": 383115
+  },
+  {
+    "type": 0,
+    "spellIcon": 132152,
+    "nodeID": 90336,
+    "spellName": "Furious Blows",
+    "maxRanks": 1,
+    "spellID": 390354
+  },
+  {
+    "type": 0,
+    "spellIcon": 613535,
+    "nodeID": 90337,
+    "spellName": "Storm Bolt",
+    "maxRanks": 1,
+    "spellID": 107570
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 236305,
+    "nodeID": 90340,
+    "spellName": "Seismic Reverberation",
+    "maxRanks": 1,
+    "spellID": 382956
+  },
+  {
+    "type": 0,
+    "spellIcon": 132453,
+    "nodeID": 90341,
+    "spellName": "Titanic Throw",
+    "maxRanks": 1,
+    "spellID": 384090
+  },
+  {
+    "type": 2,
+    "spellIcon": 460957,
+    "nodeID": 90342,
+    "spellName": "Blood and Thunder",
+    "maxRanks": 1,
+    "spellID": 384277
+  },
+  {
+    "type": 2,
+    "spellIcon": 839979,
+    "nodeID": 90342,
+    "spellName": "Crackling Thunder",
+    "maxRanks": 1,
+    "spellID": 203201
+  },
+  {
+    "type": 0,
+    "spellIcon": 136105,
+    "nodeID": 90343,
+    "spellName": "Thunder Clap",
+    "maxRanks": 1,
+    "spellID": 6343
+  },
+  {
+    "type": 0,
+    "spellIcon": 1394887,
+    "nodeID": 90344,
+    "spellName": "Leeching Strikes",
+    "maxRanks": 1,
+    "spellID": 382258
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 236171,
+    "nodeID": 90346,
+    "spellName": "Heroic Leap",
+    "maxRanks": 1,
+    "spellID": 6544
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 2,
+    "spellIcon": 136009,
+    "nodeID": 90348,
+    "spellName": "Berserker Shout",
+    "maxRanks": 1,
+    "spellID": 384100
+  },
+  {
+    "type": 2,
+    "spellIcon": 136147,
+    "nodeID": 90348,
+    "spellName": "Piercing Howl",
+    "maxRanks": 1,
+    "spellID": 12323
+  },
+  {
+    "type": 0,
+    "spellIcon": 136225,
+    "nodeID": 90349,
+    "spellName": "Crushing Force",
+    "maxRanks": 2,
+    "spellID": 382764
+  },
+  {
+    "type": 0,
+    "spellIcon": 458971,
+    "nodeID": 90350,
+    "spellName": "Frothing Berserker",
+    "maxRanks": 1,
+    "spellID": 215571
+  },
+  {
+    "type": 2,
+    "spellIcon": 460959,
+    "nodeID": 90351,
+    "spellName": "Wrecking Throw",
+    "maxRanks": 1,
+    "spellID": 384110
+  },
+  {
+    "type": 2,
+    "spellIcon": 311430,
+    "nodeID": 90351,
+    "spellName": "Shattering Throw",
+    "maxRanks": 1,
+    "spellID": 64382
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 135936,
+    "nodeID": 90353,
+    "spellName": "Pain and Gain",
+    "maxRanks": 1,
+    "spellID": 382549
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 236171,
+    "nodeID": 90355,
+    "spellName": "Bounding Stride",
+    "maxRanks": 1,
+    "spellID": 202163
+  },
+  {
+    "type": 0,
+    "spellIcon": 136088,
+    "nodeID": 90356,
+    "spellName": "Bitter Immunity",
+    "maxRanks": 1,
+    "spellID": 383762
+  },
+  {
+    "type": 0,
+    "spellIcon": 134153,
+    "nodeID": 90357,
+    "spellName": "Uproar",
+    "maxRanks": 1,
+    "spellID": 391572
+  },
+  {
+    "type": 0,
+    "spellIcon": 136025,
+    "nodeID": 90358,
+    "spellName": "Thunderous Words",
+    "maxRanks": 1,
+    "spellID": 384969
+  },
+  {
+    "type": 0,
+    "spellIcon": 642418,
+    "nodeID": 90359,
+    "spellName": "Thunderous Roar",
+    "maxRanks": 1,
+    "spellID": 384318
+  },
+  {
+    "type": 0,
+    "spellIcon": 132307,
+    "nodeID": 90360,
+    "spellName": "Wild Strikes",
+    "maxRanks": 2,
+    "spellID": 382946
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 2,
+    "spellIcon": 132347,
+    "nodeID": 90362,
+    "spellName": "Berserker's Torment",
+    "maxRanks": 1,
+    "spellID": 390123
+  },
+  {
+    "type": 2,
+    "spellIcon": 1528795,
+    "nodeID": 90362,
+    "spellName": "Titan's Torment",
+    "maxRanks": 1,
+    "spellID": 390135
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 613534,
+    "nodeID": 90365,
+    "spellName": "Avatar",
+    "maxRanks": 1,
+    "spellID": 107574
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 237538,
+    "nodeID": 90367,
+    "spellName": "Honed Reflexes",
+    "maxRanks": 1,
+    "spellID": 391270
+  },
+  {
+    "type": 0,
+    "spellIcon": 132739,
+    "nodeID": 90368,
+    "spellName": "Reinforced Plates",
+    "maxRanks": 1,
+    "spellID": 382939
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 461119,
+    "nodeID": 90371,
+    "spellName": "Fast Footwork",
+    "maxRanks": 1,
+    "spellID": 382260
+  },
+  {
+    "type": 0,
+    "spellIcon": 136009,
+    "nodeID": 90372,
+    "spellName": "Berserker Rage",
+    "maxRanks": 1,
+    "spellID": 18499
+  },
+  {
+    "type": 0,
+    "spellIcon": 132147,
+    "nodeID": 90373,
+    "spellName": "Dual Wield Specialization",
+    "maxRanks": 1,
+    "spellID": 382900
+  },
+  {
+    "type": 0,
+    "spellIcon": 451165,
+    "nodeID": 90374,
+    "spellName": "Rumbling Earth",
+    "maxRanks": 1,
+    "spellID": 275339
+  },
+  {
+    "type": 0,
+    "spellIcon": 236312,
+    "nodeID": 90375,
+    "spellName": "Shockwave",
+    "maxRanks": 1,
+    "spellID": 46968
+  },
+  {
+    "type": 0,
+    "spellIcon": 136112,
+    "nodeID": 90376,
+    "spellName": "Endurance Training",
+    "maxRanks": 1,
+    "spellID": 391997
+  },
+  {
+    "type": 0,
+    "spellIcon": 135424,
+    "nodeID": 90377,
+    "spellName": "Sidearm",
+    "maxRanks": 1,
+    "spellID": 384404
+  },
+  {
+    "type": 0,
+    "spellIcon": 135726,
+    "nodeID": 90378,
+    "spellName": "Overwhelming Rage",
+    "maxRanks": 2,
+    "spellID": 382767
+  },
+  {
+    "type": 0,
+    "spellIcon": 3528286,
+    "nodeID": 90379,
+    "spellName": "Piercing Verdict",
+    "maxRanks": 1,
+    "spellID": 382948
+  },
+  {
+    "type": 0,
+    "spellIcon": 3565453,
+    "nodeID": 90380,
+    "spellName": "Spear of Bastion",
+    "maxRanks": 1,
+    "spellID": 376079
+  },
+  {
+    "type": 0,
+    "spellIcon": 132109,
+    "nodeID": 90381,
+    "spellName": "Cruel Strikes",
+    "maxRanks": 2,
+    "spellID": 392777
+  },
+  {
+    "type": 0,
+    "spellIcon": 237377,
+    "nodeID": 90382,
+    "spellName": "Double Time",
+    "maxRanks": 1,
+    "spellID": 103827
+  },
+  {
+    "type": 2,
+    "spellIcon": 1058933,
+    "nodeID": 90383,
+    "spellName": "Cacophonous Roar",
+    "maxRanks": 1,
+    "spellID": 382954
+  },
+  {
+    "type": 2,
+    "spellIcon": 132154,
+    "nodeID": 90383,
+    "spellName": "Menace",
+    "maxRanks": 1,
+    "spellID": 275338
+  },
+  {
+    "type": 0,
+    "spellIcon": 132154,
+    "nodeID": 90384,
+    "spellName": "Intimidating Shout",
+    "maxRanks": 1,
+    "spellID": 5246
+  },
+  {
+    "type": 0,
+    "spellIcon": 132361,
+    "nodeID": 90385,
+    "spellName": "Spell Reflection",
+    "maxRanks": 1,
+    "spellID": 23920
+  },
+  {
+    "type": 0,
+    "spellIcon": 132205,
+    "nodeID": 90386,
+    "spellName": "War Machine",
+    "maxRanks": 1,
+    "spellID": 346002
+  },
+  {
+    "type": 0,
+    "spellIcon": 1260690,
+    "nodeID": 90387,
+    "spellName": "Wrath and Fury",
+    "maxRanks": 1,
+    "spellID": 392936
+  },
+  {
+    "type": 0,
+    "spellIcon": 970854,
+    "nodeID": 90388,
+    "spellName": "Ravager",
+    "maxRanks": 1,
+    "spellID": 228920
+  },
+  {
+    "type": 2,
+    "spellIcon": 132096,
+    "nodeID": 90389,
+    "spellName": "Storm of Steel",
+    "maxRanks": 1,
+    "spellID": 382953
+  },
+  {
+    "type": 2,
+    "spellIcon": 236303,
+    "nodeID": 90389,
+    "spellName": "Hurricane",
+    "maxRanks": 1,
+    "spellID": 390563
+  },
+  {
+    "type": 0,
+    "spellIcon": 589119,
+    "nodeID": 90390,
+    "spellName": "Improved Raging Blow",
+    "maxRanks": 1,
+    "spellID": 383854
+  },
+  {
+    "type": 0,
+    "spellIcon": 132369,
+    "nodeID": 90391,
+    "spellName": "Meat Cleaver",
+    "maxRanks": 1,
+    "spellID": 280392
+  },
+  {
+    "type": 0,
+    "spellIcon": 136012,
+    "nodeID": 90392,
+    "spellName": "Bloodthirst",
+    "maxRanks": 1,
+    "spellID": 23881
+  },
+  {
+    "type": 0,
+    "spellIcon": 237553,
+    "nodeID": 90393,
+    "spellName": "Invigorating Fury",
+    "maxRanks": 1,
+    "spellID": 383468
+  },
+  {
+    "type": 0,
+    "spellIcon": 460693,
+    "nodeID": 90394,
+    "spellName": "Warpaint",
+    "maxRanks": 1,
+    "spellID": 208154
+  },
+  {
+    "type": 0,
+    "spellIcon": 132345,
+    "nodeID": 90395,
+    "spellName": "Enraged Regeneration",
+    "maxRanks": 1,
+    "spellID": 184364
+  },
+  {
+    "type": 0,
+    "spellIcon": 589119,
+    "nodeID": 90396,
+    "spellName": "Raging Blow",
+    "maxRanks": 1,
+    "spellID": 85288
+  },
+  {
+    "type": 0,
+    "spellIcon": 136012,
+    "nodeID": 90397,
+    "spellName": "Improved Bloodthirst",
+    "maxRanks": 1,
+    "spellID": 383852
+  },
+  {
+    "type": 0,
+    "spellIcon": 136224,
+    "nodeID": 90398,
+    "spellName": "Improved Enrage",
+    "maxRanks": 1,
+    "spellID": 383848
+  },
+  {
+    "type": 0,
+    "spellIcon": 538039,
+    "nodeID": 90399,
+    "spellName": "Fresh Meat",
+    "maxRanks": 1,
+    "spellID": 215568
+  },
+  {
+    "type": 0,
+    "spellIcon": 458974,
+    "nodeID": 90400,
+    "spellName": "Single-Minded Fury",
+    "maxRanks": 1,
+    "spellID": 81099
+  },
+  {
+    "type": 0,
+    "spellIcon": 1394887,
+    "nodeID": 90401,
+    "spellName": "Bloodborne",
+    "maxRanks": 1,
+    "spellID": 385703
+  },
+  {
+    "type": 0,
+    "spellIcon": 236276,
+    "nodeID": 90402,
+    "spellName": "Cold Steel, Hot Blood",
+    "maxRanks": 1,
+    "spellID": 383959
+  },
+  {
+    "type": 0,
+    "spellIcon": 132177,
+    "nodeID": 90403,
+    "spellName": "Focus in Chaos",
+    "maxRanks": 1,
+    "spellID": 383486
+  },
+  {
+    "type": 0,
+    "spellIcon": 1035053,
+    "nodeID": 90404,
+    "spellName": "Vicious Contempt",
+    "maxRanks": 2,
+    "spellID": 383885
+  },
+  {
+    "type": 0,
+    "spellIcon": 132094,
+    "nodeID": 90405,
+    "spellName": "Bloodcraze",
+    "maxRanks": 1,
+    "spellID": 393950
+  },
+  {
+    "type": 0,
+    "spellIcon": 132284,
+    "nodeID": 90406,
+    "spellName": "Frenzy",
+    "maxRanks": 1,
+    "spellID": 335077
+  },
+  {
+    "type": 0,
+    "spellIcon": 1269440,
+    "nodeID": 90407,
+    "spellName": "Hack and Slash",
+    "maxRanks": 1,
+    "spellID": 383877
+  },
+  {
+    "type": 0,
+    "spellIcon": 132352,
+    "nodeID": 90408,
+    "spellName": "Rampage",
+    "maxRanks": 1,
+    "spellID": 184367
+  },
+  {
+    "type": 0,
+    "spellIcon": 458975,
+    "nodeID": 90409,
+    "spellName": "Ashen Juggernaut",
+    "maxRanks": 1,
+    "spellID": 392536
+  },
+  {
+    "type": 0,
+    "spellIcon": 135358,
+    "nodeID": 90410,
+    "spellName": "Massacre",
+    "maxRanks": 1,
+    "spellID": 206315
+  },
+  {
+    "type": 0,
+    "spellIcon": 800997,
+    "nodeID": 90411,
+    "spellName": "Slaughtering Strikes",
+    "maxRanks": 1,
+    "spellID": 388004
+  },
+  {
+    "type": 0,
+    "spellIcon": 458972,
+    "nodeID": 90412,
+    "spellName": "Recklessness",
+    "maxRanks": 1,
+    "spellID": 1719
+  },
+  {
+    "type": 0,
+    "spellIcon": 135727,
+    "nodeID": 90413,
+    "spellName": "Depths of Insanity",
+    "maxRanks": 1,
+    "spellID": 383922
+  },
+  {
+    "type": 0,
+    "spellIcon": 132344,
+    "nodeID": 90414,
+    "spellName": "Unbridled Ferocity",
+    "maxRanks": 1,
+    "spellID": 389603
+  },
+  {
+    "type": 2,
+    "spellIcon": 971080,
+    "nodeID": 90415,
+    "spellName": "Anger Management",
+    "maxRanks": 1,
+    "spellID": 152278
+  },
+  {
+    "type": 2,
+    "spellIcon": 132333,
+    "nodeID": 90415,
+    "spellName": "Reckless Abandon",
+    "maxRanks": 1,
+    "spellID": 202751
+  },
+  {
+    "type": 0,
+    "spellIcon": 132307,
+    "nodeID": 90416,
+    "spellName": "Swift Strikes",
+    "maxRanks": 2,
+    "spellID": 383459
+  },
+  {
+    "type": 2,
+    "spellIcon": 1278410,
+    "nodeID": 90417,
+    "spellName": "Dancing Blades",
+    "maxRanks": 1,
+    "spellID": 391683
+  },
+  {
+    "type": 2,
+    "spellIcon": 1278407,
+    "nodeID": 90417,
+    "spellName": "Titanic Rage",
+    "maxRanks": 1,
+    "spellID": 394329
+  },
+  {
+    "type": 0,
+    "spellIcon": 1278409,
+    "nodeID": 90418,
+    "spellName": "Odyn's Fury",
+    "maxRanks": 1,
+    "spellID": 385059
+  },
+  {
+    "type": 0,
+    "spellIcon": 4667426,
+    "nodeID": 90419,
+    "spellName": "Annihilator",
+    "maxRanks": 1,
+    "spellID": 383916
+  },
+  {
+    "type": 0,
+    "spellIcon": 1029586,
+    "nodeID": 90420,
+    "spellName": "Storm of Swords",
+    "maxRanks": 1,
+    "spellID": 388903
+  },
+  {
+    "type": 0,
+    "spellIcon": 133739,
+    "nodeID": 90421,
+    "spellName": "Deft Experience",
+    "maxRanks": 2,
+    "spellID": 383295
+  },
+  {
+    "type": 0,
+    "spellIcon": 132152,
+    "nodeID": 90422,
+    "spellName": "Frenzied Flurry",
+    "maxRanks": 1,
+    "spellID": 383605
+  },
+  {
+    "type": 0,
+    "spellIcon": 4374708,
+    "nodeID": 90423,
+    "spellName": "Tenderize",
+    "maxRanks": 1,
+    "spellID": 388933
+  },
+  {
+    "type": 0,
+    "spellIcon": 132364,
+    "nodeID": 90424,
+    "spellName": "Onslaught",
+    "maxRanks": 1,
+    "spellID": 315720
+  },
+  {
+    "type": 0,
+    "spellIcon": 132109,
+    "nodeID": 90425,
+    "spellName": "Critical Thinking",
+    "maxRanks": 2,
+    "spellID": 383297
+  },
+  {
+    "type": 0,
+    "spellIcon": 236327,
+    "nodeID": 90426,
+    "spellName": "Raging Armaments",
+    "maxRanks": 1,
+    "spellID": 388049
+  },
+  {
+    "type": 0,
+    "spellIcon": 132369,
+    "nodeID": 90427,
+    "spellName": "Improved Whirlwind",
+    "maxRanks": 1,
+    "spellID": 12950
+  },
+  {
+    "type": 0,
+    "spellIcon": 136035,
+    "nodeID": 90428,
+    "spellName": "Cruelty",
+    "maxRanks": 1,
+    "spellID": 392931
+  },
+  {
+    "type": 0,
+    "spellIcon": 132346,
+    "nodeID": 90429,
+    "spellName": "Sudden Death",
+    "maxRanks": 1,
+    "spellID": 280721
+  },
+  {
+    "type": 0,
+    "spellIcon": 135358,
+    "nodeID": 90430,
+    "spellName": "Improved Execute",
+    "maxRanks": 1,
+    "spellID": 316402
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  }
+]

@@ -1,0 +1,940 @@
+[
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 135729,
+    "nodeID": 62084,
+    "spellName": "Spellsteal",
+    "maxRanks": 1,
+    "spellID": 30449
+  },
+  {
+    "type": 0,
+    "spellIcon": 3636841,
+    "nodeID": 62085,
+    "spellName": "Shifting Power",
+    "maxRanks": 1,
+    "spellID": 382440
+  },
+  {
+    "type": 0,
+    "spellIcon": 135850,
+    "nodeID": 62086,
+    "spellName": "Ice Ward",
+    "maxRanks": 1,
+    "spellID": 205036
+  },
+  {
+    "type": 0,
+    "spellIcon": 135852,
+    "nodeID": 62087,
+    "spellName": "Freezing Cold",
+    "maxRanks": 1,
+    "spellID": 386763
+  },
+  {
+    "type": 0,
+    "spellIcon": 464484,
+    "nodeID": 62088,
+    "spellName": "Ring of Frost",
+    "maxRanks": 1,
+    "spellID": 113724
+  },
+  {
+    "type": 0,
+    "spellIcon": 135789,
+    "nodeID": 62089,
+    "spellName": "Volatile Detonation",
+    "maxRanks": 1,
+    "spellID": 389627
+  },
+  {
+    "type": 0,
+    "spellIcon": 1033911,
+    "nodeID": 62090,
+    "spellName": "Meteor",
+    "maxRanks": 1,
+    "spellID": 153561
+  },
+  {
+    "type": 0,
+    "spellIcon": 134153,
+    "nodeID": 62091,
+    "spellName": "Dragon's Breath",
+    "maxRanks": 1,
+    "spellID": 31661
+  },
+  {
+    "type": 0,
+    "spellIcon": 132171,
+    "nodeID": 62092,
+    "spellName": "Displacement",
+    "maxRanks": 1,
+    "spellID": 389713
+  },
+  {
+    "type": 0,
+    "spellIcon": 236224,
+    "nodeID": 62093,
+    "spellName": "Accumulative Shielding",
+    "maxRanks": 2,
+    "spellID": 382800
+  },
+  {
+    "type": 2,
+    "spellIcon": 458224,
+    "nodeID": 62094,
+    "spellName": "Time Anomaly",
+    "maxRanks": 1,
+    "spellID": 383243
+  },
+  {
+    "type": 2,
+    "spellIcon": 1391676,
+    "nodeID": 62094,
+    "spellName": "Temporal Warp",
+    "maxRanks": 1,
+    "spellID": 386539
+  },
+  {
+    "type": 0,
+    "spellIcon": 575584,
+    "nodeID": 62095,
+    "spellName": "Greater Invisibility",
+    "maxRanks": 1,
+    "spellID": 110959
+  },
+  {
+    "type": 0,
+    "spellIcon": 135736,
+    "nodeID": 62096,
+    "spellName": "Flow of Time",
+    "maxRanks": 2,
+    "spellID": 382268
+  },
+  {
+    "type": 0,
+    "spellIcon": 136091,
+    "nodeID": 62097,
+    "spellName": "Slow",
+    "maxRanks": 1,
+    "spellID": 31589
+  },
+  {
+    "type": 0,
+    "spellIcon": 355498,
+    "nodeID": 62098,
+    "spellName": "Tome of Antonidas",
+    "maxRanks": 1,
+    "spellID": 382490
+  },
+  {
+    "type": 0,
+    "spellIcon": 1041230,
+    "nodeID": 62099,
+    "spellName": "Temporal Velocity",
+    "maxRanks": 2,
+    "spellID": 382826
+  },
+  {
+    "type": 0,
+    "spellIcon": 610472,
+    "nodeID": 62100,
+    "spellName": "Energized Barriers",
+    "maxRanks": 1,
+    "spellID": 386828
+  },
+  {
+    "type": 0,
+    "spellIcon": 2065625,
+    "nodeID": 62101,
+    "spellName": "Diverted Energy",
+    "maxRanks": 2,
+    "spellID": 382270
+  },
+  {
+    "type": 0,
+    "spellIcon": 2026009,
+    "nodeID": 62102,
+    "spellName": "Master of Time",
+    "maxRanks": 1,
+    "spellID": 342249
+  },
+  {
+    "type": 0,
+    "spellIcon": 135903,
+    "nodeID": 62103,
+    "spellName": "Blast Wave",
+    "maxRanks": 1,
+    "spellID": 157981
+  },
+  {
+    "type": 0,
+    "spellIcon": 633004,
+    "nodeID": 62104,
+    "spellName": "Quick Witted",
+    "maxRanks": 1,
+    "spellID": 382297
+  },
+  {
+    "type": 2,
+    "spellIcon": 135739,
+    "nodeID": 62105,
+    "spellName": "Shimmer",
+    "maxRanks": 1,
+    "spellID": 212653
+  },
+  {
+    "type": 2,
+    "spellIcon": 610877,
+    "nodeID": 62105,
+    "spellName": "Ice Floes",
+    "maxRanks": 1,
+    "spellID": 108839
+  },
+  {
+    "type": 0,
+    "spellIcon": 575585,
+    "nodeID": 62106,
+    "spellName": "Mass Polymorph",
+    "maxRanks": 1,
+    "spellID": 383121
+  },
+  {
+    "type": 0,
+    "spellIcon": 135854,
+    "nodeID": 62107,
+    "spellName": "Cryo-Freeze",
+    "maxRanks": 2,
+    "spellID": 382292
+  },
+  {
+    "type": 0,
+    "spellIcon": 135848,
+    "nodeID": 62108,
+    "spellName": "Improved Frost Nova",
+    "maxRanks": 1,
+    "spellID": 343183
+  },
+  {
+    "type": 0,
+    "spellIcon": 132860,
+    "nodeID": 62109,
+    "spellName": "Mass Slow",
+    "maxRanks": 1,
+    "spellID": 391102
+  },
+  {
+    "type": 0,
+    "spellIcon": 612393,
+    "nodeID": 62110,
+    "spellName": "Rigid Ice",
+    "maxRanks": 1,
+    "spellID": 382481
+  },
+  {
+    "type": 0,
+    "spellIcon": 1355357,
+    "nodeID": 62111,
+    "spellName": "Tempest Barrier",
+    "maxRanks": 2,
+    "spellID": 382289
+  },
+  {
+    "type": 0,
+    "spellIcon": 538536,
+    "nodeID": 62112,
+    "spellName": "Incantation of Swiftness",
+    "maxRanks": 2,
+    "spellID": 382293
+  },
+  {
+    "type": 2,
+    "spellIcon": 236219,
+    "nodeID": 62113,
+    "spellName": "Incanter's Flow",
+    "maxRanks": 1,
+    "spellID": 1463
+  },
+  {
+    "type": 2,
+    "spellIcon": 609815,
+    "nodeID": 62113,
+    "spellName": "Rune of Power",
+    "maxRanks": 1,
+    "spellID": 116011
+  },
+  {
+    "type": 0,
+    "spellIcon": 135733,
+    "nodeID": 62114,
+    "spellName": "Arcane Warding",
+    "maxRanks": 2,
+    "spellID": 383092
+  },
+  {
+    "type": 0,
+    "spellIcon": 609811,
+    "nodeID": 62115,
+    "spellName": "Alter Time",
+    "maxRanks": 1,
+    "spellID": 342245
+  },
+  {
+    "type": 0,
+    "spellIcon": 136082,
+    "nodeID": 62116,
+    "spellName": "Remove Curse",
+    "maxRanks": 1,
+    "spellID": 475
+  },
+  {
+    "type": 0,
+    "spellIcon": 135988,
+    "nodeID": 62117,
+    "spellName": "Ice Barrier",
+    "maxRanks": 1,
+    "spellID": 11426
+  },
+  {
+    "type": 0,
+    "spellIcon": 132220,
+    "nodeID": 62118,
+    "spellName": "Invisibility",
+    "maxRanks": 1,
+    "spellID": 66
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 135738,
+    "nodeID": 62120,
+    "spellName": "Overflowing Energy",
+    "maxRanks": 1,
+    "spellID": 390218
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 135841,
+    "nodeID": 62122,
+    "spellName": "Ice Block",
+    "maxRanks": 1,
+    "spellID": 45438
+  },
+  {
+    "type": 0,
+    "spellIcon": 252270,
+    "nodeID": 62123,
+    "spellName": "Winter's Protection",
+    "maxRanks": 2,
+    "spellID": 382424
+  },
+  {
+    "type": 0,
+    "spellIcon": 135994,
+    "nodeID": 62124,
+    "spellName": "Mirror Image",
+    "maxRanks": 1,
+    "spellID": 55342
+  },
+  {
+    "type": 2,
+    "spellIcon": 1387356,
+    "nodeID": 62125,
+    "spellName": "Reduplication",
+    "maxRanks": 1,
+    "spellID": 382569
+  },
+  {
+    "type": 2,
+    "spellIcon": 135754,
+    "nodeID": 62125,
+    "spellName": "Reabsorption",
+    "maxRanks": 1,
+    "spellID": 382820
+  },
+  {
+    "type": 0,
+    "spellIcon": 1033909,
+    "nodeID": 62126,
+    "spellName": "Ice Nova",
+    "maxRanks": 1,
+    "spellID": 157997
+  },
+  {
+    "type": 0,
+    "spellIcon": 133736,
+    "nodeID": 62127,
+    "spellName": "Tome of Rhonin",
+    "maxRanks": 1,
+    "spellID": 382493
+  },
+  {
+    "type": 0,
+    "spellIcon": 236214,
+    "nodeID": 62128,
+    "spellName": "Frigid Winds",
+    "maxRanks": 2,
+    "spellID": 235224
+  },
+  {
+    "type": 0,
+    "spellIcon": 136106,
+    "nodeID": 62129,
+    "spellName": "Time Manipulation",
+    "maxRanks": 2,
+    "spellID": 387807
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 629077,
+    "nodeID": 62150,
+    "spellName": "Freezing Rain",
+    "maxRanks": 1,
+    "spellID": 270233
+  },
+  {
+    "type": 0,
+    "spellIcon": 135782,
+    "nodeID": 62151,
+    "spellName": "Freezing Winds",
+    "maxRanks": 1,
+    "spellID": 382103
+  },
+  {
+    "type": 0,
+    "spellIcon": 1698698,
+    "nodeID": 62152,
+    "spellName": "Snap Freeze",
+    "maxRanks": 1,
+    "spellID": 378901
+  },
+  {
+    "type": 0,
+    "spellIcon": 340336,
+    "nodeID": 62153,
+    "spellName": "Slick Ice",
+    "maxRanks": 1,
+    "spellID": 382144
+  },
+  {
+    "type": 0,
+    "spellIcon": 135864,
+    "nodeID": 62154,
+    "spellName": "Icy Propulsion",
+    "maxRanks": 1,
+    "spellID": 378433
+  },
+  {
+    "type": 0,
+    "spellIcon": 135844,
+    "nodeID": 62155,
+    "spellName": "Chain Reaction",
+    "maxRanks": 1,
+    "spellID": 278309
+  },
+  {
+    "type": 0,
+    "spellIcon": 1036179,
+    "nodeID": 62156,
+    "spellName": "Thermal Void",
+    "maxRanks": 1,
+    "spellID": 155149
+  },
+  {
+    "type": 0,
+    "spellIcon": 1698699,
+    "nodeID": 62157,
+    "spellName": "Glacial Spike",
+    "maxRanks": 1,
+    "spellID": 199786
+  },
+  {
+    "type": 0,
+    "spellIcon": 1392550,
+    "nodeID": 62158,
+    "spellName": "Hailstones",
+    "maxRanks": 2,
+    "spellID": 381244
+  },
+  {
+    "type": 0,
+    "spellIcon": 334365,
+    "nodeID": 62159,
+    "spellName": "Deep Shatter",
+    "maxRanks": 2,
+    "spellID": 378749
+  },
+  {
+    "type": 0,
+    "spellIcon": 135989,
+    "nodeID": 62160,
+    "spellName": "Subzero",
+    "maxRanks": 2,
+    "spellID": 380154
+  },
+  {
+    "type": 0,
+    "spellIcon": 429385,
+    "nodeID": 62161,
+    "spellName": "Splitting Ice",
+    "maxRanks": 1,
+    "spellID": 56377
+  },
+  {
+    "type": 0,
+    "spellIcon": 135783,
+    "nodeID": 62162,
+    "spellName": "Splintering Cold",
+    "maxRanks": 2,
+    "spellID": 379049
+  },
+  {
+    "type": 0,
+    "spellIcon": 1698700,
+    "nodeID": 62163,
+    "spellName": "Ray of Frost",
+    "maxRanks": 1,
+    "spellID": 205021
+  },
+  {
+    "type": 0,
+    "spellIcon": 236227,
+    "nodeID": 62164,
+    "spellName": "Fingers of Frost",
+    "maxRanks": 1,
+    "spellID": 112965
+  },
+  {
+    "type": 0,
+    "spellIcon": 135849,
+    "nodeID": 62165,
+    "spellName": "Shatter",
+    "maxRanks": 1,
+    "spellID": 12982
+  },
+  {
+    "type": 0,
+    "spellIcon": 135845,
+    "nodeID": 62166,
+    "spellName": "Piercing Cold",
+    "maxRanks": 1,
+    "spellID": 378919
+  },
+  {
+    "type": 0,
+    "spellIcon": 236208,
+    "nodeID": 62167,
+    "spellName": "Bone Chilling",
+    "maxRanks": 1,
+    "spellID": 205027
+  },
+  {
+    "type": 0,
+    "spellIcon": 612394,
+    "nodeID": 62168,
+    "spellName": "Flash Freeze",
+    "maxRanks": 1,
+    "spellID": 379993
+  },
+  {
+    "type": 0,
+    "spellIcon": 135857,
+    "nodeID": 62169,
+    "spellName": "Ice Caller",
+    "maxRanks": 1,
+    "spellID": 236662
+  },
+  {
+    "type": 0,
+    "spellIcon": 135787,
+    "nodeID": 62170,
+    "spellName": "Snowstorm",
+    "maxRanks": 2,
+    "spellID": 381706
+  },
+  {
+    "type": 0,
+    "spellIcon": 135838,
+    "nodeID": 62171,
+    "spellName": "Icy Veins",
+    "maxRanks": 1,
+    "spellID": 12472
+  },
+  {
+    "type": 0,
+    "spellIcon": 1390943,
+    "nodeID": 62172,
+    "spellName": "Wintertide",
+    "maxRanks": 2,
+    "spellID": 378406
+  },
+  {
+    "type": 2,
+    "spellIcon": 342402,
+    "nodeID": 62173,
+    "spellName": "Lonely Winter",
+    "maxRanks": 1,
+    "spellID": 205024
+  },
+  {
+    "type": 2,
+    "spellIcon": 135862,
+    "nodeID": 62173,
+    "spellName": "Summon Water Elemental",
+    "maxRanks": 1,
+    "spellID": 31687
+  },
+  {
+    "type": 0,
+    "spellIcon": 135865,
+    "nodeID": 62174,
+    "spellName": "Cold Snap",
+    "maxRanks": 1,
+    "spellID": 235219
+  },
+  {
+    "type": 0,
+    "spellIcon": 135857,
+    "nodeID": 62175,
+    "spellName": "Blizzard",
+    "maxRanks": 1,
+    "spellID": 190356
+  },
+  {
+    "type": 0,
+    "spellIcon": 135844,
+    "nodeID": 62176,
+    "spellName": "Ice Lance",
+    "maxRanks": 1,
+    "spellID": 30455
+  },
+  {
+    "type": 0,
+    "spellIcon": 629077,
+    "nodeID": 62177,
+    "spellName": "Frozen Orb",
+    "maxRanks": 1,
+    "spellID": 84714
+  },
+  {
+    "type": 0,
+    "spellIcon": 1506795,
+    "nodeID": 62178,
+    "spellName": "Flurry",
+    "maxRanks": 1,
+    "spellID": 44614
+  },
+  {
+    "type": 0,
+    "spellIcon": 236206,
+    "nodeID": 62179,
+    "spellName": "Brain Freeze",
+    "maxRanks": 1,
+    "spellID": 190447
+  },
+  {
+    "type": 2,
+    "spellIcon": 1387352,
+    "nodeID": 62180,
+    "spellName": "Frozen Touch",
+    "maxRanks": 1,
+    "spellID": 205030
+  },
+  {
+    "type": 2,
+    "spellIcon": 1392551,
+    "nodeID": 62180,
+    "spellName": "Ebonbolt",
+    "maxRanks": 1,
+    "spellID": 257537
+  },
+  {
+    "type": 0,
+    "spellIcon": 135833,
+    "nodeID": 62181,
+    "spellName": "Perpetual Winter",
+    "maxRanks": 1,
+    "spellID": 378198
+  },
+  {
+    "type": 0,
+    "spellIcon": 135152,
+    "nodeID": 62182,
+    "spellName": "Glacial Assault",
+    "maxRanks": 2,
+    "spellID": 378947
+  },
+  {
+    "type": 0,
+    "spellIcon": 2126034,
+    "nodeID": 62183,
+    "spellName": "Comet Storm",
+    "maxRanks": 1,
+    "spellID": 153595
+  },
+  {
+    "type": 0,
+    "spellIcon": 135816,
+    "nodeID": 62184,
+    "spellName": "Fractured Frost",
+    "maxRanks": 2,
+    "spellID": 378448
+  },
+  {
+    "type": 0,
+    "spellIcon": 236209,
+    "nodeID": 62185,
+    "spellName": "Cold Front",
+    "maxRanks": 1,
+    "spellID": 382110
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 135842,
+    "nodeID": 81467,
+    "spellName": "Frostbite",
+    "maxRanks": 1,
+    "spellID": 378756
+  },
+  {
+    "type": 0,
+    "spellIcon": 135837,
+    "nodeID": 81468,
+    "spellName": "Everlasting Frost",
+    "maxRanks": 1,
+    "spellID": 385167
+  }
+]

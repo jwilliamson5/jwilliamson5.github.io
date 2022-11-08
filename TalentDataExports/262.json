@@ -1,0 +1,1133 @@
+[
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 524305,
+    "nodeID": 80977,
+    "spellName": "Rolling Magma",
+    "maxRanks": 2,
+    "spellID": 386443
+  },
+  {
+    "type": 2,
+    "spellIcon": 524795,
+    "nodeID": 80978,
+    "spellName": "Heat Wave",
+    "maxRanks": 1,
+    "spellID": 386474
+  },
+  {
+    "type": 2,
+    "spellIcon": 136028,
+    "nodeID": 80978,
+    "spellName": "Splintered Elements",
+    "maxRanks": 1,
+    "spellID": 382042
+  },
+  {
+    "type": 0,
+    "spellIcon": 451169,
+    "nodeID": 80979,
+    "spellName": "Lava Surge",
+    "maxRanks": 1,
+    "spellID": 77756
+  },
+  {
+    "type": 2,
+    "spellIcon": 538567,
+    "nodeID": 80980,
+    "spellName": "Refreshing Waters",
+    "maxRanks": 1,
+    "spellID": 378211
+  },
+  {
+    "type": 2,
+    "spellIcon": 132846,
+    "nodeID": 80980,
+    "spellName": "Primordial Bond",
+    "maxRanks": 1,
+    "spellID": 381764
+  },
+  {
+    "type": 2,
+    "spellIcon": 135790,
+    "nodeID": 80981,
+    "spellName": "Fire Elemental",
+    "maxRanks": 1,
+    "spellID": 198067
+  },
+  {
+    "type": 2,
+    "spellIcon": 2065626,
+    "nodeID": 80981,
+    "spellName": "Storm Elemental",
+    "maxRanks": 1,
+    "spellID": 192249
+  },
+  {
+    "type": 2,
+    "spellIcon": 4554451,
+    "nodeID": 80982,
+    "spellName": "Primordial Fury",
+    "maxRanks": 1,
+    "spellID": 378193
+  },
+  {
+    "type": 2,
+    "spellIcon": 1027879,
+    "nodeID": 80982,
+    "spellName": "Ancestral Wolf Affinity",
+    "maxRanks": 1,
+    "spellID": 382197
+  },
+  {
+    "type": 0,
+    "spellIcon": 135830,
+    "nodeID": 80983,
+    "spellName": "Elemental Fury",
+    "maxRanks": 1,
+    "spellID": 60188
+  },
+  {
+    "type": 0,
+    "spellIcon": 136026,
+    "nodeID": 80984,
+    "spellName": "Earth Shock",
+    "maxRanks": 1,
+    "spellID": 8042
+  },
+  {
+    "type": 0,
+    "spellIcon": 451165,
+    "nodeID": 80985,
+    "spellName": "Earthquake",
+    "maxRanks": 1,
+    "spellID": 61882
+  },
+  {
+    "type": 2,
+    "spellIcon": 132296,
+    "nodeID": 80986,
+    "spellName": "Tumultuous Fissures",
+    "maxRanks": 1,
+    "spellID": 381743
+  },
+  {
+    "type": 2,
+    "spellIcon": 893779,
+    "nodeID": 80986,
+    "spellName": "Inundate",
+    "maxRanks": 1,
+    "spellID": 378776
+  },
+  {
+    "type": 0,
+    "spellIcon": 839974,
+    "nodeID": 80987,
+    "spellName": "Call of Thunder",
+    "maxRanks": 1,
+    "spellID": 378241
+  },
+  {
+    "type": 0,
+    "spellIcon": 252174,
+    "nodeID": 80988,
+    "spellName": "Unrelenting Calamity",
+    "maxRanks": 1,
+    "spellID": 382685
+  },
+  {
+    "type": 0,
+    "spellIcon": 839977,
+    "nodeID": 80989,
+    "spellName": "Stormkeeper",
+    "maxRanks": 1,
+    "spellID": 191634
+  },
+  {
+    "type": 0,
+    "spellIcon": 135990,
+    "nodeID": 80990,
+    "spellName": "Flash of Lightning",
+    "maxRanks": 1,
+    "spellID": 381936
+  },
+  {
+    "type": 0,
+    "spellIcon": 451165,
+    "nodeID": 80991,
+    "spellName": "Echoes of Great Sundering",
+    "maxRanks": 2,
+    "spellID": 384087
+  },
+  {
+    "type": 2,
+    "spellIcon": 237443,
+    "nodeID": 80992,
+    "spellName": "Lightning Rod",
+    "maxRanks": 1,
+    "spellID": 210689
+  },
+  {
+    "type": 2,
+    "spellIcon": 839977,
+    "nodeID": 80992,
+    "spellName": "Stormkeeper",
+    "maxRanks": 1,
+    "spellID": 191634
+  },
+  {
+    "type": 0,
+    "spellIcon": 643246,
+    "nodeID": 80993,
+    "spellName": "Elemental Equilibrium",
+    "maxRanks": 2,
+    "spellID": 378271
+  },
+  {
+    "type": 0,
+    "spellIcon": 651244,
+    "nodeID": 80994,
+    "spellName": "Elemental Blast",
+    "maxRanks": 1,
+    "spellID": 117014
+  },
+  {
+    "type": 0,
+    "spellIcon": 136213,
+    "nodeID": 80995,
+    "spellName": "Eye of the Storm",
+    "maxRanks": 2,
+    "spellID": 381708
+  },
+  {
+    "type": 2,
+    "spellIcon": 429384,
+    "nodeID": 80996,
+    "spellName": "Flux Melting",
+    "maxRanks": 1,
+    "spellID": 381776
+  },
+  {
+    "type": 2,
+    "spellIcon": 1397637,
+    "nodeID": 80996,
+    "spellName": "Electrified Shocks",
+    "maxRanks": 1,
+    "spellID": 382086
+  },
+  {
+    "type": 0,
+    "spellIcon": 135855,
+    "nodeID": 80997,
+    "spellName": "Icefury",
+    "maxRanks": 1,
+    "spellID": 210714
+  },
+  {
+    "type": 0,
+    "spellIcon": 1020305,
+    "nodeID": 80998,
+    "spellName": "Flow of Power",
+    "maxRanks": 1,
+    "spellID": 385923
+  },
+  {
+    "type": 0,
+    "spellIcon": 538566,
+    "nodeID": 80999,
+    "spellName": "Echo of the Elements",
+    "maxRanks": 1,
+    "spellID": 333919
+  },
+  {
+    "type": 2,
+    "spellIcon": 136099,
+    "nodeID": 81000,
+    "spellName": "Aftershock",
+    "maxRanks": 1,
+    "spellID": 273221
+  },
+  {
+    "type": 2,
+    "spellIcon": 136088,
+    "nodeID": 81000,
+    "spellName": "Surge of Power",
+    "maxRanks": 1,
+    "spellID": 262303
+  },
+  {
+    "type": 0,
+    "spellIcon": 135977,
+    "nodeID": 81001,
+    "spellName": "Further Beyond",
+    "maxRanks": 1,
+    "spellID": 381787
+  },
+  {
+    "type": 0,
+    "spellIcon": 237576,
+    "nodeID": 81002,
+    "spellName": "Oath of the Far Seer",
+    "maxRanks": 2,
+    "spellID": 381785
+  },
+  {
+    "type": 2,
+    "spellIcon": 960689,
+    "nodeID": 81003,
+    "spellName": "Deeply Rooted Elements",
+    "maxRanks": 1,
+    "spellID": 378270
+  },
+  {
+    "type": 2,
+    "spellIcon": 135791,
+    "nodeID": 81003,
+    "spellName": "Ascendance",
+    "maxRanks": 1,
+    "spellID": 114050
+  },
+  {
+    "type": 0,
+    "spellIcon": 136027,
+    "nodeID": 81004,
+    "spellName": "Master of the Elements",
+    "maxRanks": 2,
+    "spellID": 16166
+  },
+  {
+    "type": 0,
+    "spellIcon": 1282282,
+    "nodeID": 81005,
+    "spellName": "Searing Flames",
+    "maxRanks": 2,
+    "spellID": 381782
+  },
+  {
+    "type": 2,
+    "spellIcon": 524794,
+    "nodeID": 81006,
+    "spellName": "Windspeaker's Lava Resurgence",
+    "maxRanks": 1,
+    "spellID": 378268
+  },
+  {
+    "type": 2,
+    "spellIcon": 135790,
+    "nodeID": 81006,
+    "spellName": "Skybreaker's Fiery Demise",
+    "maxRanks": 1,
+    "spellID": 378310
+  },
+  {
+    "type": 0,
+    "spellIcon": 524796,
+    "nodeID": 81007,
+    "spellName": "Magma Chamber",
+    "maxRanks": 2,
+    "spellID": 381932
+  },
+  {
+    "type": 2,
+    "spellIcon": 651081,
+    "nodeID": 81008,
+    "spellName": "Primal Elementalist",
+    "maxRanks": 1,
+    "spellID": 117013
+  },
+  {
+    "type": 2,
+    "spellIcon": 971079,
+    "nodeID": 81008,
+    "spellName": "Liquid Magma Totem",
+    "maxRanks": 1,
+    "spellID": 192222
+  },
+  {
+    "type": 0,
+    "spellIcon": 135814,
+    "nodeID": 81009,
+    "spellName": "Improved Flametongue Weapon",
+    "maxRanks": 1,
+    "spellID": 382027
+  },
+  {
+    "type": 0,
+    "spellIcon": 133779,
+    "nodeID": 81010,
+    "spellName": "Flames of the Cauldron",
+    "maxRanks": 1,
+    "spellID": 378266
+  },
+  {
+    "type": 0,
+    "spellIcon": 525024,
+    "nodeID": 81011,
+    "spellName": "Call of Fire",
+    "maxRanks": 1,
+    "spellID": 378255
+  },
+  {
+    "type": 0,
+    "spellIcon": 2101174,
+    "nodeID": 81012,
+    "spellName": "Mountains Will Fall",
+    "maxRanks": 1,
+    "spellID": 381726
+  },
+  {
+    "type": 0,
+    "spellIcon": 136050,
+    "nodeID": 81013,
+    "spellName": "Echo Chamber",
+    "maxRanks": 2,
+    "spellID": 382032
+  },
+  {
+    "type": 0,
+    "spellIcon": 3578231,
+    "nodeID": 81014,
+    "spellName": "Primordial Wave",
+    "maxRanks": 1,
+    "spellID": 375982
+  },
+  {
+    "type": 0,
+    "spellIcon": 135820,
+    "nodeID": 81015,
+    "spellName": "Power of the Maelstrom",
+    "maxRanks": 2,
+    "spellID": 191861
+  },
+  {
+    "type": 0,
+    "spellIcon": 237584,
+    "nodeID": 81016,
+    "spellName": "Swelling Maelstrom",
+    "maxRanks": 1,
+    "spellID": 381707
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 2,
+    "spellIcon": 237572,
+    "nodeID": 81056,
+    "spellName": "Planes Traveler",
+    "maxRanks": 1,
+    "spellID": 381647
+  },
+  {
+    "type": 2,
+    "spellIcon": 237571,
+    "nodeID": 81056,
+    "spellName": "Astral Bulwark",
+    "maxRanks": 1,
+    "spellID": 377933
+  },
+  {
+    "type": 0,
+    "spellIcon": 538565,
+    "nodeID": 81057,
+    "spellName": "Astral Shift",
+    "maxRanks": 1,
+    "spellID": 108271
+  },
+  {
+    "type": 0,
+    "spellIcon": 462651,
+    "nodeID": 81058,
+    "spellName": "Focused Insight",
+    "maxRanks": 2,
+    "spellID": 381666
+  },
+  {
+    "type": 0,
+    "spellIcon": 132152,
+    "nodeID": 81059,
+    "spellName": "Flurry",
+    "maxRanks": 1,
+    "spellID": 382888
+  },
+  {
+    "type": 0,
+    "spellIcon": 237584,
+    "nodeID": 81060,
+    "spellName": "Maelstrom Weapon",
+    "maxRanks": 1,
+    "spellID": 187880
+  },
+  {
+    "type": 0,
+    "spellIcon": 136015,
+    "nodeID": 81061,
+    "spellName": "Chain Lightning",
+    "maxRanks": 1,
+    "spellID": 188443
+  },
+  {
+    "type": 0,
+    "spellIcon": 237582,
+    "nodeID": 81062,
+    "spellName": "Lava Burst",
+    "maxRanks": 1,
+    "spellID": 51505
+  },
+  {
+    "type": 0,
+    "spellIcon": 136042,
+    "nodeID": 81063,
+    "spellName": "Chain Heal",
+    "maxRanks": 1,
+    "spellID": 1064
+  },
+  {
+    "type": 0,
+    "spellIcon": 136024,
+    "nodeID": 81064,
+    "spellName": "Earth Elemental",
+    "maxRanks": 1,
+    "spellID": 198103
+  },
+  {
+    "type": 2,
+    "spellIcon": 237585,
+    "nodeID": 81065,
+    "spellName": "Graceful Spirit",
+    "maxRanks": 1,
+    "spellID": 192088
+  },
+  {
+    "type": 2,
+    "spellIcon": 1851463,
+    "nodeID": 81065,
+    "spellName": "Spiritwalker's Aegis",
+    "maxRanks": 1,
+    "spellID": 378077
+  },
+  {
+    "type": 0,
+    "spellIcon": 451170,
+    "nodeID": 81066,
+    "spellName": "Spiritwalker's Grace",
+    "maxRanks": 1,
+    "spellID": 79206
+  },
+  {
+    "type": 0,
+    "spellIcon": 430840,
+    "nodeID": 81067,
+    "spellName": "Fire and Ice",
+    "maxRanks": 1,
+    "spellID": 382886
+  },
+  {
+    "type": 0,
+    "spellIcon": 136018,
+    "nodeID": 81068,
+    "spellName": "Wind Shear",
+    "maxRanks": 1,
+    "spellID": 57994
+  },
+  {
+    "type": 0,
+    "spellIcon": 136108,
+    "nodeID": 81069,
+    "spellName": "Tremor Totem",
+    "maxRanks": 1,
+    "spellID": 8143
+  },
+  {
+    "type": 2,
+    "spellIcon": 136013,
+    "nodeID": 81070,
+    "spellName": "Static Charge",
+    "maxRanks": 1,
+    "spellID": 265046
+  },
+  {
+    "type": 2,
+    "spellIcon": 953039,
+    "nodeID": 81070,
+    "spellName": "Guardian's Cudgel",
+    "maxRanks": 1,
+    "spellID": 381819
+  },
+  {
+    "type": 0,
+    "spellIcon": 136013,
+    "nodeID": 81071,
+    "spellName": "Capacitor Totem",
+    "maxRanks": 1,
+    "spellID": 192058
+  },
+  {
+    "type": 2,
+    "spellIcon": 1033494,
+    "nodeID": 81072,
+    "spellName": "Spirit Wolf",
+    "maxRanks": 1,
+    "spellID": 260878
+  },
+  {
+    "type": 2,
+    "spellIcon": 236186,
+    "nodeID": 81072,
+    "spellName": "Thunderous Paws",
+    "maxRanks": 1,
+    "spellID": 378075
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 135849,
+    "nodeID": 81074,
+    "spellName": "Frost Shock",
+    "maxRanks": 1,
+    "spellID": 196840
+  },
+  {
+    "type": 0,
+    "spellIcon": 236288,
+    "nodeID": 81075,
+    "spellName": "Cleanse Spirit",
+    "maxRanks": 1,
+    "spellID": 51886
+  },
+  {
+    "type": 2,
+    "spellIcon": 136075,
+    "nodeID": 81076,
+    "spellName": "Purge",
+    "maxRanks": 1,
+    "spellID": 370
+  },
+  {
+    "type": 2,
+    "spellIcon": 451166,
+    "nodeID": 81076,
+    "spellName": "Greater Purge",
+    "maxRanks": 1,
+    "spellID": 378773
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 2,
+    "spellIcon": 237579,
+    "nodeID": 81078,
+    "spellName": "Voodoo Mastery",
+    "maxRanks": 1,
+    "spellID": 204268
+  },
+  {
+    "type": 2,
+    "spellIcon": 2399261,
+    "nodeID": 81078,
+    "spellName": "Enfeeblement",
+    "maxRanks": 1,
+    "spellID": 378079
+  },
+  {
+    "type": 0,
+    "spellIcon": 237579,
+    "nodeID": 81079,
+    "spellName": "Hex",
+    "maxRanks": 1,
+    "spellID": 51514
+  },
+  {
+    "type": 0,
+    "spellIcon": 538574,
+    "nodeID": 81080,
+    "spellName": "Totemic Projection",
+    "maxRanks": 1,
+    "spellID": 108287
+  },
+  {
+    "type": 0,
+    "spellIcon": 136060,
+    "nodeID": 81081,
+    "spellName": "Nature's Guardian",
+    "maxRanks": 2,
+    "spellID": 30884
+  },
+  {
+    "type": 2,
+    "spellIcon": 538576,
+    "nodeID": 81082,
+    "spellName": "Wind Rush Totem",
+    "maxRanks": 1,
+    "spellID": 192077
+  },
+  {
+    "type": 2,
+    "spellIcon": 136100,
+    "nodeID": 81082,
+    "spellName": "Earthgrab Totem",
+    "maxRanks": 1,
+    "spellID": 51485
+  },
+  {
+    "type": 0,
+    "spellIcon": 1016245,
+    "nodeID": 81083,
+    "spellName": "Ancestral Defense",
+    "maxRanks": 1,
+    "spellID": 382947
+  },
+  {
+    "type": 0,
+    "spellIcon": 4554441,
+    "nodeID": 81084,
+    "spellName": "Elemental Warding",
+    "maxRanks": 2,
+    "spellID": 381650
+  },
+  {
+    "type": 0,
+    "spellIcon": 133439,
+    "nodeID": 81085,
+    "spellName": "Brimming with Life",
+    "maxRanks": 1,
+    "spellID": 381689
+  },
+  {
+    "type": 0,
+    "spellIcon": 136094,
+    "nodeID": 81086,
+    "spellName": "Nature's Fury",
+    "maxRanks": 2,
+    "spellID": 381655
+  },
+  {
+    "type": 0,
+    "spellIcon": 236154,
+    "nodeID": 81087,
+    "spellName": "Winds of Al'Akir",
+    "maxRanks": 2,
+    "spellID": 382215
+  },
+  {
+    "type": 2,
+    "spellIcon": 132328,
+    "nodeID": 81088,
+    "spellName": "Spirit Walk",
+    "maxRanks": 1,
+    "spellID": 58875
+  },
+  {
+    "type": 2,
+    "spellIcon": 1029585,
+    "nodeID": 81088,
+    "spellName": "Gust of Wind",
+    "maxRanks": 1,
+    "spellID": 192063
+  },
+  {
+    "type": 0,
+    "spellIcon": 514641,
+    "nodeID": 81089,
+    "spellName": "Go with the Flow",
+    "maxRanks": 2,
+    "spellID": 381678
+  },
+  {
+    "type": 2,
+    "spellIcon": 538570,
+    "nodeID": 81090,
+    "spellName": "Call of the Elements",
+    "maxRanks": 1,
+    "spellID": 383011
+  },
+  {
+    "type": 2,
+    "spellIcon": 1411837,
+    "nodeID": 81090,
+    "spellName": "Creation Core",
+    "maxRanks": 1,
+    "spellID": 383012
+  },
+  {
+    "type": 0,
+    "spellIcon": 538570,
+    "nodeID": 81091,
+    "spellName": "Totemic Recall",
+    "maxRanks": 1,
+    "spellID": 108285
+  },
+  {
+    "type": 0,
+    "spellIcon": 136051,
+    "nodeID": 81092,
+    "spellName": "Surging Shields",
+    "maxRanks": 2,
+    "spellID": 382033
+  },
+  {
+    "type": 0,
+    "spellIcon": 136070,
+    "nodeID": 81093,
+    "spellName": "Poison Cleansing Totem",
+    "maxRanks": 1,
+    "spellID": 383013
+  },
+  {
+    "type": 0,
+    "spellIcon": 134920,
+    "nodeID": 81094,
+    "spellName": "Totemic Focus",
+    "maxRanks": 2,
+    "spellID": 382201
+  },
+  {
+    "type": 2,
+    "spellIcon": 4667425,
+    "nodeID": 81095,
+    "spellName": "Stoneskin Totem",
+    "maxRanks": 1,
+    "spellID": 383017
+  },
+  {
+    "type": 2,
+    "spellIcon": 538575,
+    "nodeID": 81095,
+    "spellName": "Tranquil Air Totem",
+    "maxRanks": 1,
+    "spellID": 383019
+  },
+  {
+    "type": 2,
+    "spellIcon": 839983,
+    "nodeID": 81096,
+    "spellName": "Thundershock",
+    "maxRanks": 1,
+    "spellID": 378779
+  },
+  {
+    "type": 2,
+    "spellIcon": 1385911,
+    "nodeID": 81096,
+    "spellName": "Lightning Lasso",
+    "maxRanks": 1,
+    "spellID": 305483
+  },
+  {
+    "type": 0,
+    "spellIcon": 237589,
+    "nodeID": 81097,
+    "spellName": "Thunderstorm",
+    "maxRanks": 1,
+    "spellID": 51490
+  },
+  {
+    "type": 0,
+    "spellIcon": 136048,
+    "nodeID": 81098,
+    "spellName": "Improved Lightning Bolt",
+    "maxRanks": 2,
+    "spellID": 381674
+  },
+  {
+    "type": 0,
+    "spellIcon": 136076,
+    "nodeID": 81099,
+    "spellName": "Nature's Swiftness",
+    "maxRanks": 1,
+    "spellID": 378081
+  },
+  {
+    "type": 0,
+    "spellIcon": 135127,
+    "nodeID": 81100,
+    "spellName": "Healing Stream Totem",
+    "maxRanks": 1,
+    "spellID": 5394
+  },
+  {
+    "type": 0,
+    "spellIcon": 237549,
+    "nodeID": 81101,
+    "spellName": "Swirling Currents",
+    "maxRanks": 2,
+    "spellID": 378094
+  },
+  {
+    "type": 0,
+    "spellIcon": 538564,
+    "nodeID": 81102,
+    "spellName": "Ancestral Guidance",
+    "maxRanks": 1,
+    "spellID": 108281
+  },
+  {
+    "type": 0,
+    "spellIcon": 136053,
+    "nodeID": 81103,
+    "spellName": "Mana Spring Totem",
+    "maxRanks": 1,
+    "spellID": 381930
+  },
+  {
+    "type": 0,
+    "spellIcon": 136008,
+    "nodeID": 81104,
+    "spellName": "Totemic Surge",
+    "maxRanks": 2,
+    "spellID": 381867
+  },
+  {
+    "type": 0,
+    "spellIcon": 236224,
+    "nodeID": 81105,
+    "spellName": "Elemental Orbit",
+    "maxRanks": 1,
+    "spellID": 383010
+  },
+  {
+    "type": 0,
+    "spellIcon": 136089,
+    "nodeID": 81106,
+    "spellName": "Earth Shield",
+    "maxRanks": 1,
+    "spellID": 974
+  },
+  {
+    "deadTalent": 1
+  }
+]

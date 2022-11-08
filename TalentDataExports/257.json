@@ -1,0 +1,1085 @@
+[
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 2,
+    "spellIcon": 1295523,
+    "nodeID": 82554,
+    "spellName": "Divine Image",
+    "maxRanks": 1,
+    "spellID": 392988
+  },
+  {
+    "type": 2,
+    "spellIcon": 521584,
+    "nodeID": 82554,
+    "spellName": "Divine Word",
+    "maxRanks": 1,
+    "spellID": 372760
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 614257,
+    "nodeID": 82556,
+    "spellName": "Phantasm",
+    "maxRanks": 1,
+    "spellID": 108942
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 2,
+    "spellIcon": 135913,
+    "nodeID": 82603,
+    "spellName": "Lightweaver",
+    "maxRanks": 1,
+    "spellID": 390992
+  },
+  {
+    "type": 2,
+    "spellIcon": 135980,
+    "nodeID": 82603,
+    "spellName": "Lightwell",
+    "maxRanks": 1,
+    "spellID": 372835
+  },
+  {
+    "type": 0,
+    "spellIcon": 135920,
+    "nodeID": 82604,
+    "spellName": "Resonant Words",
+    "maxRanks": 2,
+    "spellID": 372309
+  },
+  {
+    "type": 2,
+    "spellIcon": 135937,
+    "nodeID": 82605,
+    "spellName": "Miracle Worker",
+    "maxRanks": 1,
+    "spellID": 235587
+  },
+  {
+    "type": 2,
+    "spellIcon": 1295528,
+    "nodeID": 82605,
+    "spellName": "Restitution",
+    "maxRanks": 1,
+    "spellID": 391124
+  },
+  {
+    "type": 0,
+    "spellIcon": 135265,
+    "nodeID": 82606,
+    "spellName": "Searing Light",
+    "maxRanks": 2,
+    "spellID": 372611
+  },
+  {
+    "type": 0,
+    "spellIcon": 525023,
+    "nodeID": 82607,
+    "spellName": "Empyreal Blaze",
+    "maxRanks": 1,
+    "spellID": 372616
+  },
+  {
+    "type": 0,
+    "spellIcon": 1345176,
+    "nodeID": 82608,
+    "spellName": "Answered Prayers",
+    "maxRanks": 2,
+    "spellID": 391387
+  },
+  {
+    "type": 0,
+    "spellIcon": 1322719,
+    "nodeID": 82609,
+    "spellName": "Desperate Times",
+    "maxRanks": 2,
+    "spellID": 391381
+  },
+  {
+    "type": 2,
+    "spellIcon": 1060983,
+    "nodeID": 82610,
+    "spellName": "Apotheosis",
+    "maxRanks": 1,
+    "spellID": 200183
+  },
+  {
+    "type": 2,
+    "spellIcon": 458225,
+    "nodeID": 82610,
+    "spellName": "Holy Word: Salvation",
+    "maxRanks": 1,
+    "spellID": 265202
+  },
+  {
+    "type": 0,
+    "spellIcon": 237549,
+    "nodeID": 82611,
+    "spellName": "Harmonious Apparatus",
+    "maxRanks": 2,
+    "spellID": 390994
+  },
+  {
+    "type": 2,
+    "spellIcon": 236254,
+    "nodeID": 82612,
+    "spellName": "Empowered Renew",
+    "maxRanks": 1,
+    "spellID": 391339
+  },
+  {
+    "type": 2,
+    "spellIcon": 135953,
+    "nodeID": 82612,
+    "spellName": "Rapid Recovery",
+    "maxRanks": 1,
+    "spellID": 391368
+  },
+  {
+    "type": 0,
+    "spellIcon": 463565,
+    "nodeID": 82613,
+    "spellName": "Gales of Song",
+    "maxRanks": 2,
+    "spellID": 372370
+  },
+  {
+    "type": 0,
+    "spellIcon": 237537,
+    "nodeID": 82614,
+    "spellName": "Prismatic Echoes",
+    "maxRanks": 2,
+    "spellID": 390967
+  },
+  {
+    "type": 0,
+    "spellIcon": 458721,
+    "nodeID": 82615,
+    "spellName": "Say Your Prayers",
+    "maxRanks": 1,
+    "spellID": 391186
+  },
+  {
+    "type": 0,
+    "spellIcon": 135944,
+    "nodeID": 82616,
+    "spellName": "Prayers of the Virtuous",
+    "maxRanks": 2,
+    "spellID": 390977
+  },
+  {
+    "type": 0,
+    "spellIcon": 135982,
+    "nodeID": 82617,
+    "spellName": "Symbol of Hope",
+    "maxRanks": 1,
+    "spellID": 64901
+  },
+  {
+    "type": 0,
+    "spellIcon": 135740,
+    "nodeID": 82618,
+    "spellName": "Enlightenment",
+    "maxRanks": 1,
+    "spellID": 193155
+  },
+  {
+    "type": 0,
+    "spellIcon": 135904,
+    "nodeID": 82619,
+    "spellName": "Censure",
+    "maxRanks": 1,
+    "spellID": 200199
+  },
+  {
+    "type": 0,
+    "spellIcon": 1322723,
+    "nodeID": 82620,
+    "spellName": "Renewed Faith",
+    "maxRanks": 1,
+    "spellID": 341997
+  },
+  {
+    "type": 0,
+    "spellIcon": 237540,
+    "nodeID": 82621,
+    "spellName": "Divine Hymn",
+    "maxRanks": 1,
+    "spellID": 64843
+  },
+  {
+    "type": 0,
+    "spellIcon": 1137530,
+    "nodeID": 82622,
+    "spellName": "Everlasting Light",
+    "maxRanks": 1,
+    "spellID": 391161
+  },
+  {
+    "type": 0,
+    "spellIcon": 135943,
+    "nodeID": 82623,
+    "spellName": "Prayerful Litany",
+    "maxRanks": 1,
+    "spellID": 391209
+  },
+  {
+    "type": 0,
+    "spellIcon": 135887,
+    "nodeID": 82624,
+    "spellName": "Circle of Healing",
+    "maxRanks": 1,
+    "spellID": 204883
+  },
+  {
+    "type": 2,
+    "spellIcon": 457654,
+    "nodeID": 82625,
+    "spellName": "Prayer Circle",
+    "maxRanks": 1,
+    "spellID": 321377
+  },
+  {
+    "type": 2,
+    "spellIcon": 135887,
+    "nodeID": 82625,
+    "spellName": "Healing Chorus",
+    "maxRanks": 1,
+    "spellID": 390881
+  },
+  {
+    "type": 0,
+    "spellIcon": 135905,
+    "nodeID": 82626,
+    "spellName": "Orison",
+    "maxRanks": 1,
+    "spellID": 390947
+  },
+  {
+    "type": 0,
+    "spellIcon": 135907,
+    "nodeID": 82627,
+    "spellName": "Crisis Management",
+    "maxRanks": 2,
+    "spellID": 390954
+  },
+  {
+    "type": 0,
+    "spellIcon": 1386545,
+    "nodeID": 82628,
+    "spellName": "Pontifex",
+    "maxRanks": 1,
+    "spellID": 390980
+  },
+  {
+    "type": 0,
+    "spellIcon": 1100172,
+    "nodeID": 82629,
+    "spellName": "Light of the Naaru",
+    "maxRanks": 2,
+    "spellID": 196985
+  },
+  {
+    "type": 0,
+    "spellIcon": 135980,
+    "nodeID": 82630,
+    "spellName": "Cosmic Ripple",
+    "maxRanks": 1,
+    "spellID": 238136
+  },
+  {
+    "type": 0,
+    "spellIcon": 135943,
+    "nodeID": 82631,
+    "spellName": "Prayer of Healing",
+    "maxRanks": 1,
+    "spellID": 596
+  },
+  {
+    "type": 0,
+    "spellIcon": 237541,
+    "nodeID": 82632,
+    "spellName": "Holy Word: Sanctify",
+    "maxRanks": 1,
+    "spellID": 34861
+  },
+  {
+    "type": 2,
+    "spellIcon": 1323457,
+    "nodeID": 82633,
+    "spellName": "Revitalizing Prayers",
+    "maxRanks": 1,
+    "spellID": 391208
+  },
+  {
+    "type": 2,
+    "spellIcon": 135948,
+    "nodeID": 82633,
+    "spellName": "Sanctified Prayers",
+    "maxRanks": 1,
+    "spellID": 196489
+  },
+  {
+    "type": 0,
+    "spellIcon": 1022951,
+    "nodeID": 82634,
+    "spellName": "Trail of Light",
+    "maxRanks": 2,
+    "spellID": 200128
+  },
+  {
+    "type": 0,
+    "spellIcon": 132866,
+    "nodeID": 82635,
+    "spellName": "Afterlife",
+    "maxRanks": 1,
+    "spellID": 196707
+  },
+  {
+    "type": 2,
+    "spellIcon": 612969,
+    "nodeID": 82636,
+    "spellName": "Guardian Angel",
+    "maxRanks": 1,
+    "spellID": 200209
+  },
+  {
+    "type": 2,
+    "spellIcon": 237542,
+    "nodeID": 82636,
+    "spellName": "Guardians of the Light",
+    "maxRanks": 1,
+    "spellID": 196437
+  },
+  {
+    "type": 0,
+    "spellIcon": 237542,
+    "nodeID": 82637,
+    "spellName": "Guardian Spirit",
+    "maxRanks": 1,
+    "spellID": 47788
+  },
+  {
+    "type": 0,
+    "spellIcon": 135937,
+    "nodeID": 82638,
+    "spellName": "Holy Word: Serenity",
+    "maxRanks": 1,
+    "spellID": 2050
+  },
+  {
+    "type": 0,
+    "spellIcon": 135886,
+    "nodeID": 82639,
+    "spellName": "Holy Word: Chastise",
+    "maxRanks": 1,
+    "spellID": 88625
+  },
+  {
+    "type": 0,
+    "spellIcon": 136110,
+    "nodeID": 82640,
+    "spellName": "Burning Vehemence",
+    "maxRanks": 1,
+    "spellID": 372307
+  },
+  {
+    "type": 2,
+    "spellIcon": 775460,
+    "nodeID": 82641,
+    "spellName": "Benediction",
+    "maxRanks": 1,
+    "spellID": 193157
+  },
+  {
+    "type": 2,
+    "spellIcon": 135918,
+    "nodeID": 82641,
+    "spellName": "Holy Mending",
+    "maxRanks": 1,
+    "spellID": 391154
+  },
+  {
+    "type": 0,
+    "spellIcon": 135946,
+    "nodeID": 82642,
+    "spellName": "Divine Service",
+    "maxRanks": 1,
+    "spellID": 391233
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 3565723,
+    "nodeID": 82672,
+    "spellName": "Manipulation",
+    "maxRanks": 2,
+    "spellID": 390996
+  },
+  {
+    "type": 0,
+    "spellIcon": 3528308,
+    "nodeID": 82673,
+    "spellName": "Shattered Perceptions",
+    "maxRanks": 1,
+    "spellID": 391112
+  },
+  {
+    "type": 0,
+    "spellIcon": 537079,
+    "nodeID": 82674,
+    "spellName": "Void Shift",
+    "maxRanks": 1,
+    "spellID": 108968
+  },
+  {
+    "type": 0,
+    "spellIcon": 633042,
+    "nodeID": 82675,
+    "spellName": "Angelic Bulwark",
+    "maxRanks": 1,
+    "spellID": 108945
+  },
+  {
+    "type": 0,
+    "spellIcon": 4667420,
+    "nodeID": 82676,
+    "spellName": "Power Word: Life",
+    "maxRanks": 1,
+    "spellID": 373481
+  },
+  {
+    "type": 0,
+    "spellIcon": 135981,
+    "nodeID": 82677,
+    "spellName": "Surge of Light",
+    "maxRanks": 2,
+    "spellID": 109186
+  },
+  {
+    "type": 2,
+    "spellIcon": 237550,
+    "nodeID": 82678,
+    "spellName": "Angel's Mercy",
+    "maxRanks": 1,
+    "spellID": 238100
+  },
+  {
+    "type": 2,
+    "spellIcon": 135883,
+    "nodeID": 82678,
+    "spellName": "Binding Heals",
+    "maxRanks": 1,
+    "spellID": 368275
+  },
+  {
+    "type": 0,
+    "spellIcon": 135954,
+    "nodeID": 82679,
+    "spellName": "Light's Inspiration",
+    "maxRanks": 2,
+    "spellID": 373450
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 458412,
+    "nodeID": 82681,
+    "spellName": "Crystalline Reflection",
+    "maxRanks": 2,
+    "spellID": 373457
+  },
+  {
+    "type": 2,
+    "spellIcon": 537026,
+    "nodeID": 82682,
+    "spellName": "Divine Star",
+    "maxRanks": 1,
+    "spellID": 110744
+  },
+  {
+    "type": 2,
+    "spellIcon": 632352,
+    "nodeID": 82682,
+    "spellName": "Halo",
+    "maxRanks": 1,
+    "spellID": 120517
+  },
+  {
+    "type": 0,
+    "spellIcon": 2175503,
+    "nodeID": 82683,
+    "spellName": "Twins of the Sun Priestess",
+    "maxRanks": 1,
+    "spellID": 373466
+  },
+  {
+    "type": 0,
+    "spellIcon": 237566,
+    "nodeID": 82684,
+    "spellName": "Twist of Fate",
+    "maxRanks": 2,
+    "spellID": 390972
+  },
+  {
+    "type": 0,
+    "spellIcon": 136047,
+    "nodeID": 82685,
+    "spellName": "Translucent Image",
+    "maxRanks": 1,
+    "spellID": 373446
+  },
+  {
+    "type": 0,
+    "spellIcon": 135994,
+    "nodeID": 82686,
+    "spellName": "Improved Fade",
+    "maxRanks": 2,
+    "spellID": 390670
+  },
+  {
+    "type": 0,
+    "spellIcon": 3565723,
+    "nodeID": 82687,
+    "spellName": "Mindgames",
+    "maxRanks": 1,
+    "spellID": 375901
+  },
+  {
+    "type": 0,
+    "spellIcon": 3163621,
+    "nodeID": 82688,
+    "spellName": "Tithe Evasion",
+    "maxRanks": 1,
+    "spellID": 373223
+  },
+  {
+    "type": 0,
+    "spellIcon": 132299,
+    "nodeID": 82689,
+    "spellName": "Apathy",
+    "maxRanks": 1,
+    "spellID": 390668
+  },
+  {
+    "type": 0,
+    "spellIcon": 343633,
+    "nodeID": 82690,
+    "spellName": "San'layn",
+    "maxRanks": 1,
+    "spellID": 199855
+  },
+  {
+    "type": 0,
+    "spellIcon": 136230,
+    "nodeID": 82691,
+    "spellName": "Vampiric Embrace",
+    "maxRanks": 1,
+    "spellID": 15286
+  },
+  {
+    "type": 0,
+    "spellIcon": 132886,
+    "nodeID": 82692,
+    "spellName": "Void Shield",
+    "maxRanks": 1,
+    "spellID": 280749
+  },
+  {
+    "type": 0,
+    "spellIcon": 136091,
+    "nodeID": 82693,
+    "spellName": "Shackle Undead",
+    "maxRanks": 1,
+    "spellID": 9484
+  },
+  {
+    "type": 0,
+    "spellIcon": 135939,
+    "nodeID": 82694,
+    "spellName": "Power Infusion",
+    "maxRanks": 1,
+    "spellID": 10060
+  },
+  {
+    "type": 0,
+    "spellIcon": 132339,
+    "nodeID": 82695,
+    "spellName": "Psychic Voice",
+    "maxRanks": 1,
+    "spellID": 196704
+  },
+  {
+    "type": 0,
+    "spellIcon": 135928,
+    "nodeID": 82696,
+    "spellName": "Inspiration",
+    "maxRanks": 1,
+    "spellID": 390676
+  },
+  {
+    "type": 0,
+    "spellIcon": 236317,
+    "nodeID": 82697,
+    "spellName": "Unwavering Will",
+    "maxRanks": 2,
+    "spellID": 373456
+  },
+  {
+    "type": 0,
+    "spellIcon": 135739,
+    "nodeID": 82698,
+    "spellName": "Improved Mass Dispel",
+    "maxRanks": 1,
+    "spellID": 341167
+  },
+  {
+    "type": 0,
+    "spellIcon": 135739,
+    "nodeID": 82699,
+    "spellName": "Mass Dispel",
+    "maxRanks": 1,
+    "spellID": 32375
+  },
+  {
+    "type": 0,
+    "spellIcon": 135922,
+    "nodeID": 82700,
+    "spellName": "Rhapsody",
+    "maxRanks": 1,
+    "spellID": 390622
+  },
+  {
+    "type": 0,
+    "spellIcon": 135922,
+    "nodeID": 82701,
+    "spellName": "Holy Nova",
+    "maxRanks": 1,
+    "spellID": 132157
+  },
+  {
+    "type": 0,
+    "spellIcon": 1022949,
+    "nodeID": 82702,
+    "spellName": "Move with Grace",
+    "maxRanks": 1,
+    "spellID": 390620
+  },
+  {
+    "type": 0,
+    "spellIcon": 642580,
+    "nodeID": 82703,
+    "spellName": "Angelic Feather",
+    "maxRanks": 1,
+    "spellID": 121536
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 135935,
+    "nodeID": 82705,
+    "spellName": "Improved Purify",
+    "maxRanks": 1,
+    "spellID": 390632
+  },
+  {
+    "type": 0,
+    "spellIcon": 135982,
+    "nodeID": 82706,
+    "spellName": "Body and Soul",
+    "maxRanks": 1,
+    "spellID": 64129
+  },
+  {
+    "type": 2,
+    "spellIcon": 135923,
+    "nodeID": 82707,
+    "spellName": "Protective Light",
+    "maxRanks": 1,
+    "spellID": 193063
+  },
+  {
+    "type": 2,
+    "spellIcon": 135907,
+    "nodeID": 82707,
+    "spellName": "From Darkness Comes Light",
+    "maxRanks": 1,
+    "spellID": 390615
+  },
+  {
+    "type": 2,
+    "spellIcon": 3163624,
+    "nodeID": 82708,
+    "spellName": "Sheer Terror",
+    "maxRanks": 1,
+    "spellID": 390919
+  },
+  {
+    "type": 2,
+    "spellIcon": 537022,
+    "nodeID": 82708,
+    "spellName": "Void Tendrils",
+    "maxRanks": 1,
+    "spellID": 108920
+  },
+  {
+    "type": 0,
+    "spellIcon": 136163,
+    "nodeID": 82709,
+    "spellName": "Throes of Pain",
+    "maxRanks": 2,
+    "spellID": 377422
+  },
+  {
+    "type": 2,
+    "spellIcon": 136206,
+    "nodeID": 82710,
+    "spellName": "Mind Control",
+    "maxRanks": 1,
+    "spellID": 605
+  },
+  {
+    "type": 2,
+    "spellIcon": 1386549,
+    "nodeID": 82710,
+    "spellName": "Dominate Mind",
+    "maxRanks": 1,
+    "spellID": 205364
+  },
+  {
+    "type": 0,
+    "spellIcon": 136149,
+    "nodeID": 82711,
+    "spellName": "Death and Madness",
+    "maxRanks": 1,
+    "spellID": 321291
+  },
+  {
+    "type": 0,
+    "spellIcon": 136149,
+    "nodeID": 82712,
+    "spellName": "Shadow Word: Death",
+    "maxRanks": 1,
+    "spellID": 32379
+  },
+  {
+    "type": 0,
+    "spellIcon": 136199,
+    "nodeID": 82713,
+    "spellName": "Shadowfiend",
+    "maxRanks": 1,
+    "spellID": 34433
+  },
+  {
+    "type": 0,
+    "spellIcon": 135915,
+    "nodeID": 82714,
+    "spellName": "Improved Flash Heal",
+    "maxRanks": 1,
+    "spellID": 393870
+  },
+  {
+    "type": 0,
+    "spellIcon": 136066,
+    "nodeID": 82715,
+    "spellName": "Dispel Magic",
+    "maxRanks": 1,
+    "spellID": 528
+  },
+  {
+    "type": 0,
+    "spellIcon": 463835,
+    "nodeID": 82716,
+    "spellName": "Leap of Faith",
+    "maxRanks": 1,
+    "spellID": 73325
+  },
+  {
+    "type": 0,
+    "spellIcon": 135953,
+    "nodeID": 82717,
+    "spellName": "Renew",
+    "maxRanks": 1,
+    "spellID": 139
+  },
+  {
+    "type": 0,
+    "spellIcon": 135944,
+    "nodeID": 82718,
+    "spellName": "Prayer of Mending",
+    "maxRanks": 1,
+    "spellID": 33076
+  },
+  {
+    "type": 0,
+    "spellIcon": 236372,
+    "nodeID": 82719,
+    "spellName": "Focused Mending",
+    "maxRanks": 1,
+    "spellID": 372354
+  },
+  {
+    "type": 2,
+    "spellIcon": 135976,
+    "nodeID": 82720,
+    "spellName": "Spell Warding",
+    "maxRanks": 1,
+    "spellID": 390667
+  },
+  {
+    "type": 2,
+    "spellIcon": 135877,
+    "nodeID": 82720,
+    "spellName": "Blessed Recovery",
+    "maxRanks": 1,
+    "spellID": 390767
+  },
+  {
+    "type": 0,
+    "spellIcon": 1022947,
+    "nodeID": 82721,
+    "spellName": "Words of the Pious",
+    "maxRanks": 1,
+    "spellID": 377438
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  }
+]

@@ -1,0 +1,936 @@
+[
+  {
+    "type": 0,
+    "spellIcon": 1380960,
+    "nodeID": 71915,
+    "spellName": "Resolute Barrier",
+    "maxRanks": 2,
+    "spellID": 389359
+  },
+  {
+    "type": 0,
+    "spellIcon": 133186,
+    "nodeID": 71916,
+    "spellName": "Gorefiend's Resolve",
+    "maxRanks": 2,
+    "spellID": 389623
+  },
+  {
+    "type": 0,
+    "spellIcon": 132332,
+    "nodeID": 71917,
+    "spellName": "Demonic Resilience",
+    "maxRanks": 2,
+    "spellID": 389590
+  },
+  {
+    "type": 0,
+    "spellIcon": 1112519,
+    "nodeID": 71918,
+    "spellName": "Fel Synergy",
+    "maxRanks": 1,
+    "spellID": 389367
+  },
+  {
+    "type": 0,
+    "spellIcon": 1778226,
+    "nodeID": 71919,
+    "spellName": "Profane Bargain",
+    "maxRanks": 2,
+    "spellID": 389576
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 615097,
+    "nodeID": 71922,
+    "spellName": "Demonic Fortitude",
+    "maxRanks": 1,
+    "spellID": 386617
+  },
+  {
+    "type": 0,
+    "spellIcon": 136213,
+    "nodeID": 71923,
+    "spellName": "Soul Conduit",
+    "maxRanks": 2,
+    "spellID": 215941
+  },
+  {
+    "type": 0,
+    "spellIcon": 538443,
+    "nodeID": 71924,
+    "spellName": "Grimoire of Synergy",
+    "maxRanks": 2,
+    "spellID": 171975
+  },
+  {
+    "type": 0,
+    "spellIcon": 607854,
+    "nodeID": 71925,
+    "spellName": "Soul Link",
+    "maxRanks": 1,
+    "spellID": 108415
+  },
+  {
+    "type": 0,
+    "spellIcon": 514017,
+    "nodeID": 71926,
+    "spellName": "Grim Feast",
+    "maxRanks": 1,
+    "spellID": 386689
+  },
+  {
+    "type": 0,
+    "spellIcon": 136211,
+    "nodeID": 71927,
+    "spellName": "Sweet Souls",
+    "maxRanks": 1,
+    "spellID": 386620
+  },
+  {
+    "type": 0,
+    "spellIcon": 236293,
+    "nodeID": 71928,
+    "spellName": "Demonic Inspiration",
+    "maxRanks": 1,
+    "spellID": 386858
+  },
+  {
+    "type": 0,
+    "spellIcon": 136169,
+    "nodeID": 71929,
+    "spellName": "Desperate Pact",
+    "maxRanks": 2,
+    "spellID": 386619
+  },
+  {
+    "type": 0,
+    "spellIcon": 136172,
+    "nodeID": 71930,
+    "spellName": "Demonic Embrace",
+    "maxRanks": 1,
+    "spellID": 288843
+  },
+  {
+    "type": 0,
+    "spellIcon": 237564,
+    "nodeID": 71931,
+    "spellName": "Fel Domination",
+    "maxRanks": 1,
+    "spellID": 333889
+  },
+  {
+    "type": 0,
+    "spellIcon": 136164,
+    "nodeID": 71932,
+    "spellName": "Fel Pact",
+    "maxRanks": 2,
+    "spellID": 386113
+  },
+  {
+    "type": 0,
+    "spellIcon": 237559,
+    "nodeID": 71933,
+    "spellName": "Demonic Circle",
+    "maxRanks": 1,
+    "spellID": 268358
+  },
+  {
+    "type": 0,
+    "spellIcon": 136132,
+    "nodeID": 71934,
+    "spellName": "Amplify Curse",
+    "maxRanks": 1,
+    "spellID": 328774
+  },
+  {
+    "type": 0,
+    "spellIcon": 136128,
+    "nodeID": 71935,
+    "spellName": "Teachings of the Satyr",
+    "maxRanks": 1,
+    "spellID": 387972
+  },
+  {
+    "type": 0,
+    "spellIcon": 136146,
+    "nodeID": 71936,
+    "spellName": "Dark Pact",
+    "maxRanks": 1,
+    "spellID": 108416
+  },
+  {
+    "type": 2,
+    "spellIcon": 1129418,
+    "nodeID": 71937,
+    "spellName": "Ichor of Devils",
+    "maxRanks": 1,
+    "spellID": 386664
+  },
+  {
+    "type": 2,
+    "spellIcon": 1035037,
+    "nodeID": 71937,
+    "spellName": "Frequent Donor",
+    "maxRanks": 1,
+    "spellID": 386686
+  },
+  {
+    "type": 0,
+    "spellIcon": 666475,
+    "nodeID": 71938,
+    "spellName": "Teachings of the Black Harvest",
+    "maxRanks": 1,
+    "spellID": 385881
+  },
+  {
+    "type": 2,
+    "spellIcon": 841219,
+    "nodeID": 71939,
+    "spellName": "Summon Soulkeeper",
+    "maxRanks": 1,
+    "spellID": 386256
+  },
+  {
+    "type": 2,
+    "spellIcon": 1387707,
+    "nodeID": 71939,
+    "spellName": "Inquisitor's Gaze",
+    "maxRanks": 1,
+    "spellID": 386344
+  },
+  {
+    "type": 0,
+    "spellIcon": 538745,
+    "nodeID": 71940,
+    "spellName": "Lifeblood",
+    "maxRanks": 2,
+    "spellID": 386646
+  },
+  {
+    "type": 2,
+    "spellIcon": 607865,
+    "nodeID": 71941,
+    "spellName": "Darkfury",
+    "maxRanks": 1,
+    "spellID": 264874
+  },
+  {
+    "type": 2,
+    "spellIcon": 236302,
+    "nodeID": 71941,
+    "spellName": "Shadowflame",
+    "maxRanks": 1,
+    "spellID": 384069
+  },
+  {
+    "type": 0,
+    "spellIcon": 607865,
+    "nodeID": 71942,
+    "spellName": "Shadowfury",
+    "maxRanks": 1,
+    "spellID": 30283
+  },
+  {
+    "type": 0,
+    "spellIcon": 136135,
+    "nodeID": 71943,
+    "spellName": "Greater Banish",
+    "maxRanks": 1,
+    "spellID": 386651
+  },
+  {
+    "type": 0,
+    "spellIcon": 136135,
+    "nodeID": 71944,
+    "spellName": "Banish",
+    "maxRanks": 1,
+    "spellID": 710
+  },
+  {
+    "type": 0,
+    "spellIcon": 136183,
+    "nodeID": 71945,
+    "spellName": "Nightmare",
+    "maxRanks": 2,
+    "spellID": 386648
+  },
+  {
+    "type": 0,
+    "spellIcon": 841221,
+    "nodeID": 71946,
+    "spellName": "Wrathful Minion",
+    "maxRanks": 1,
+    "spellID": 386864
+  },
+  {
+    "type": 2,
+    "spellIcon": 607852,
+    "nodeID": 71947,
+    "spellName": "Howl of Terror",
+    "maxRanks": 1,
+    "spellID": 5484
+  },
+  {
+    "type": 2,
+    "spellIcon": 607853,
+    "nodeID": 71947,
+    "spellName": "Mortal Coil",
+    "maxRanks": 1,
+    "spellID": 6789
+  },
+  {
+    "type": 0,
+    "spellIcon": 1508512,
+    "nodeID": 71948,
+    "spellName": "Fiendish Stride",
+    "maxRanks": 2,
+    "spellID": 386110
+  },
+  {
+    "type": 0,
+    "spellIcon": 840191,
+    "nodeID": 71949,
+    "spellName": "Burning Rush",
+    "maxRanks": 1,
+    "spellID": 111400
+  },
+  {
+    "type": 0,
+    "spellIcon": 136156,
+    "nodeID": 71950,
+    "spellName": "Fel Armor",
+    "maxRanks": 2,
+    "spellID": 386124
+  },
+  {
+    "type": 0,
+    "spellIcon": 132094,
+    "nodeID": 71951,
+    "spellName": "Curses of Enfeeblement",
+    "maxRanks": 1,
+    "spellID": 386105
+  },
+  {
+    "type": 0,
+    "spellIcon": 136185,
+    "nodeID": 71952,
+    "spellName": "Demon Skin",
+    "maxRanks": 2,
+    "spellID": 219272
+  },
+  {
+    "type": 0,
+    "spellIcon": 136168,
+    "nodeID": 71953,
+    "spellName": "Accrued Vitality",
+    "maxRanks": 2,
+    "spellID": 386613
+  },
+  {
+    "type": 0,
+    "spellIcon": 1714097,
+    "nodeID": 71954,
+    "spellName": "Abyss Walker",
+    "maxRanks": 1,
+    "spellID": 389609
+  },
+  {
+    "type": 0,
+    "spellIcon": 607512,
+    "nodeID": 71955,
+    "spellName": "Demonic Gateway",
+    "maxRanks": 1,
+    "spellID": 111771
+  },
+  {
+    "type": 2,
+    "spellIcon": 136150,
+    "nodeID": 71956,
+    "spellName": "Strength of Will",
+    "maxRanks": 1,
+    "spellID": 317138
+  },
+  {
+    "type": 2,
+    "spellIcon": 236299,
+    "nodeID": 71956,
+    "spellName": "Dark Accord",
+    "maxRanks": 1,
+    "spellID": 386659
+  },
+  {
+    "type": 0,
+    "spellIcon": 463286,
+    "nodeID": 71957,
+    "spellName": "Soulburn",
+    "maxRanks": 1,
+    "spellID": 385899
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 2,
+    "spellIcon": 1115907,
+    "nodeID": 71991,
+    "spellName": "Reign of Tyranny",
+    "maxRanks": 1,
+    "spellID": 390173
+  },
+  {
+    "type": 2,
+    "spellIcon": 607513,
+    "nodeID": 71991,
+    "spellName": "Grand Warlock's Design",
+    "maxRanks": 1,
+    "spellID": 387084
+  },
+  {
+    "type": 0,
+    "spellIcon": 2065628,
+    "nodeID": 71992,
+    "spellName": "Soulbound Tyrant",
+    "maxRanks": 2,
+    "spellID": 334585
+  },
+  {
+    "type": 0,
+    "spellIcon": 132102,
+    "nodeID": 71993,
+    "spellName": "Sacrificed Souls",
+    "maxRanks": 2,
+    "spellID": 267214
+  },
+  {
+    "type": 0,
+    "spellIcon": 460856,
+    "nodeID": 71994,
+    "spellName": "The Expendables",
+    "maxRanks": 1,
+    "spellID": 387600
+  },
+  {
+    "type": 0,
+    "spellIcon": 255348,
+    "nodeID": 71995,
+    "spellName": "Gul'dan's Ambition",
+    "maxRanks": 1,
+    "spellID": 387578
+  },
+  {
+    "type": 0,
+    "spellIcon": 1002600,
+    "nodeID": 71996,
+    "spellName": "Ner'zhul's Volition",
+    "maxRanks": 2,
+    "spellID": 387526
+  },
+  {
+    "type": 0,
+    "spellIcon": 2065615,
+    "nodeID": 71997,
+    "spellName": "Nether Portal",
+    "maxRanks": 1,
+    "spellID": 267217
+  },
+  {
+    "type": 0,
+    "spellIcon": 236294,
+    "nodeID": 71998,
+    "spellName": "Imp Gang Boss",
+    "maxRanks": 2,
+    "spellID": 387445
+  },
+  {
+    "type": 0,
+    "spellIcon": 1709932,
+    "nodeID": 71999,
+    "spellName": "Dread Calling",
+    "maxRanks": 1,
+    "spellID": 387391
+  },
+  {
+    "type": 0,
+    "spellIcon": 136152,
+    "nodeID": 72000,
+    "spellName": "Fel Covenant",
+    "maxRanks": 2,
+    "spellID": 387432
+  },
+  {
+    "type": 0,
+    "spellIcon": 1516572,
+    "nodeID": 72001,
+    "spellName": "Bloodbound Imps",
+    "maxRanks": 1,
+    "spellID": 387349
+  },
+  {
+    "type": 0,
+    "spellIcon": 2065588,
+    "nodeID": 72002,
+    "spellName": "Implosion",
+    "maxRanks": 1,
+    "spellID": 196277
+  },
+  {
+    "type": 0,
+    "spellIcon": 236290,
+    "nodeID": 72003,
+    "spellName": "Power Siphon",
+    "maxRanks": 1,
+    "spellID": 264130
+  },
+  {
+    "type": 0,
+    "spellIcon": 1379237,
+    "nodeID": 72004,
+    "spellName": "Pact of the Imp Mother",
+    "maxRanks": 2,
+    "spellID": 387541
+  },
+  {
+    "type": 0,
+    "spellIcon": 1109118,
+    "nodeID": 72005,
+    "spellName": "Guillotine",
+    "maxRanks": 1,
+    "spellID": 386833
+  },
+  {
+    "type": 0,
+    "spellIcon": 1115905,
+    "nodeID": 72006,
+    "spellName": "Infernal Command",
+    "maxRanks": 2,
+    "spellID": 387549
+  },
+  {
+    "type": 0,
+    "spellIcon": 1122139,
+    "nodeID": 72007,
+    "spellName": "Stolen Power",
+    "maxRanks": 1,
+    "spellID": 387602
+  },
+  {
+    "type": 0,
+    "spellIcon": 1093862,
+    "nodeID": 72008,
+    "spellName": "Antoran Armaments",
+    "maxRanks": 1,
+    "spellID": 387494
+  },
+  {
+    "type": 0,
+    "spellIcon": 136217,
+    "nodeID": 72009,
+    "spellName": "Ripped through the Portal",
+    "maxRanks": 2,
+    "spellID": 387485
+  },
+  {
+    "type": 0,
+    "spellIcon": 1388065,
+    "nodeID": 72010,
+    "spellName": "Fel Sunder",
+    "maxRanks": 1,
+    "spellID": 387399
+  },
+  {
+    "type": 0,
+    "spellIcon": 1129035,
+    "nodeID": 72011,
+    "spellName": "Hounds of War",
+    "maxRanks": 2,
+    "spellID": 387488
+  },
+  {
+    "type": 0,
+    "spellIcon": 535592,
+    "nodeID": 72012,
+    "spellName": "Demonic Meteor",
+    "maxRanks": 1,
+    "spellID": 387396
+  },
+  {
+    "type": 0,
+    "spellIcon": 136216,
+    "nodeID": 72013,
+    "spellName": "Grimoire: Felguard",
+    "maxRanks": 1,
+    "spellID": 111898
+  },
+  {
+    "type": 0,
+    "spellIcon": 1122134,
+    "nodeID": 72014,
+    "spellName": "Fel Might",
+    "maxRanks": 1,
+    "spellID": 387338
+  },
+  {
+    "type": 0,
+    "spellIcon": 1378282,
+    "nodeID": 72015,
+    "spellName": "From the Shadows",
+    "maxRanks": 1,
+    "spellID": 267170
+  },
+  {
+    "type": 0,
+    "spellIcon": 132103,
+    "nodeID": 72016,
+    "spellName": "Fel and Steel",
+    "maxRanks": 1,
+    "spellID": 386200
+  },
+  {
+    "type": 0,
+    "spellIcon": 460856,
+    "nodeID": 72017,
+    "spellName": "Demonic Calling",
+    "maxRanks": 2,
+    "spellID": 205145
+  },
+  {
+    "type": 0,
+    "spellIcon": 1380868,
+    "nodeID": 72018,
+    "spellName": "Carnivorous Stalkers",
+    "maxRanks": 1,
+    "spellID": 386194
+  },
+  {
+    "type": 2,
+    "spellIcon": 1616211,
+    "nodeID": 72019,
+    "spellName": "Summon Vilefiend",
+    "maxRanks": 1,
+    "spellID": 264119
+  },
+  {
+    "type": 2,
+    "spellIcon": 1452864,
+    "nodeID": 72019,
+    "spellName": "Soul Strike",
+    "maxRanks": 1,
+    "spellID": 264057
+  },
+  {
+    "type": 0,
+    "spellIcon": 136221,
+    "nodeID": 72020,
+    "spellName": "Dreadlash",
+    "maxRanks": 1,
+    "spellID": 264078
+  },
+  {
+    "type": 2,
+    "spellIcon": 132182,
+    "nodeID": 72021,
+    "spellName": "Bilescourge Bombers",
+    "maxRanks": 1,
+    "spellID": 267211
+  },
+  {
+    "type": 2,
+    "spellIcon": 236292,
+    "nodeID": 72021,
+    "spellName": "Demonic Strength",
+    "maxRanks": 1,
+    "spellID": 267171
+  },
+  {
+    "type": 0,
+    "spellIcon": 1117879,
+    "nodeID": 72022,
+    "spellName": "Annihilan Training",
+    "maxRanks": 1,
+    "spellID": 386174
+  },
+  {
+    "type": 0,
+    "spellIcon": 1378282,
+    "nodeID": 72023,
+    "spellName": "Call Dreadstalkers",
+    "maxRanks": 1,
+    "spellID": 104316
+  },
+  {
+    "type": 0,
+    "spellIcon": 2032588,
+    "nodeID": 72024,
+    "spellName": "Demonbolt",
+    "maxRanks": 1,
+    "spellID": 264178
+  },
+  {
+    "type": 0,
+    "spellIcon": 136181,
+    "nodeID": 72025,
+    "spellName": "Shadow's Bite",
+    "maxRanks": 1,
+    "spellID": 387322
+  },
+  {
+    "type": 0,
+    "spellIcon": 236299,
+    "nodeID": 72026,
+    "spellName": "Demonic Knowledge",
+    "maxRanks": 1,
+    "spellID": 386185
+  },
+  {
+    "type": 0,
+    "spellIcon": 236295,
+    "nodeID": 72027,
+    "spellName": "Inner Demons",
+    "maxRanks": 2,
+    "spellID": 267216
+  },
+  {
+    "type": 0,
+    "spellIcon": 136122,
+    "nodeID": 72028,
+    "spellName": "Doom",
+    "maxRanks": 1,
+    "spellID": 603
+  },
+  {
+    "type": 0,
+    "spellIcon": 1115910,
+    "nodeID": 72029,
+    "spellName": "Kazaak's Final Curse",
+    "maxRanks": 2,
+    "spellID": 387483
+  },
+  {
+    "type": 0,
+    "spellIcon": 2065628,
+    "nodeID": 72030,
+    "spellName": "Summon Demonic Tyrant",
+    "maxRanks": 1,
+    "spellID": 265187
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  }
+]

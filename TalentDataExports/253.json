@@ -1,0 +1,941 @@
+[
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 878217,
+    "nodeID": 79814,
+    "spellName": "Serrated Shots",
+    "maxRanks": 2,
+    "spellID": 389882
+  },
+  {
+    "type": 0,
+    "spellIcon": 3610500,
+    "nodeID": 79815,
+    "spellName": "Arctic Bola",
+    "maxRanks": 2,
+    "spellID": 390231
+  },
+  {
+    "type": 0,
+    "spellIcon": 132140,
+    "nodeID": 79816,
+    "spellName": "Brutal Companion",
+    "maxRanks": 1,
+    "spellID": 386870
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 2,
+    "spellIcon": 136087,
+    "nodeID": 79818,
+    "spellName": "Sentinel's Perception",
+    "maxRanks": 1,
+    "spellID": 388056
+  },
+  {
+    "type": 2,
+    "spellIcon": 132192,
+    "nodeID": 79818,
+    "spellName": "Sentinel's Protection",
+    "maxRanks": 1,
+    "spellID": 388057
+  },
+  {
+    "type": 0,
+    "spellIcon": 4067367,
+    "nodeID": 79819,
+    "spellName": "Sentinel Owl",
+    "maxRanks": 1,
+    "spellID": 388045
+  },
+  {
+    "type": 2,
+    "spellIcon": 236180,
+    "nodeID": 79820,
+    "spellName": "Lone Survivor",
+    "maxRanks": 1,
+    "spellID": 388039
+  },
+  {
+    "type": 2,
+    "spellIcon": 136074,
+    "nodeID": 79820,
+    "spellName": "Nature's Endurance",
+    "maxRanks": 1,
+    "spellID": 388042
+  },
+  {
+    "type": 0,
+    "spellIcon": 136094,
+    "nodeID": 79821,
+    "spellName": "Survival of the Fittest",
+    "maxRanks": 1,
+    "spellID": 264735
+  },
+  {
+    "type": 0,
+    "spellIcon": 132127,
+    "nodeID": 79822,
+    "spellName": "Barbed Wrath",
+    "maxRanks": 1,
+    "spellID": 231548
+  },
+  {
+    "type": 0,
+    "spellIcon": 236180,
+    "nodeID": 79823,
+    "spellName": "Dire Frenzy",
+    "maxRanks": 2,
+    "spellID": 385810
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 538536,
+    "nodeID": 79832,
+    "spellName": "Hunter's Avoidance",
+    "maxRanks": 1,
+    "spellID": 384799
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 236174,
+    "nodeID": 79835,
+    "spellName": "Kill Shot",
+    "maxRanks": 1,
+    "spellID": 53351
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 2,
+    "spellIcon": 132176,
+    "nodeID": 79904,
+    "spellName": "Killer Instinct",
+    "maxRanks": 1,
+    "spellID": 273887
+  },
+  {
+    "type": 2,
+    "spellIcon": 1033484,
+    "nodeID": 79904,
+    "spellName": "Alpha Predator",
+    "maxRanks": 1,
+    "spellID": 269737
+  },
+  {
+    "type": 0,
+    "spellIcon": 1033905,
+    "nodeID": 79905,
+    "spellName": "Serpent Sting",
+    "maxRanks": 1,
+    "spellID": 271788
+  },
+  {
+    "type": 0,
+    "spellIcon": 135860,
+    "nodeID": 79906,
+    "spellName": "Concussive Shot",
+    "maxRanks": 1,
+    "spellID": 5116
+  },
+  {
+    "type": 0,
+    "spellIcon": 136020,
+    "nodeID": 79907,
+    "spellName": "Tranquilizing Shot",
+    "maxRanks": 1,
+    "spellID": 19801
+  },
+  {
+    "type": 0,
+    "spellIcon": 1467588,
+    "nodeID": 79908,
+    "spellName": "Steel Trap",
+    "maxRanks": 1,
+    "spellID": 162488
+  },
+  {
+    "type": 0,
+    "spellIcon": 236154,
+    "nodeID": 79909,
+    "spellName": "Rejuvenating Wind",
+    "maxRanks": 2,
+    "spellID": 385539
+  },
+  {
+    "type": 2,
+    "spellIcon": 132111,
+    "nodeID": 79910,
+    "spellName": "Intimidation",
+    "maxRanks": 1,
+    "spellID": 19577
+  },
+  {
+    "type": 2,
+    "spellIcon": 135826,
+    "nodeID": 79910,
+    "spellName": "High Explosive Trap",
+    "maxRanks": 1,
+    "spellID": 236776
+  },
+  {
+    "type": 2,
+    "spellIcon": 132272,
+    "nodeID": 79911,
+    "spellName": "Poison Injection",
+    "maxRanks": 1,
+    "spellID": 378014
+  },
+  {
+    "type": 2,
+    "spellIcon": 2065587,
+    "nodeID": 79911,
+    "spellName": "Hydra's Bite",
+    "maxRanks": 1,
+    "spellID": 260241
+  },
+  {
+    "type": 0,
+    "spellIcon": 249170,
+    "nodeID": 79912,
+    "spellName": "Counter Shot",
+    "maxRanks": 1,
+    "spellID": 147362
+  },
+  {
+    "type": 0,
+    "spellIcon": 132177,
+    "nodeID": 79913,
+    "spellName": "Master Marksman",
+    "maxRanks": 2,
+    "spellID": 260309
+  },
+  {
+    "type": 2,
+    "spellIcon": 236178,
+    "nodeID": 79914,
+    "spellName": "Explosive Shot",
+    "maxRanks": 1,
+    "spellID": 212431
+  },
+  {
+    "type": 2,
+    "spellIcon": 236201,
+    "nodeID": 79914,
+    "spellName": "Barrage",
+    "maxRanks": 1,
+    "spellID": 120360
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 2,
+    "spellIcon": 461112,
+    "nodeID": 79916,
+    "spellName": "Stampede",
+    "maxRanks": 1,
+    "spellID": 201430
+  },
+  {
+    "type": 2,
+    "spellIcon": 3578207,
+    "nodeID": 79916,
+    "spellName": "Death Chakram",
+    "maxRanks": 1,
+    "spellID": 375891
+  },
+  {
+    "type": 0,
+    "spellIcon": 132330,
+    "nodeID": 79917,
+    "spellName": "Multi-Shot",
+    "maxRanks": 1,
+    "spellID": 2643
+  },
+  {
+    "type": 0,
+    "spellIcon": 132171,
+    "nodeID": 79918,
+    "spellName": "Pathfinding",
+    "maxRanks": 2,
+    "spellID": 378002
+  },
+  {
+    "type": 0,
+    "spellIcon": 1412208,
+    "nodeID": 79919,
+    "spellName": "Improved Tranquilizing Shot",
+    "maxRanks": 1,
+    "spellID": 343244
+  },
+  {
+    "type": 0,
+    "spellIcon": 463560,
+    "nodeID": 79920,
+    "spellName": "Binding Shackles",
+    "maxRanks": 1,
+    "spellID": 321468
+  },
+  {
+    "type": 0,
+    "spellIcon": 461119,
+    "nodeID": 79921,
+    "spellName": "Posthaste",
+    "maxRanks": 2,
+    "spellID": 109215
+  },
+  {
+    "type": 0,
+    "spellIcon": 132210,
+    "nodeID": 79922,
+    "spellName": "Keen Eyesight",
+    "maxRanks": 2,
+    "spellID": 378004
+  },
+  {
+    "type": 0,
+    "spellIcon": 461122,
+    "nodeID": 79923,
+    "spellName": "Improved Traps",
+    "maxRanks": 2,
+    "spellID": 343247
+  },
+  {
+    "type": 0,
+    "spellIcon": 132180,
+    "nodeID": 79924,
+    "spellName": "Misdirection",
+    "maxRanks": 1,
+    "spellID": 34477
+  },
+  {
+    "type": 0,
+    "spellIcon": 461117,
+    "nodeID": 79925,
+    "spellName": "Natural Mending",
+    "maxRanks": 2,
+    "spellID": 270581
+  },
+  {
+    "type": 0,
+    "spellIcon": 132167,
+    "nodeID": 79926,
+    "spellName": "Beast Master",
+    "maxRanks": 2,
+    "spellID": 378007
+  },
+  {
+    "type": 0,
+    "spellIcon": 132118,
+    "nodeID": 79927,
+    "spellName": "Scare Beast",
+    "maxRanks": 1,
+    "spellID": 1513
+  },
+  {
+    "type": 0,
+    "spellIcon": 576309,
+    "nodeID": 79928,
+    "spellName": "Tar Trap",
+    "maxRanks": 1,
+    "spellID": 187698
+  },
+  {
+    "type": 0,
+    "spellIcon": 236203,
+    "nodeID": 79930,
+    "spellName": "Improved Kill Shot",
+    "maxRanks": 1,
+    "spellID": 343248
+  },
+  {
+    "type": 0,
+    "spellIcon": 236172,
+    "nodeID": 79931,
+    "spellName": "Trailblazer",
+    "maxRanks": 2,
+    "spellID": 199921
+  },
+  {
+    "type": 0,
+    "spellIcon": 132173,
+    "nodeID": 79932,
+    "spellName": "Improved Kill Command",
+    "maxRanks": 2,
+    "spellID": 378010
+  },
+  {
+    "type": 0,
+    "spellIcon": 132160,
+    "nodeID": 79933,
+    "spellName": "Born To Be Wild",
+    "maxRanks": 2,
+    "spellID": 266921
+  },
+  {
+    "type": 0,
+    "spellIcon": 461113,
+    "nodeID": 79934,
+    "spellName": "Camouflage",
+    "maxRanks": 1,
+    "spellID": 199483
+  },
+  {
+    "type": 0,
+    "spellIcon": 132176,
+    "nodeID": 79935,
+    "spellName": "Kill Command",
+    "maxRanks": 1,
+    "spellID": 34026
+  },
+  {
+    "type": 0,
+    "spellIcon": 132179,
+    "nodeID": 79936,
+    "spellName": "Wilderness Medicine",
+    "maxRanks": 2,
+    "spellID": 343242
+  },
+  {
+    "type": 2,
+    "spellIcon": 132153,
+    "nodeID": 79937,
+    "spellName": "Scatter Shot",
+    "maxRanks": 1,
+    "spellID": 213691
+  },
+  {
+    "type": 2,
+    "spellIcon": 462650,
+    "nodeID": 79937,
+    "spellName": "Binding Shot",
+    "maxRanks": 1,
+    "spellID": 109248
+  },
+  {
+    "type": 0,
+    "spellIcon": 132323,
+    "nodeID": 79938,
+    "spellName": "Wailing Arrow",
+    "maxRanks": 1,
+    "spellID": 392060
+  },
+  {
+    "type": 0,
+    "spellIcon": 132270,
+    "nodeID": 79939,
+    "spellName": "Killer Command",
+    "maxRanks": 2,
+    "spellID": 378740
+  },
+  {
+    "type": 0,
+    "spellIcon": 461121,
+    "nodeID": 79940,
+    "spellName": "Dire Pack",
+    "maxRanks": 1,
+    "spellID": 378745
+  },
+  {
+    "type": 0,
+    "spellIcon": 461114,
+    "nodeID": 79941,
+    "spellName": "Cobra Sting",
+    "maxRanks": 2,
+    "spellID": 378750
+  },
+  {
+    "type": 0,
+    "spellIcon": 458976,
+    "nodeID": 79942,
+    "spellName": "Stomp",
+    "maxRanks": 2,
+    "spellID": 199530
+  },
+  {
+    "type": 2,
+    "spellIcon": 645217,
+    "nodeID": 79943,
+    "spellName": "A Murder of Crows",
+    "maxRanks": 1,
+    "spellID": 131894
+  },
+  {
+    "type": 2,
+    "spellIcon": 132139,
+    "nodeID": 79943,
+    "spellName": "Bloodshed",
+    "maxRanks": 1,
+    "spellID": 321530
+  },
+  {
+    "type": 0,
+    "spellIcon": 575534,
+    "nodeID": 79944,
+    "spellName": "Aspect of the Beast",
+    "maxRanks": 1,
+    "spellID": 191384
+  },
+  {
+    "type": 0,
+    "spellIcon": 1376042,
+    "nodeID": 79945,
+    "spellName": "Sharp Barbs",
+    "maxRanks": 2,
+    "spellID": 378205
+  },
+  {
+    "type": 2,
+    "spellIcon": 132166,
+    "nodeID": 79946,
+    "spellName": "Wild Instincts",
+    "maxRanks": 1,
+    "spellID": 378442
+  },
+  {
+    "type": 2,
+    "spellIcon": 132278,
+    "nodeID": 79946,
+    "spellName": "Bloody Frenzy",
+    "maxRanks": 1,
+    "spellID": 378739
+  },
+  {
+    "type": 0,
+    "spellIcon": 461112,
+    "nodeID": 79947,
+    "spellName": "Animal Companion",
+    "maxRanks": 1,
+    "spellID": 267116
+  },
+  {
+    "type": 0,
+    "spellIcon": 1036119,
+    "nodeID": 79948,
+    "spellName": "Training Expert",
+    "maxRanks": 2,
+    "spellID": 378209
+  },
+  {
+    "type": 0,
+    "spellIcon": 461114,
+    "nodeID": 79949,
+    "spellName": "Cobra Shot",
+    "maxRanks": 1,
+    "spellID": 193455
+  },
+  {
+    "type": 0,
+    "spellIcon": 136074,
+    "nodeID": 79950,
+    "spellName": "Aspect of the Wild",
+    "maxRanks": 1,
+    "spellID": 193530
+  },
+  {
+    "type": 0,
+    "spellIcon": 236173,
+    "nodeID": 79951,
+    "spellName": "Hunter's Prey",
+    "maxRanks": 1,
+    "spellID": 378210
+  },
+  {
+    "type": 0,
+    "spellIcon": 2058007,
+    "nodeID": 79952,
+    "spellName": "War Orders",
+    "maxRanks": 2,
+    "spellID": 393933
+  },
+  {
+    "type": 0,
+    "spellIcon": 132173,
+    "nodeID": 79953,
+    "spellName": "Dire Command",
+    "maxRanks": 3,
+    "spellID": 378743
+  },
+  {
+    "type": 0,
+    "spellIcon": 1033474,
+    "nodeID": 79954,
+    "spellName": "Kill Cleave",
+    "maxRanks": 1,
+    "spellID": 378207
+  },
+  {
+    "type": 0,
+    "spellIcon": 132127,
+    "nodeID": 79955,
+    "spellName": "Bestial Wrath",
+    "maxRanks": 1,
+    "spellID": 19574
+  },
+  {
+    "type": 0,
+    "spellIcon": 461121,
+    "nodeID": 79956,
+    "spellName": "Beast Cleave",
+    "maxRanks": 2,
+    "spellID": 115939
+  },
+  {
+    "type": 0,
+    "spellIcon": 236202,
+    "nodeID": 79957,
+    "spellName": "Kindred Spirits",
+    "maxRanks": 2,
+    "spellID": 56315
+  },
+  {
+    "type": 0,
+    "spellIcon": 236184,
+    "nodeID": 79958,
+    "spellName": "Pack Tactics",
+    "maxRanks": 1,
+    "spellID": 321014
+  },
+  {
+    "type": 0,
+    "spellIcon": 236186,
+    "nodeID": 79959,
+    "spellName": "Dire Beast",
+    "maxRanks": 1,
+    "spellID": 120679
+  },
+  {
+    "type": 0,
+    "spellIcon": 666952,
+    "nodeID": 79960,
+    "spellName": "One with the Pack",
+    "maxRanks": 2,
+    "spellID": 199528
+  },
+  {
+    "type": 2,
+    "spellIcon": 132211,
+    "nodeID": 79961,
+    "spellName": "Killer Cobra",
+    "maxRanks": 1,
+    "spellID": 199532
+  },
+  {
+    "type": 2,
+    "spellIcon": 237395,
+    "nodeID": 79961,
+    "spellName": "Piercing Fangs",
+    "maxRanks": 1,
+    "spellID": 392053
+  },
+  {
+    "type": 2,
+    "spellIcon": 132166,
+    "nodeID": 79962,
+    "spellName": "Master Handler",
+    "maxRanks": 1,
+    "spellID": 389654
+  },
+  {
+    "type": 2,
+    "spellIcon": 135461,
+    "nodeID": 79962,
+    "spellName": "Snake Bite",
+    "maxRanks": 1,
+    "spellID": 389660
+  },
+  {
+    "type": 0,
+    "spellIcon": 236177,
+    "nodeID": 79963,
+    "spellName": "Cobra Senses",
+    "maxRanks": 1,
+    "spellID": 378244
+  },
+  {
+    "type": 0,
+    "spellIcon": 132216,
+    "nodeID": 79964,
+    "spellName": "Thrill of the Hunt",
+    "maxRanks": 3,
+    "spellID": 257944
+  },
+  {
+    "type": 0,
+    "spellIcon": 136168,
+    "nodeID": 79965,
+    "spellName": "Scent of Blood",
+    "maxRanks": 2,
+    "spellID": 193532
+  },
+  {
+    "type": 0,
+    "spellIcon": 236189,
+    "nodeID": 79966,
+    "spellName": "Wild Call",
+    "maxRanks": 1,
+    "spellID": 185789
+  },
+  {
+    "type": 0,
+    "spellIcon": 4667415,
+    "nodeID": 79967,
+    "spellName": "Call of the Wild",
+    "maxRanks": 1,
+    "spellID": 359844
+  },
+  {
+    "type": 0,
+    "spellIcon": 2058007,
+    "nodeID": 79968,
+    "spellName": "Barbed Shot",
+    "maxRanks": 1,
+    "spellID": 217200
+  },
+  {
+    "type": 0,
+    "spellIcon": 132149,
+    "nodeID": 79977,
+    "spellName": "Entrapment",
+    "maxRanks": 1,
+    "spellID": 393344
+  }
+]

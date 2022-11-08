@@ -1,0 +1,1144 @@
+[
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 132140,
+    "nodeID": 82085,
+    "spellName": "Primal Claws",
+    "maxRanks": 2,
+    "spellID": 391037
+  },
+  {
+    "type": 0,
+    "spellIcon": 132122,
+    "nodeID": 82086,
+    "spellName": "Double-Clawed Rake",
+    "maxRanks": 1,
+    "spellID": 391700
+  },
+  {
+    "type": 0,
+    "spellIcon": 1033491,
+    "nodeID": 82087,
+    "spellName": "Lunar Inspiration",
+    "maxRanks": 1,
+    "spellID": 155580
+  },
+  {
+    "type": 0,
+    "spellIcon": 132138,
+    "nodeID": 82088,
+    "spellName": "Relentless Predator",
+    "maxRanks": 1,
+    "spellID": 393771
+  },
+  {
+    "type": 0,
+    "spellIcon": 1392547,
+    "nodeID": 82089,
+    "spellName": "Tear Open Wounds",
+    "maxRanks": 1,
+    "spellID": 391785
+  },
+  {
+    "type": 0,
+    "spellIcon": 236149,
+    "nodeID": 82090,
+    "spellName": "Berserk: Frenzy",
+    "maxRanks": 1,
+    "spellID": 384668
+  },
+  {
+    "type": 2,
+    "spellIcon": 132141,
+    "nodeID": 82091,
+    "spellName": "Brutal Slash",
+    "maxRanks": 1,
+    "spellID": 202028
+  },
+  {
+    "type": 2,
+    "spellIcon": 1396978,
+    "nodeID": 82091,
+    "spellName": "Wild Slashes",
+    "maxRanks": 1,
+    "spellID": 390864
+  },
+  {
+    "type": 0,
+    "spellIcon": 132139,
+    "nodeID": 82092,
+    "spellName": "Apex Predator's Craving",
+    "maxRanks": 1,
+    "spellID": 391881
+  },
+  {
+    "type": 2,
+    "spellIcon": 1394887,
+    "nodeID": 82093,
+    "spellName": "Veinripper",
+    "maxRanks": 1,
+    "spellID": 391978
+  },
+  {
+    "type": 2,
+    "spellIcon": 132152,
+    "nodeID": 82093,
+    "spellName": "Rip and Tear",
+    "maxRanks": 1,
+    "spellID": 391347
+  },
+  {
+    "type": 0,
+    "spellIcon": 237218,
+    "nodeID": 82094,
+    "spellName": "Cat's Curiosity",
+    "maxRanks": 2,
+    "spellID": 386318
+  },
+  {
+    "type": 0,
+    "spellIcon": 132119,
+    "nodeID": 82095,
+    "spellName": "Circle of Life and Death",
+    "maxRanks": 1,
+    "spellID": 391969
+  },
+  {
+    "type": 0,
+    "spellIcon": 236160,
+    "nodeID": 82096,
+    "spellName": "Soul of the Forest",
+    "maxRanks": 1,
+    "spellID": 158476
+  },
+  {
+    "type": 0,
+    "spellIcon": 136085,
+    "nodeID": 82097,
+    "spellName": "Protective Growth",
+    "maxRanks": 1,
+    "spellID": 391947
+  },
+  {
+    "type": 0,
+    "spellIcon": 134296,
+    "nodeID": 82098,
+    "spellName": "Merciless Strikes",
+    "maxRanks": 1,
+    "spellID": 231063
+  },
+  {
+    "type": 0,
+    "spellIcon": 132139,
+    "nodeID": 82099,
+    "spellName": "Rampant Ferocity",
+    "maxRanks": 1,
+    "spellID": 391709
+  },
+  {
+    "type": 0,
+    "spellIcon": 1033483,
+    "nodeID": 82100,
+    "spellName": "Moment of Clarity",
+    "maxRanks": 1,
+    "spellID": 236068
+  },
+  {
+    "type": 0,
+    "spellIcon": 236149,
+    "nodeID": 82101,
+    "spellName": "Berserk",
+    "maxRanks": 1,
+    "spellID": 106951
+  },
+  {
+    "type": 0,
+    "spellIcon": 134298,
+    "nodeID": 82102,
+    "spellName": "Sabertooth",
+    "maxRanks": 1,
+    "spellID": 202031
+  },
+  {
+    "type": 0,
+    "spellIcon": 236158,
+    "nodeID": 82103,
+    "spellName": "Infected Wounds",
+    "maxRanks": 1,
+    "spellID": 48484
+  },
+  {
+    "type": 0,
+    "spellIcon": 132167,
+    "nodeID": 82104,
+    "spellName": "Sudden Ambush",
+    "maxRanks": 2,
+    "spellID": 384667
+  },
+  {
+    "type": 0,
+    "spellIcon": 236149,
+    "nodeID": 82105,
+    "spellName": "Berserk: Heart of the Lion",
+    "maxRanks": 1,
+    "spellID": 391174
+  },
+  {
+    "type": 0,
+    "spellIcon": 132185,
+    "nodeID": 82106,
+    "spellName": "Predatory Swiftness",
+    "maxRanks": 1,
+    "spellID": 16974
+  },
+  {
+    "type": 2,
+    "spellIcon": 132138,
+    "nodeID": 82107,
+    "spellName": "Raging Fury",
+    "maxRanks": 1,
+    "spellID": 391078
+  },
+  {
+    "type": 2,
+    "spellIcon": 132130,
+    "nodeID": 82107,
+    "spellName": "Tiger's Tenacity",
+    "maxRanks": 1,
+    "spellID": 391872
+  },
+  {
+    "type": 0,
+    "spellIcon": 132140,
+    "nodeID": 82108,
+    "spellName": "Feral Frenzy",
+    "maxRanks": 1,
+    "spellID": 274837
+  },
+  {
+    "type": 2,
+    "spellIcon": 236189,
+    "nodeID": 82109,
+    "spellName": "Lion's Strength",
+    "maxRanks": 1,
+    "spellID": 391972
+  },
+  {
+    "type": 2,
+    "spellIcon": 1033474,
+    "nodeID": 82109,
+    "spellName": "Bloodtalons",
+    "maxRanks": 1,
+    "spellID": 319439
+  },
+  {
+    "type": 0,
+    "spellIcon": 132242,
+    "nodeID": 82110,
+    "spellName": "Carnivorous Instinct",
+    "maxRanks": 2,
+    "spellID": 390902
+  },
+  {
+    "type": 0,
+    "spellIcon": 3578197,
+    "nodeID": 82111,
+    "spellName": "Unbridled Swarm",
+    "maxRanks": 1,
+    "spellID": 391951
+  },
+  {
+    "type": 0,
+    "spellIcon": 3578197,
+    "nodeID": 82112,
+    "spellName": "Adaptive Swarm",
+    "maxRanks": 1,
+    "spellID": 391888
+  },
+  {
+    "type": 0,
+    "spellIcon": 571586,
+    "nodeID": 82113,
+    "spellName": "Ashamane's Guidance",
+    "maxRanks": 1,
+    "spellID": 391548
+  },
+  {
+    "type": 2,
+    "spellIcon": 571586,
+    "nodeID": 82114,
+    "spellName": "Incarnation: Avatar of Ashamane",
+    "maxRanks": 1,
+    "spellID": 102543
+  },
+  {
+    "type": 2,
+    "spellIcon": 3636839,
+    "nodeID": 82114,
+    "spellName": "Convoke the Spirits",
+    "maxRanks": 1,
+    "spellID": 391528
+  },
+  {
+    "type": 0,
+    "spellIcon": 1033484,
+    "nodeID": 82115,
+    "spellName": "Frantic Momentum",
+    "maxRanks": 2,
+    "spellID": 391875
+  },
+  {
+    "type": 0,
+    "spellIcon": 236169,
+    "nodeID": 82116,
+    "spellName": "Survival Instincts",
+    "maxRanks": 1,
+    "spellID": 61336
+  },
+  {
+    "type": 0,
+    "spellIcon": 132152,
+    "nodeID": 82117,
+    "spellName": "Dreadful Bleeding",
+    "maxRanks": 1,
+    "spellID": 391045
+  },
+  {
+    "type": 0,
+    "spellIcon": 132127,
+    "nodeID": 82118,
+    "spellName": "Taste for Blood",
+    "maxRanks": 2,
+    "spellID": 384665
+  },
+  {
+    "type": 0,
+    "spellIcon": 514640,
+    "nodeID": 82119,
+    "spellName": "Pouncing Strikes",
+    "maxRanks": 1,
+    "spellID": 390772
+  },
+  {
+    "type": 0,
+    "spellIcon": 1392547,
+    "nodeID": 82120,
+    "spellName": "Primal Wrath",
+    "maxRanks": 1,
+    "spellID": 285381
+  },
+  {
+    "type": 0,
+    "spellIcon": 135769,
+    "nodeID": 82121,
+    "spellName": "Tireless Energy",
+    "maxRanks": 2,
+    "spellID": 383352
+  },
+  {
+    "type": 0,
+    "spellIcon": 132167,
+    "nodeID": 82122,
+    "spellName": "Predator",
+    "maxRanks": 1,
+    "spellID": 202021
+  },
+  {
+    "type": 0,
+    "spellIcon": 136017,
+    "nodeID": 82123,
+    "spellName": "Omen of Clarity",
+    "maxRanks": 1,
+    "spellID": 16864
+  },
+  {
+    "type": 0,
+    "spellIcon": 132242,
+    "nodeID": 82124,
+    "spellName": "Tiger's Fury",
+    "maxRanks": 1,
+    "spellID": 5217
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 538517,
+    "nodeID": 82197,
+    "spellName": "Tireless Pursuit",
+    "maxRanks": 1,
+    "spellID": 377801
+  },
+  {
+    "type": 2,
+    "spellIcon": 538771,
+    "nodeID": 82198,
+    "spellName": "Wild Charge",
+    "maxRanks": 1,
+    "spellID": 102401
+  },
+  {
+    "type": 2,
+    "spellIcon": 1817485,
+    "nodeID": 82198,
+    "spellName": "Tiger Dash",
+    "maxRanks": 1,
+    "spellID": 252216
+  },
+  {
+    "type": 0,
+    "spellIcon": 132122,
+    "nodeID": 82199,
+    "spellName": "Rake",
+    "maxRanks": 1,
+    "spellID": 1822
+  },
+  {
+    "type": 0,
+    "spellIcon": 135730,
+    "nodeID": 82200,
+    "spellName": "Starsurge",
+    "maxRanks": 1,
+    "spellID": 197626
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 135952,
+    "nodeID": 82204,
+    "spellName": "Remove Corruption",
+    "maxRanks": 1,
+    "spellID": 2782
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 132137,
+    "nodeID": 82206,
+    "spellName": "Natural Recovery",
+    "maxRanks": 2,
+    "spellID": 377796
+  },
+  {
+    "type": 0,
+    "spellIcon": 236216,
+    "nodeID": 82207,
+    "spellName": "Improved Sunfire",
+    "maxRanks": 1,
+    "spellID": 231050
+  },
+  {
+    "type": 0,
+    "spellIcon": 236216,
+    "nodeID": 82208,
+    "spellName": "Sunfire",
+    "maxRanks": 1,
+    "spellID": 93402
+  },
+  {
+    "type": 0,
+    "spellIcon": 236170,
+    "nodeID": 82209,
+    "spellName": "Typhoon",
+    "maxRanks": 1,
+    "spellID": 132469
+  },
+  {
+    "type": 0,
+    "spellIcon": 1029587,
+    "nodeID": 82210,
+    "spellName": "Astral Influence",
+    "maxRanks": 2,
+    "spellID": 197524
+  },
+  {
+    "type": 0,
+    "spellIcon": 136090,
+    "nodeID": 82211,
+    "spellName": "Hibernate",
+    "maxRanks": 1,
+    "spellID": 2637
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 136022,
+    "nodeID": 82213,
+    "spellName": "Cyclone",
+    "maxRanks": 1,
+    "spellID": 33786
+  },
+  {
+    "type": 0,
+    "spellIcon": 132130,
+    "nodeID": 82214,
+    "spellName": "Nurturing Instinct",
+    "maxRanks": 3,
+    "spellID": 33873
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 134914,
+    "nodeID": 82216,
+    "spellName": "Swiftmend",
+    "maxRanks": 1,
+    "spellID": 18562
+  },
+  {
+    "type": 0,
+    "spellIcon": 136081,
+    "nodeID": 82217,
+    "spellName": "Rejuvenation",
+    "maxRanks": 1,
+    "spellID": 774
+  },
+  {
+    "type": 0,
+    "spellIcon": 132091,
+    "nodeID": 82218,
+    "spellName": "Verdant Heart",
+    "maxRanks": 1,
+    "spellID": 301768
+  },
+  {
+    "type": 0,
+    "spellIcon": 136097,
+    "nodeID": 82219,
+    "spellName": "Improved Barkskin",
+    "maxRanks": 1,
+    "spellID": 327993
+  },
+  {
+    "type": 0,
+    "spellIcon": 132091,
+    "nodeID": 82220,
+    "spellName": "Frenzied Regeneration",
+    "maxRanks": 1,
+    "spellID": 22842
+  },
+  {
+    "type": 0,
+    "spellIcon": 132134,
+    "nodeID": 82221,
+    "spellName": "Maim",
+    "maxRanks": 1,
+    "spellID": 22570
+  },
+  {
+    "type": 0,
+    "spellIcon": 132152,
+    "nodeID": 82222,
+    "spellName": "Rip",
+    "maxRanks": 1,
+    "spellID": 1079
+  },
+  {
+    "type": 0,
+    "spellIcon": 451161,
+    "nodeID": 82223,
+    "spellName": "Thrash",
+    "maxRanks": 1,
+    "spellID": 106832
+  },
+  {
+    "type": 0,
+    "spellIcon": 236946,
+    "nodeID": 82224,
+    "spellName": "Skull Bash",
+    "maxRanks": 1,
+    "spellID": 106839
+  },
+  {
+    "type": 0,
+    "spellIcon": 132138,
+    "nodeID": 82225,
+    "spellName": "Killer Instinct",
+    "maxRanks": 3,
+    "spellID": 108299
+  },
+  {
+    "type": 0,
+    "spellIcon": 134296,
+    "nodeID": 82226,
+    "spellName": "Swipe",
+    "maxRanks": 1,
+    "spellID": 213764
+  },
+  {
+    "type": 0,
+    "spellIcon": 1378702,
+    "nodeID": 82227,
+    "spellName": "Ironfur",
+    "maxRanks": 1,
+    "spellID": 192081
+  },
+  {
+    "type": 0,
+    "spellIcon": 134355,
+    "nodeID": 82228,
+    "spellName": "Thick Hide",
+    "maxRanks": 2,
+    "spellID": 16931
+  },
+  {
+    "type": 0,
+    "spellIcon": 132163,
+    "nodeID": 82229,
+    "spellName": "Soothe",
+    "maxRanks": 1,
+    "spellID": 2908
+  },
+  {
+    "type": 0,
+    "spellIcon": 463283,
+    "nodeID": 82230,
+    "spellName": "Improved Stampeding Roar",
+    "maxRanks": 1,
+    "spellID": 288826
+  },
+  {
+    "type": 0,
+    "spellIcon": 135879,
+    "nodeID": 82231,
+    "spellName": "Heart of the Wild",
+    "maxRanks": 1,
+    "spellID": 319454
+  },
+  {
+    "type": 0,
+    "spellIcon": 136059,
+    "nodeID": 82232,
+    "spellName": "Renewal",
+    "maxRanks": 1,
+    "spellID": 108238
+  },
+  {
+    "type": 0,
+    "spellIcon": 3536177,
+    "nodeID": 82233,
+    "spellName": "Lycara's Teachings",
+    "maxRanks": 3,
+    "spellID": 378988
+  },
+  {
+    "type": 0,
+    "spellIcon": 464343,
+    "nodeID": 82234,
+    "spellName": "Stampeding Roar",
+    "maxRanks": 1,
+    "spellID": 106898
+  },
+  {
+    "type": 0,
+    "spellIcon": 1378703,
+    "nodeID": 82235,
+    "spellName": "Ursine Vigor",
+    "maxRanks": 2,
+    "spellID": 377842
+  },
+  {
+    "type": 0,
+    "spellIcon": 136097,
+    "nodeID": 82236,
+    "spellName": "Matted Fur",
+    "maxRanks": 1,
+    "spellID": 385786
+  },
+  {
+    "type": 2,
+    "spellIcon": 132121,
+    "nodeID": 82237,
+    "spellName": "Incapacitating Roar",
+    "maxRanks": 1,
+    "spellID": 99
+  },
+  {
+    "type": 2,
+    "spellIcon": 132114,
+    "nodeID": 82237,
+    "spellName": "Mighty Bash",
+    "maxRanks": 1,
+    "spellID": 5211
+  },
+  {
+    "type": 0,
+    "spellIcon": 132278,
+    "nodeID": 82238,
+    "spellName": "Primal Fury",
+    "maxRanks": 1,
+    "spellID": 159286
+  },
+  {
+    "type": 0,
+    "spellIcon": 538517,
+    "nodeID": 82239,
+    "spellName": "Feline Swiftness",
+    "maxRanks": 2,
+    "spellID": 131768
+  },
+  {
+    "type": 0,
+    "spellIcon": 136081,
+    "nodeID": 82240,
+    "spellName": "Improved Rejuvenation",
+    "maxRanks": 1,
+    "spellID": 231040
+  },
+  {
+    "type": 0,
+    "spellIcon": 236153,
+    "nodeID": 82241,
+    "spellName": "Wild Growth",
+    "maxRanks": 1,
+    "spellID": 48438
+  },
+  {
+    "type": 2,
+    "spellIcon": 538515,
+    "nodeID": 82242,
+    "spellName": "Mass Entanglement",
+    "maxRanks": 1,
+    "spellID": 102359
+  },
+  {
+    "type": 2,
+    "spellIcon": 571588,
+    "nodeID": 82242,
+    "spellName": "Ursol's Vortex",
+    "maxRanks": 1,
+    "spellID": 102793
+  },
+  {
+    "type": 0,
+    "spellIcon": 136048,
+    "nodeID": 82243,
+    "spellName": "Innervate",
+    "maxRanks": 1,
+    "spellID": 29166
+  },
+  {
+    "type": 0,
+    "spellIcon": 236764,
+    "nodeID": 82244,
+    "spellName": "Nature's Vigil",
+    "maxRanks": 1,
+    "spellID": 124974
+  },
+  {
+    "type": 0,
+    "spellIcon": 1408834,
+    "nodeID": 82245,
+    "spellName": "Protector of the Pack",
+    "maxRanks": 1,
+    "spellID": 378986
+  },
+  {
+    "type": 0,
+    "spellIcon": 236169,
+    "nodeID": 82246,
+    "spellName": "Well-Honed Instincts",
+    "maxRanks": 2,
+    "spellID": 377847
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 135753,
+    "nodeID": 91044,
+    "spellName": "Starfire",
+    "maxRanks": 1,
+    "spellID": 197628
+  },
+  {
+    "type": 0,
+    "spellIcon": 136036,
+    "nodeID": 91045,
+    "spellName": "Moonkin Form",
+    "maxRanks": 1,
+    "spellID": 197625
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  }
+]

@@ -1,0 +1,950 @@
+[
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 135729,
+    "nodeID": 62084,
+    "spellName": "Spellsteal",
+    "maxRanks": 1,
+    "spellID": 30449
+  },
+  {
+    "type": 0,
+    "spellIcon": 3636841,
+    "nodeID": 62085,
+    "spellName": "Shifting Power",
+    "maxRanks": 1,
+    "spellID": 382440
+  },
+  {
+    "type": 0,
+    "spellIcon": 135850,
+    "nodeID": 62086,
+    "spellName": "Ice Ward",
+    "maxRanks": 1,
+    "spellID": 205036
+  },
+  {
+    "type": 0,
+    "spellIcon": 135852,
+    "nodeID": 62087,
+    "spellName": "Freezing Cold",
+    "maxRanks": 1,
+    "spellID": 386763
+  },
+  {
+    "type": 0,
+    "spellIcon": 464484,
+    "nodeID": 62088,
+    "spellName": "Ring of Frost",
+    "maxRanks": 1,
+    "spellID": 113724
+  },
+  {
+    "type": 0,
+    "spellIcon": 135789,
+    "nodeID": 62089,
+    "spellName": "Volatile Detonation",
+    "maxRanks": 1,
+    "spellID": 389627
+  },
+  {
+    "type": 0,
+    "spellIcon": 1033911,
+    "nodeID": 62090,
+    "spellName": "Meteor",
+    "maxRanks": 1,
+    "spellID": 153561
+  },
+  {
+    "type": 0,
+    "spellIcon": 134153,
+    "nodeID": 62091,
+    "spellName": "Dragon's Breath",
+    "maxRanks": 1,
+    "spellID": 31661
+  },
+  {
+    "type": 0,
+    "spellIcon": 132171,
+    "nodeID": 62092,
+    "spellName": "Displacement",
+    "maxRanks": 1,
+    "spellID": 389713
+  },
+  {
+    "type": 0,
+    "spellIcon": 236224,
+    "nodeID": 62093,
+    "spellName": "Accumulative Shielding",
+    "maxRanks": 2,
+    "spellID": 382800
+  },
+  {
+    "type": 2,
+    "spellIcon": 458224,
+    "nodeID": 62094,
+    "spellName": "Time Anomaly",
+    "maxRanks": 1,
+    "spellID": 383243
+  },
+  {
+    "type": 2,
+    "spellIcon": 1391676,
+    "nodeID": 62094,
+    "spellName": "Temporal Warp",
+    "maxRanks": 1,
+    "spellID": 386539
+  },
+  {
+    "type": 0,
+    "spellIcon": 575584,
+    "nodeID": 62095,
+    "spellName": "Greater Invisibility",
+    "maxRanks": 1,
+    "spellID": 110959
+  },
+  {
+    "type": 0,
+    "spellIcon": 135736,
+    "nodeID": 62096,
+    "spellName": "Flow of Time",
+    "maxRanks": 2,
+    "spellID": 382268
+  },
+  {
+    "type": 0,
+    "spellIcon": 136091,
+    "nodeID": 62097,
+    "spellName": "Slow",
+    "maxRanks": 1,
+    "spellID": 31589
+  },
+  {
+    "type": 0,
+    "spellIcon": 355498,
+    "nodeID": 62098,
+    "spellName": "Tome of Antonidas",
+    "maxRanks": 1,
+    "spellID": 382490
+  },
+  {
+    "type": 0,
+    "spellIcon": 1041230,
+    "nodeID": 62099,
+    "spellName": "Temporal Velocity",
+    "maxRanks": 2,
+    "spellID": 382826
+  },
+  {
+    "type": 0,
+    "spellIcon": 610472,
+    "nodeID": 62100,
+    "spellName": "Energized Barriers",
+    "maxRanks": 1,
+    "spellID": 386828
+  },
+  {
+    "type": 0,
+    "spellIcon": 2065625,
+    "nodeID": 62101,
+    "spellName": "Diverted Energy",
+    "maxRanks": 2,
+    "spellID": 382270
+  },
+  {
+    "type": 0,
+    "spellIcon": 2026009,
+    "nodeID": 62102,
+    "spellName": "Master of Time",
+    "maxRanks": 1,
+    "spellID": 342249
+  },
+  {
+    "type": 0,
+    "spellIcon": 135903,
+    "nodeID": 62103,
+    "spellName": "Blast Wave",
+    "maxRanks": 1,
+    "spellID": 157981
+  },
+  {
+    "type": 0,
+    "spellIcon": 633004,
+    "nodeID": 62104,
+    "spellName": "Quick Witted",
+    "maxRanks": 1,
+    "spellID": 382297
+  },
+  {
+    "type": 2,
+    "spellIcon": 135739,
+    "nodeID": 62105,
+    "spellName": "Shimmer",
+    "maxRanks": 1,
+    "spellID": 212653
+  },
+  {
+    "type": 2,
+    "spellIcon": 610877,
+    "nodeID": 62105,
+    "spellName": "Ice Floes",
+    "maxRanks": 1,
+    "spellID": 108839
+  },
+  {
+    "type": 0,
+    "spellIcon": 575585,
+    "nodeID": 62106,
+    "spellName": "Mass Polymorph",
+    "maxRanks": 1,
+    "spellID": 383121
+  },
+  {
+    "type": 0,
+    "spellIcon": 135854,
+    "nodeID": 62107,
+    "spellName": "Cryo-Freeze",
+    "maxRanks": 2,
+    "spellID": 382292
+  },
+  {
+    "type": 0,
+    "spellIcon": 135848,
+    "nodeID": 62108,
+    "spellName": "Improved Frost Nova",
+    "maxRanks": 1,
+    "spellID": 343183
+  },
+  {
+    "type": 0,
+    "spellIcon": 132860,
+    "nodeID": 62109,
+    "spellName": "Mass Slow",
+    "maxRanks": 1,
+    "spellID": 391102
+  },
+  {
+    "type": 0,
+    "spellIcon": 612393,
+    "nodeID": 62110,
+    "spellName": "Rigid Ice",
+    "maxRanks": 1,
+    "spellID": 382481
+  },
+  {
+    "type": 0,
+    "spellIcon": 1355357,
+    "nodeID": 62111,
+    "spellName": "Tempest Barrier",
+    "maxRanks": 2,
+    "spellID": 382289
+  },
+  {
+    "type": 0,
+    "spellIcon": 538536,
+    "nodeID": 62112,
+    "spellName": "Incantation of Swiftness",
+    "maxRanks": 2,
+    "spellID": 382293
+  },
+  {
+    "type": 2,
+    "spellIcon": 236219,
+    "nodeID": 62113,
+    "spellName": "Incanter's Flow",
+    "maxRanks": 1,
+    "spellID": 1463
+  },
+  {
+    "type": 2,
+    "spellIcon": 609815,
+    "nodeID": 62113,
+    "spellName": "Rune of Power",
+    "maxRanks": 1,
+    "spellID": 116011
+  },
+  {
+    "type": 0,
+    "spellIcon": 135733,
+    "nodeID": 62114,
+    "spellName": "Arcane Warding",
+    "maxRanks": 2,
+    "spellID": 383092
+  },
+  {
+    "type": 0,
+    "spellIcon": 609811,
+    "nodeID": 62115,
+    "spellName": "Alter Time",
+    "maxRanks": 1,
+    "spellID": 342245
+  },
+  {
+    "type": 0,
+    "spellIcon": 136082,
+    "nodeID": 62116,
+    "spellName": "Remove Curse",
+    "maxRanks": 1,
+    "spellID": 475
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 132220,
+    "nodeID": 62118,
+    "spellName": "Invisibility",
+    "maxRanks": 1,
+    "spellID": 66
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 135738,
+    "nodeID": 62120,
+    "spellName": "Overflowing Energy",
+    "maxRanks": 1,
+    "spellID": 390218
+  },
+  {
+    "type": 0,
+    "spellIcon": 135991,
+    "nodeID": 62121,
+    "spellName": "Prismatic Barrier",
+    "maxRanks": 1,
+    "spellID": 235450
+  },
+  {
+    "type": 0,
+    "spellIcon": 135841,
+    "nodeID": 62122,
+    "spellName": "Ice Block",
+    "maxRanks": 1,
+    "spellID": 45438
+  },
+  {
+    "type": 0,
+    "spellIcon": 252270,
+    "nodeID": 62123,
+    "spellName": "Winter's Protection",
+    "maxRanks": 2,
+    "spellID": 382424
+  },
+  {
+    "type": 0,
+    "spellIcon": 135994,
+    "nodeID": 62124,
+    "spellName": "Mirror Image",
+    "maxRanks": 1,
+    "spellID": 55342
+  },
+  {
+    "type": 2,
+    "spellIcon": 1387356,
+    "nodeID": 62125,
+    "spellName": "Reduplication",
+    "maxRanks": 1,
+    "spellID": 382569
+  },
+  {
+    "type": 2,
+    "spellIcon": 135754,
+    "nodeID": 62125,
+    "spellName": "Reabsorption",
+    "maxRanks": 1,
+    "spellID": 382820
+  },
+  {
+    "type": 0,
+    "spellIcon": 1033909,
+    "nodeID": 62126,
+    "spellName": "Ice Nova",
+    "maxRanks": 1,
+    "spellID": 157997
+  },
+  {
+    "type": 0,
+    "spellIcon": 133736,
+    "nodeID": 62127,
+    "spellName": "Tome of Rhonin",
+    "maxRanks": 1,
+    "spellID": 382493
+  },
+  {
+    "type": 0,
+    "spellIcon": 236214,
+    "nodeID": 62128,
+    "spellName": "Frigid Winds",
+    "maxRanks": 2,
+    "spellID": 235224
+  },
+  {
+    "type": 0,
+    "spellIcon": 136106,
+    "nodeID": 62129,
+    "spellName": "Time Manipulation",
+    "maxRanks": 2,
+    "spellID": 387807
+  },
+  {
+    "type": 0,
+    "spellIcon": 136048,
+    "nodeID": 62130,
+    "spellName": "Arcane Power",
+    "maxRanks": 1,
+    "spellID": 321739
+  },
+  {
+    "type": 0,
+    "spellIcon": 1041234,
+    "nodeID": 62131,
+    "spellName": "Arcane Echo",
+    "maxRanks": 1,
+    "spellID": 342231
+  },
+  {
+    "type": 0,
+    "spellIcon": 134132,
+    "nodeID": 62132,
+    "spellName": "Conjure Mana Gem",
+    "maxRanks": 1,
+    "spellID": 759
+  },
+  {
+    "type": 0,
+    "spellIcon": 134132,
+    "nodeID": 62133,
+    "spellName": "Cascading Power",
+    "maxRanks": 1,
+    "spellID": 384276
+  },
+  {
+    "type": 0,
+    "spellIcon": 236223,
+    "nodeID": 62134,
+    "spellName": "Concentration",
+    "maxRanks": 1,
+    "spellID": 384374
+  },
+  {
+    "type": 0,
+    "spellIcon": 132096,
+    "nodeID": 62135,
+    "spellName": "Arcane Harmony",
+    "maxRanks": 1,
+    "spellID": 384452
+  },
+  {
+    "type": 0,
+    "spellIcon": 1391782,
+    "nodeID": 62136,
+    "spellName": "Orb Barrage",
+    "maxRanks": 1,
+    "spellID": 384858
+  },
+  {
+    "type": 0,
+    "spellIcon": 236225,
+    "nodeID": 62137,
+    "spellName": "Prodigious Savant",
+    "maxRanks": 2,
+    "spellID": 384612
+  },
+  {
+    "type": 2,
+    "spellIcon": 135731,
+    "nodeID": 62138,
+    "spellName": "Reverberate",
+    "maxRanks": 1,
+    "spellID": 281482
+  },
+  {
+    "type": 2,
+    "spellIcon": 610471,
+    "nodeID": 62138,
+    "spellName": "Nether Tempest",
+    "maxRanks": 1,
+    "spellID": 114923
+  },
+  {
+    "type": 0,
+    "spellIcon": 135728,
+    "nodeID": 62139,
+    "spellName": "Resonance",
+    "maxRanks": 1,
+    "spellID": 205028
+  },
+  {
+    "type": 0,
+    "spellIcon": 236205,
+    "nodeID": 62140,
+    "spellName": "Arcing Cleave",
+    "maxRanks": 1,
+    "spellID": 231564
+  },
+  {
+    "type": 0,
+    "spellIcon": 629533,
+    "nodeID": 62141,
+    "spellName": "Chrono Shift",
+    "maxRanks": 1,
+    "spellID": 235711
+  },
+  {
+    "type": 0,
+    "spellIcon": 610679,
+    "nodeID": 62142,
+    "spellName": "Foresight",
+    "maxRanks": 1,
+    "spellID": 384861
+  },
+  {
+    "type": 0,
+    "spellIcon": 1041231,
+    "nodeID": 62143,
+    "spellName": "Enlightened",
+    "maxRanks": 1,
+    "spellID": 321387
+  },
+  {
+    "type": 0,
+    "spellIcon": 1041230,
+    "nodeID": 62144,
+    "spellName": "Arcane Tempo",
+    "maxRanks": 1,
+    "spellID": 383980
+  },
+  {
+    "type": 2,
+    "spellIcon": 135753,
+    "nodeID": 62145,
+    "spellName": "Rule of Threes",
+    "maxRanks": 1,
+    "spellID": 264354
+  },
+  {
+    "type": 2,
+    "spellIcon": 1041232,
+    "nodeID": 62145,
+    "spellName": "Arcane Familiar",
+    "maxRanks": 1,
+    "spellID": 205022
+  },
+  {
+    "type": 0,
+    "spellIcon": 136031,
+    "nodeID": 62146,
+    "spellName": "Presence of Mind",
+    "maxRanks": 1,
+    "spellID": 205025
+  },
+  {
+    "type": 0,
+    "spellIcon": 136075,
+    "nodeID": 62147,
+    "spellName": "Evocation",
+    "maxRanks": 1,
+    "spellID": 12051
+  },
+  {
+    "type": 0,
+    "spellIcon": 1717106,
+    "nodeID": 62148,
+    "spellName": "Siphon Storm",
+    "maxRanks": 1,
+    "spellID": 384187
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 1033912,
+    "nodeID": 62221,
+    "spellName": "Supernova",
+    "maxRanks": 1,
+    "spellID": 157980
+  },
+  {
+    "type": 0,
+    "spellIcon": 135734,
+    "nodeID": 62222,
+    "spellName": "Impetus",
+    "maxRanks": 1,
+    "spellID": 383676
+  },
+  {
+    "type": 0,
+    "spellIcon": 135737,
+    "nodeID": 62223,
+    "spellName": "Illuminated Thoughts",
+    "maxRanks": 2,
+    "spellID": 384060
+  },
+  {
+    "type": 0,
+    "spellIcon": 136170,
+    "nodeID": 62224,
+    "spellName": "Improved Clearcasting",
+    "maxRanks": 1,
+    "spellID": 321420
+  },
+  {
+    "type": 0,
+    "spellIcon": 429383,
+    "nodeID": 62225,
+    "spellName": "Amplification",
+    "maxRanks": 1,
+    "spellID": 236628
+  },
+  {
+    "type": 0,
+    "spellIcon": 1391780,
+    "nodeID": 62226,
+    "spellName": "Nether Precision",
+    "maxRanks": 1,
+    "spellID": 383782
+  },
+  {
+    "type": 0,
+    "spellIcon": 135933,
+    "nodeID": 62227,
+    "spellName": "Slipstream",
+    "maxRanks": 1,
+    "spellID": 236457
+  },
+  {
+    "type": 0,
+    "spellIcon": 136116,
+    "nodeID": 62228,
+    "spellName": "Crackling Energy",
+    "maxRanks": 2,
+    "spellID": 321752
+  },
+  {
+    "type": 0,
+    "spellIcon": 136170,
+    "nodeID": 62229,
+    "spellName": "Clearcasting",
+    "maxRanks": 1,
+    "spellID": 79684
+  },
+  {
+    "type": 0,
+    "spellIcon": 4667417,
+    "nodeID": 62230,
+    "spellName": "Arcane Surge",
+    "maxRanks": 1,
+    "spellID": 365350
+  },
+  {
+    "type": 0,
+    "spellIcon": 236205,
+    "nodeID": 62231,
+    "spellName": "Mana Adept",
+    "maxRanks": 1,
+    "spellID": 321526
+  },
+  {
+    "type": 0,
+    "spellIcon": 135991,
+    "nodeID": 62232,
+    "spellName": "Improved Prismatic Barrier",
+    "maxRanks": 1,
+    "spellID": 321745
+  },
+  {
+    "type": 0,
+    "spellIcon": 1033909,
+    "nodeID": 62233,
+    "spellName": "Touch of the Magi",
+    "maxRanks": 1,
+    "spellID": 321507
+  },
+  {
+    "type": 0,
+    "spellIcon": 1041233,
+    "nodeID": 62234,
+    "spellName": "Arcane Bombardment",
+    "maxRanks": 1,
+    "spellID": 384581
+  },
+  {
+    "type": 0,
+    "spellIcon": 3565446,
+    "nodeID": 62235,
+    "spellName": "Radiant Spark",
+    "maxRanks": 1,
+    "spellID": 376103
+  },
+  {
+    "type": 0,
+    "spellIcon": 3565446,
+    "nodeID": 62236,
+    "spellName": "Harmonic Echo",
+    "maxRanks": 1,
+    "spellID": 384683
+  },
+  {
+    "type": 0,
+    "spellIcon": 236205,
+    "nodeID": 62237,
+    "spellName": "Arcane Barrage",
+    "maxRanks": 1,
+    "spellID": 44425
+  },
+  {
+    "type": 0,
+    "spellIcon": 136096,
+    "nodeID": 62238,
+    "spellName": "Arcane Missiles",
+    "maxRanks": 1,
+    "spellID": 5143
+  },
+  {
+    "type": 0,
+    "spellIcon": 1033906,
+    "nodeID": 62239,
+    "spellName": "Arcane Orb",
+    "maxRanks": 1,
+    "spellID": 153626
+  },
+  {
+    "type": 0,
+    "spellIcon": 136096,
+    "nodeID": 62240,
+    "spellName": "Improved Arcane Missiles",
+    "maxRanks": 2,
+    "spellID": 383661
+  },
+  {
+    "type": 0,
+    "spellIcon": 1033906,
+    "nodeID": 62241,
+    "spellName": "Charged Orb",
+    "maxRanks": 1,
+    "spellID": 384651
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  }
+]

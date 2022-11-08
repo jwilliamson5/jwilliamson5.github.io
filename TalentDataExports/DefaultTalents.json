@@ -1,0 +1,127 @@
+{
+  "250": [
+    "Death Strike"
+  ],
+  "251": [
+    "Chains of Ice"
+  ],
+  "252": [
+    "Raise Dead"
+  ],
+  "577": [
+    "Vengeful Retreat"
+  ],
+  "581": [
+    "Sigil of Flame"
+  ],
+  "102": [
+    "Starfire",
+    "Starsurge"
+  ],
+  "103": [
+    "Rake",
+    "Thrash"
+  ],
+  "104": [
+    "Frenzied Regeneration",
+    "Thrash"
+  ],
+  "105": [
+    "Rejuvenation"
+  ],
+  "1467": [
+  ],
+  "1468": [
+  ],
+  "253": [
+    "Kill Command"
+  ],
+  "254": [
+    "Kill Shot"
+  ],
+  "255": [
+    "Kill Command"
+  ],
+  "62": [
+    "Prismatic Barrier"
+  ],
+  "63": [
+    "Blazing Barrier"
+  ],
+  "64": [
+    "Ice Barrier"
+  ],
+  "268": [
+    "Tiger's Lust"
+  ],
+  "270": [
+    "Soothing Mist"
+  ],
+  "269": [
+    "Rising Sun Kick"
+  ],
+  "65": [
+    "Lay on Hands",
+    "Auras of the Resolute"
+  ],
+  "66": [
+    "Lay on Hands",
+    "Auras of the Resolute"
+  ],
+  "70": [
+    "Hammer of Wrath",
+    "Auras of Swift Vengeance"
+  ],
+  "256": [
+    "Renew",
+    "Shadowfiend"
+  ],
+  "257": [
+    "Renew",
+    "Prayer of Mending"
+  ],
+  "258": [
+    "Shadow Word: Death",
+    "Shadowfiend"
+  ],
+  "259": [
+    "Shiv"
+  ],
+  "260": [
+    "Blind"
+  ],
+  "261": [
+    "Sap"
+  ],
+  "262": [
+    "Lava Burst",
+    "Chain Lightning"
+  ],
+  "263": [
+    "Chain Lightning",
+    "Maelstrom Weapon"
+  ],
+  "264": [
+    "Chain Heal",
+    "Lava Burst"
+  ],
+  "265": [
+    "Demonic Circle"
+  ],
+  "266": [
+    "Demonic Circle"
+  ],
+  "267": [
+    "Demonic Circle"
+  ],
+  "71": [
+    "Battle Stance"
+  ],
+  "72": [
+    "Berserker Stance"
+  ],
+  "73": [
+    "Battle Stance",
+    "Defensive Stance"
+  ]
+}

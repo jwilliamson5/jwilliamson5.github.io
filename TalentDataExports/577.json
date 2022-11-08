@@ -1,0 +1,882 @@
+[
+  {
+    "type": 0,
+    "nodeID": 90912,
+    "maxRanks": 0
+  },
+  {
+    "type": 2,
+    "spellIcon": 136171,
+    "nodeID": 90913,
+    "spellName": "Desperate Instincts",
+    "maxRanks": 1,
+    "spellID": 205411
+  },
+  {
+    "type": 2,
+    "spellIcon": 463284,
+    "nodeID": 90913,
+    "spellName": "Netherwalk",
+    "maxRanks": 1,
+    "spellID": 196555
+  },
+  {
+    "type": 0,
+    "spellIcon": 2120320,
+    "nodeID": 90914,
+    "spellName": "Demonic Appetite",
+    "maxRanks": 1,
+    "spellID": 206478
+  },
+  {
+    "type": 0,
+    "spellIcon": 1305149,
+    "nodeID": 90915,
+    "spellName": "Trail of Ruin",
+    "maxRanks": 1,
+    "spellID": 258881
+  },
+  {
+    "type": 0,
+    "spellIcon": 841221,
+    "nodeID": 90916,
+    "spellName": "Growing Inferno",
+    "maxRanks": 2,
+    "spellID": 390158
+  },
+  {
+    "type": 0,
+    "spellIcon": 135801,
+    "nodeID": 90917,
+    "spellName": "Burning Wound",
+    "maxRanks": 1,
+    "spellID": 391189
+  },
+  {
+    "type": 0,
+    "spellIcon": 840199,
+    "nodeID": 90918,
+    "spellName": "Ragefire",
+    "maxRanks": 1,
+    "spellID": 388107
+  },
+  {
+    "type": 0,
+    "spellIcon": 236293,
+    "nodeID": 90919,
+    "spellName": "Any Means Necessary",
+    "maxRanks": 1,
+    "spellID": 388114
+  },
+  {
+    "type": 0,
+    "spellIcon": 1450139,
+    "nodeID": 90920,
+    "spellName": "Soulrend",
+    "maxRanks": 2,
+    "spellID": 388106
+  },
+  {
+    "type": 0,
+    "spellIcon": 1305156,
+    "nodeID": 90921,
+    "spellName": "Looks Can Kill",
+    "maxRanks": 1,
+    "spellID": 320415
+  },
+  {
+    "type": 0,
+    "spellIcon": 1305157,
+    "nodeID": 90922,
+    "spellName": "Chaotic Transformation",
+    "maxRanks": 1,
+    "spellID": 388112
+  },
+  {
+    "type": 0,
+    "spellIcon": 1344649,
+    "nodeID": 90923,
+    "spellName": "Burning Hatred",
+    "maxRanks": 1,
+    "spellID": 320374
+  },
+  {
+    "type": 0,
+    "spellIcon": 1305160,
+    "nodeID": 90924,
+    "spellName": "Mortal Dance",
+    "maxRanks": 1,
+    "spellID": 328725
+  },
+  {
+    "type": 0,
+    "spellIcon": 538039,
+    "nodeID": 90925,
+    "spellName": "First Blood",
+    "maxRanks": 1,
+    "spellID": 206416
+  },
+  {
+    "type": 2,
+    "spellIcon": 3528278,
+    "nodeID": 90926,
+    "spellName": "Unnatural Malice",
+    "maxRanks": 1,
+    "spellID": 389811
+  },
+  {
+    "type": 2,
+    "spellIcon": 1380365,
+    "nodeID": 90926,
+    "spellName": "Relentless Pursuit",
+    "maxRanks": 1,
+    "spellID": 389819
+  },
+  {
+    "type": 0,
+    "spellIcon": 3636838,
+    "nodeID": 90927,
+    "spellName": "The Hunt",
+    "maxRanks": 1,
+    "spellID": 370965
+  },
+  {
+    "type": 0,
+    "spellIcon": 840199,
+    "nodeID": 90928,
+    "spellName": "Demon Muzzle",
+    "maxRanks": 1,
+    "spellID": 388111
+  },
+  {
+    "type": 0,
+    "spellIcon": 1344652,
+    "nodeID": 90929,
+    "spellName": "Soul Sigils",
+    "maxRanks": 1,
+    "spellID": 395446
+  },
+  {
+    "type": 0,
+    "spellIcon": 1348401,
+    "nodeID": 90930,
+    "spellName": "Vengeful Bonds",
+    "maxRanks": 1,
+    "spellID": 320635
+  },
+  {
+    "type": 0,
+    "spellIcon": 1305159,
+    "nodeID": 90931,
+    "spellName": "Bouncing Glaives",
+    "maxRanks": 1,
+    "spellID": 320386
+  },
+  {
+    "type": 2,
+    "spellIcon": 1344649,
+    "nodeID": 90932,
+    "spellName": "Aura of Pain",
+    "maxRanks": 1,
+    "spellID": 207347
+  },
+  {
+    "type": 2,
+    "spellIcon": 1344646,
+    "nodeID": 90932,
+    "spellName": "Felblade",
+    "maxRanks": 1,
+    "spellID": 232893
+  },
+  {
+    "type": 0,
+    "spellIcon": 1247262,
+    "nodeID": 90933,
+    "spellName": "Rush of Chaos",
+    "maxRanks": 1,
+    "spellID": 320421
+  },
+  {
+    "type": 0,
+    "spellIcon": 236293,
+    "nodeID": 90934,
+    "spellName": "Internal Struggle",
+    "maxRanks": 1,
+    "spellID": 393822
+  },
+  {
+    "type": 0,
+    "spellIcon": 1033914,
+    "nodeID": 90935,
+    "spellName": "Illidari Knowledge",
+    "maxRanks": 2,
+    "spellID": 389696
+  },
+  {
+    "type": 0,
+    "spellIcon": 1354410,
+    "nodeID": 90936,
+    "spellName": "Soul Rending",
+    "maxRanks": 2,
+    "spellID": 204909
+  },
+  {
+    "type": 0,
+    "spellIcon": 1305153,
+    "nodeID": 90937,
+    "spellName": "Disrupting Fury",
+    "maxRanks": 1,
+    "spellID": 183782
+  },
+  {
+    "type": 0,
+    "spellIcon": 1305153,
+    "nodeID": 90938,
+    "spellName": "Improved Disrupt",
+    "maxRanks": 1,
+    "spellID": 320361
+  },
+  {
+    "type": 0,
+    "spellIcon": 446089,
+    "nodeID": 90939,
+    "spellName": "Felfire Haste",
+    "maxRanks": 1,
+    "spellID": 389846
+  },
+  {
+    "type": 0,
+    "spellIcon": 236293,
+    "nodeID": 90940,
+    "spellName": "Pursuit",
+    "maxRanks": 1,
+    "spellID": 320654
+  },
+  {
+    "type": 0,
+    "spellIcon": 132346,
+    "nodeID": 90941,
+    "spellName": "Unrestrained Fury",
+    "maxRanks": 2,
+    "spellID": 320770
+  },
+  {
+    "type": 0,
+    "spellIcon": 1348401,
+    "nodeID": 90942,
+    "spellName": "Vengeful Retreat",
+    "maxRanks": 1,
+    "spellID": 198793
+  },
+  {
+    "type": 0,
+    "spellIcon": 1344652,
+    "nodeID": 90943,
+    "spellName": "Sigil of Flame",
+    "maxRanks": 1,
+    "spellID": 204596
+  },
+  {
+    "type": 2,
+    "spellIcon": 1121022,
+    "nodeID": 90944,
+    "spellName": "Concentrated Sigils",
+    "maxRanks": 1,
+    "spellID": 207666
+  },
+  {
+    "type": 2,
+    "spellIcon": 1121020,
+    "nodeID": 90944,
+    "spellName": "Precise Sigils",
+    "maxRanks": 1,
+    "spellID": 389799
+  },
+  {
+    "type": 2,
+    "spellIcon": 1418287,
+    "nodeID": 90945,
+    "spellName": "Improved Sigil of Misery",
+    "maxRanks": 1,
+    "spellID": 320418
+  },
+  {
+    "type": 2,
+    "spellIcon": 1418287,
+    "nodeID": 90945,
+    "spellName": "Misery in Defeat",
+    "maxRanks": 1,
+    "spellID": 388110
+  },
+  {
+    "type": 0,
+    "spellIcon": 1418287,
+    "nodeID": 90946,
+    "spellName": "Sigil of Misery",
+    "maxRanks": 1,
+    "spellID": 207684
+  },
+  {
+    "type": 0,
+    "spellIcon": 1387707,
+    "nodeID": 90947,
+    "spellName": "Lost in Darkness",
+    "maxRanks": 1,
+    "spellID": 389849
+  },
+  {
+    "type": 0,
+    "spellIcon": 135818,
+    "nodeID": 90948,
+    "spellName": "Charred Warblades",
+    "maxRanks": 1,
+    "spellID": 213010
+  },
+  {
+    "type": 0,
+    "spellIcon": 1344652,
+    "nodeID": 90949,
+    "spellName": "Flames of Fury",
+    "maxRanks": 1,
+    "spellID": 389694
+  },
+  {
+    "type": 0,
+    "spellIcon": 460700,
+    "nodeID": 90950,
+    "spellName": "Shattered Restoration",
+    "maxRanks": 2,
+    "spellID": 389824
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 2,
+    "spellIcon": 135795,
+    "nodeID": 90992,
+    "spellName": "Chaos Fragments",
+    "maxRanks": 1,
+    "spellID": 320412
+  },
+  {
+    "type": 2,
+    "spellIcon": 1305151,
+    "nodeID": 90992,
+    "spellName": "Unleashed Power",
+    "maxRanks": 1,
+    "spellID": 206477
+  },
+  {
+    "type": 0,
+    "spellIcon": 135795,
+    "nodeID": 90993,
+    "spellName": "Chaos Nova",
+    "maxRanks": 1,
+    "spellID": 179057
+  },
+  {
+    "type": 0,
+    "spellIcon": 1278164,
+    "nodeID": 90994,
+    "spellName": "Master of the Glaive",
+    "maxRanks": 1,
+    "spellID": 389763
+  },
+  {
+    "type": 0,
+    "spellIcon": 1392554,
+    "nodeID": 90995,
+    "spellName": "Collective Anguish",
+    "maxRanks": 1,
+    "spellID": 390152
+  },
+  {
+    "type": 0,
+    "spellIcon": 1379226,
+    "nodeID": 90996,
+    "spellName": "Erratic Felheart",
+    "maxRanks": 2,
+    "spellID": 391397
+  },
+  {
+    "type": 0,
+    "spellIcon": 1450141,
+    "nodeID": 90997,
+    "spellName": "Quickened Sigils",
+    "maxRanks": 1,
+    "spellID": 209281
+  },
+  {
+    "type": 0,
+    "spellIcon": 1344652,
+    "nodeID": 90998,
+    "spellName": "Extended Sigils",
+    "maxRanks": 2,
+    "spellID": 389697
+  },
+  {
+    "type": 0,
+    "spellIcon": 1309100,
+    "nodeID": 90999,
+    "spellName": "Aldrachi Design",
+    "maxRanks": 1,
+    "spellID": 391409
+  },
+  {
+    "type": 0,
+    "spellIcon": 1247265,
+    "nodeID": 91000,
+    "spellName": "Will of the Illidari",
+    "maxRanks": 2,
+    "spellID": 389695
+  },
+  {
+    "type": 2,
+    "spellIcon": 425957,
+    "nodeID": 91001,
+    "spellName": "Long Night",
+    "maxRanks": 1,
+    "spellID": 389781
+  },
+  {
+    "type": 2,
+    "spellIcon": 895888,
+    "nodeID": 91001,
+    "spellName": "Pitch Black",
+    "maxRanks": 1,
+    "spellID": 389783
+  },
+  {
+    "type": 0,
+    "spellIcon": 1305154,
+    "nodeID": 91002,
+    "spellName": "Darkness",
+    "maxRanks": 1,
+    "spellID": 196718
+  },
+  {
+    "type": 2,
+    "spellIcon": 237558,
+    "nodeID": 91003,
+    "spellName": "Demonic",
+    "maxRanks": 1,
+    "spellID": 213410
+  },
+  {
+    "type": 2,
+    "spellIcon": 1392554,
+    "nodeID": 91003,
+    "spellName": "First of the Illidari",
+    "maxRanks": 1,
+    "spellID": 235893
+  },
+  {
+    "type": 0,
+    "spellIcon": 1344649,
+    "nodeID": 91004,
+    "spellName": "Infernal Armor",
+    "maxRanks": 2,
+    "spellID": 320331
+  },
+  {
+    "type": 0,
+    "spellIcon": 828455,
+    "nodeID": 91005,
+    "spellName": "Swallowed Anger",
+    "maxRanks": 1,
+    "spellID": 320313
+  },
+  {
+    "type": 0,
+    "spellIcon": 828455,
+    "nodeID": 91006,
+    "spellName": "Consume Magic",
+    "maxRanks": 1,
+    "spellID": 278326
+  },
+  {
+    "type": 0,
+    "spellIcon": 1380368,
+    "nodeID": 91007,
+    "spellName": "Imprison",
+    "maxRanks": 1,
+    "spellID": 217832
+  },
+  {
+    "type": 0,
+    "spellIcon": 1247261,
+    "nodeID": 91008,
+    "spellName": "Blazing Path",
+    "maxRanks": 1,
+    "spellID": 320416
+  },
+  {
+    "type": 0,
+    "spellIcon": 1305157,
+    "nodeID": 91009,
+    "spellName": "Inner Demon",
+    "maxRanks": 1,
+    "spellID": 389693
+  },
+  {
+    "type": 2,
+    "spellIcon": 3591588,
+    "nodeID": 91010,
+    "spellName": "Fodder to the Flame",
+    "maxRanks": 1,
+    "spellID": 391429
+  },
+  {
+    "type": 2,
+    "spellIcon": 3565443,
+    "nodeID": 91010,
+    "spellName": "Elysian Decree",
+    "maxRanks": 1,
+    "spellID": 390163
+  },
+  {
+    "type": 0,
+    "spellIcon": 1305159,
+    "nodeID": 91011,
+    "spellName": "Accelerating Blade",
+    "maxRanks": 1,
+    "spellID": 391275
+  },
+  {
+    "type": 0,
+    "spellIcon": 1354410,
+    "nodeID": 91012,
+    "spellName": "Relentless Onslaught",
+    "maxRanks": 1,
+    "spellID": 389977
+  },
+  {
+    "type": 0,
+    "spellIcon": 1309101,
+    "nodeID": 91013,
+    "spellName": "Serrated Glaive",
+    "maxRanks": 2,
+    "spellID": 390154
+  },
+  {
+    "type": 0,
+    "spellIcon": 1118739,
+    "nodeID": 91014,
+    "spellName": "Fel Eruption",
+    "maxRanks": 1,
+    "spellID": 211881
+  },
+  {
+    "type": 0,
+    "spellIcon": 1108795,
+    "nodeID": 91015,
+    "spellName": "Dancing with Fate",
+    "maxRanks": 2,
+    "spellID": 389978
+  },
+  {
+    "type": 0,
+    "spellIcon": 1305159,
+    "nodeID": 91016,
+    "spellName": "Furious Throws",
+    "maxRanks": 1,
+    "spellID": 393029
+  },
+  {
+    "type": 0,
+    "spellIcon": 1344649,
+    "nodeID": 91017,
+    "spellName": "Felfire Heart",
+    "maxRanks": 1,
+    "spellID": 388109
+  },
+  {
+    "type": 0,
+    "spellIcon": 1305156,
+    "nodeID": 91018,
+    "spellName": "Eye Beam",
+    "maxRanks": 1,
+    "spellID": 198013
+  },
+  {
+    "type": 2,
+    "spellIcon": 236276,
+    "nodeID": 91019,
+    "spellName": "Insatiable Hunger",
+    "maxRanks": 1,
+    "spellID": 258876
+  },
+  {
+    "type": 2,
+    "spellIcon": 237507,
+    "nodeID": 91019,
+    "spellName": "Demon Blades",
+    "maxRanks": 1,
+    "spellID": 203555
+  },
+  {
+    "type": 0,
+    "spellIcon": 1392567,
+    "nodeID": 91020,
+    "spellName": "Unbound Chaos",
+    "maxRanks": 2,
+    "spellID": 347461
+  },
+  {
+    "type": 0,
+    "spellIcon": 1029722,
+    "nodeID": 91021,
+    "spellName": "Momentum",
+    "maxRanks": 1,
+    "spellID": 206476
+  },
+  {
+    "type": 0,
+    "spellIcon": 1348401,
+    "nodeID": 91022,
+    "spellName": "Tactical Retreat",
+    "maxRanks": 1,
+    "spellID": 389688
+  },
+  {
+    "type": 2,
+    "spellIcon": 1455916,
+    "nodeID": 91023,
+    "spellName": "Glaive Tempest",
+    "maxRanks": 1,
+    "spellID": 342817
+  },
+  {
+    "type": 2,
+    "spellIcon": 2065580,
+    "nodeID": 91023,
+    "spellName": "Fel Barrage",
+    "maxRanks": 1,
+    "spellID": 258925
+  },
+  {
+    "type": 0,
+    "spellIcon": 1305155,
+    "nodeID": 91024,
+    "spellName": "Restless Hunter",
+    "maxRanks": 1,
+    "spellID": 390142
+  },
+  {
+    "type": 0,
+    "spellIcon": 1305156,
+    "nodeID": 91025,
+    "spellName": "Furious Gaze",
+    "maxRanks": 1,
+    "spellID": 343311
+  },
+  {
+    "type": 0,
+    "spellIcon": 1117876,
+    "nodeID": 91026,
+    "spellName": "Blind Fury",
+    "maxRanks": 2,
+    "spellID": 203550
+  },
+  {
+    "type": 0,
+    "spellIcon": 132308,
+    "nodeID": 91027,
+    "spellName": "Initiative",
+    "maxRanks": 1,
+    "spellID": 388108
+  },
+  {
+    "type": 0,
+    "spellIcon": 1305152,
+    "nodeID": 91028,
+    "spellName": "Critical Chaos",
+    "maxRanks": 2,
+    "spellID": 320413
+  },
+  {
+    "type": 0,
+    "spellIcon": 1247261,
+    "nodeID": 91029,
+    "spellName": "Improved Fel Rush",
+    "maxRanks": 1,
+    "spellID": 343017
+  },
+  {
+    "type": 0,
+    "spellIcon": 1305152,
+    "nodeID": 91030,
+    "spellName": "Improved Chaos Strike",
+    "maxRanks": 1,
+    "spellID": 343206
+  },
+  {
+    "type": 0,
+    "spellIcon": 1711336,
+    "nodeID": 91031,
+    "spellName": "Shattered Destiny",
+    "maxRanks": 1,
+    "spellID": 388116
+  },
+  {
+    "type": 0,
+    "spellIcon": 1035055,
+    "nodeID": 91032,
+    "spellName": "Cycle of Hatred",
+    "maxRanks": 2,
+    "spellID": 258887
+  },
+  {
+    "type": 0,
+    "spellIcon": 136189,
+    "nodeID": 91033,
+    "spellName": "Essence Break",
+    "maxRanks": 1,
+    "spellID": 258860
+  },
+  {
+    "type": 0,
+    "spellIcon": 1380366,
+    "nodeID": 91034,
+    "spellName": "Know Your Enemy",
+    "maxRanks": 2,
+    "spellID": 388118
+  },
+  {
+    "type": 0,
+    "spellIcon": 1309101,
+    "nodeID": 91035,
+    "spellName": "Chaos Theory",
+    "maxRanks": 1,
+    "spellID": 389687
+  },
+  {
+    "type": 0,
+    "spellIcon": 136194,
+    "nodeID": 91036,
+    "spellName": "Isolated Prey",
+    "maxRanks": 1,
+    "spellID": 388113
+  }
+]

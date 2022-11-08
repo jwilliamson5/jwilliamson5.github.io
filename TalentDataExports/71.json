@@ -1,0 +1,1130 @@
+[
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 999952,
+    "nodeID": 90263,
+    "spellName": "Dance of Death",
+    "maxRanks": 1,
+    "spellID": 390713
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 1035055,
+    "nodeID": 90266,
+    "spellName": "Merciless Bonegrinder",
+    "maxRanks": 1,
+    "spellID": 383317
+  },
+  {
+    "type": 2,
+    "spellIcon": 1029586,
+    "nodeID": 90267,
+    "spellName": "Storm of Swords",
+    "maxRanks": 1,
+    "spellID": 385512
+  },
+  {
+    "type": 2,
+    "spellIcon": 236309,
+    "nodeID": 90267,
+    "spellName": "Collateral Damage",
+    "maxRanks": 1,
+    "spellID": 334779
+  },
+  {
+    "type": 0,
+    "spellIcon": 132306,
+    "nodeID": 90268,
+    "spellName": "Sweeping Strikes",
+    "maxRanks": 1,
+    "spellID": 260708
+  },
+  {
+    "type": 0,
+    "spellIcon": 796638,
+    "nodeID": 90269,
+    "spellName": "Storm Wall",
+    "maxRanks": 1,
+    "spellID": 388807
+  },
+  {
+    "type": 0,
+    "spellIcon": 132355,
+    "nodeID": 90270,
+    "spellName": "Mortal Strike",
+    "maxRanks": 1,
+    "spellID": 12294
+  },
+  {
+    "type": 0,
+    "spellIcon": 132223,
+    "nodeID": 90271,
+    "spellName": "Overpower",
+    "maxRanks": 1,
+    "spellID": 7384
+  },
+  {
+    "type": 0,
+    "spellIcon": 236286,
+    "nodeID": 90272,
+    "spellName": "Fervor of Battle",
+    "maxRanks": 1,
+    "spellID": 202316
+  },
+  {
+    "type": 0,
+    "spellIcon": 135358,
+    "nodeID": 90273,
+    "spellName": "Improved Execute",
+    "maxRanks": 1,
+    "spellID": 316405
+  },
+  {
+    "type": 0,
+    "spellIcon": 132346,
+    "nodeID": 90274,
+    "spellName": "Sudden Death",
+    "maxRanks": 1,
+    "spellID": 29725
+  },
+  {
+    "type": 0,
+    "spellIcon": 1450139,
+    "nodeID": 90275,
+    "spellName": "Fueled by Violence",
+    "maxRanks": 1,
+    "spellID": 383103
+  },
+  {
+    "type": 0,
+    "spellIcon": 132336,
+    "nodeID": 90276,
+    "spellName": "Die by the Sword",
+    "maxRanks": 1,
+    "spellID": 118038
+  },
+  {
+    "type": 0,
+    "spellIcon": 236306,
+    "nodeID": 90277,
+    "spellName": "Bloodsurge",
+    "maxRanks": 1,
+    "spellID": 384361
+  },
+  {
+    "type": 0,
+    "spellIcon": 132367,
+    "nodeID": 90278,
+    "spellName": "Martial Prowess",
+    "maxRanks": 1,
+    "spellID": 316440
+  },
+  {
+    "type": 0,
+    "spellIcon": 132223,
+    "nodeID": 90279,
+    "spellName": "Improved Overpower",
+    "maxRanks": 1,
+    "spellID": 385571
+  },
+  {
+    "type": 0,
+    "spellIcon": 136124,
+    "nodeID": 90280,
+    "spellName": "Tide of Blood",
+    "maxRanks": 1,
+    "spellID": 386357
+  },
+  {
+    "type": 0,
+    "spellIcon": 2065621,
+    "nodeID": 90281,
+    "spellName": "Skullsplitter",
+    "maxRanks": 1,
+    "spellID": 260643
+  },
+  {
+    "type": 0,
+    "spellIcon": 236317,
+    "nodeID": 90282,
+    "spellName": "Tactician",
+    "maxRanks": 1,
+    "spellID": 184783
+  },
+  {
+    "type": 0,
+    "spellIcon": 1394887,
+    "nodeID": 90283,
+    "spellName": "Bloodborne",
+    "maxRanks": 2,
+    "spellID": 383287
+  },
+  {
+    "type": 0,
+    "spellIcon": 132155,
+    "nodeID": 90284,
+    "spellName": "Rend",
+    "maxRanks": 1,
+    "spellID": 772
+  },
+  {
+    "type": 0,
+    "spellIcon": 135275,
+    "nodeID": 90285,
+    "spellName": "Dreadnaught",
+    "maxRanks": 1,
+    "spellID": 262150
+  },
+  {
+    "type": 0,
+    "spellIcon": 970853,
+    "nodeID": 90286,
+    "spellName": "Exhilarating Blows",
+    "maxRanks": 1,
+    "spellID": 383219
+  },
+  {
+    "type": 2,
+    "spellIcon": 133476,
+    "nodeID": 90287,
+    "spellName": "Blunt Instruments",
+    "maxRanks": 1,
+    "spellID": 383442
+  },
+  {
+    "type": 2,
+    "spellIcon": 2065633,
+    "nodeID": 90287,
+    "spellName": "Warbreaker",
+    "maxRanks": 1,
+    "spellID": 262161
+  },
+  {
+    "type": 2,
+    "spellIcon": 1029718,
+    "nodeID": 90288,
+    "spellName": "In For The Kill",
+    "maxRanks": 1,
+    "spellID": 248621
+  },
+  {
+    "type": 2,
+    "spellIcon": 236314,
+    "nodeID": 90288,
+    "spellName": "Test of Might",
+    "maxRanks": 1,
+    "spellID": 385008
+  },
+  {
+    "type": 0,
+    "spellIcon": 971080,
+    "nodeID": 90289,
+    "spellName": "Anger Management",
+    "maxRanks": 1,
+    "spellID": 152278
+  },
+  {
+    "type": 0,
+    "spellIcon": 464973,
+    "nodeID": 90290,
+    "spellName": "Colossus Smash",
+    "maxRanks": 1,
+    "spellID": 167105
+  },
+  {
+    "type": 0,
+    "spellIcon": 135358,
+    "nodeID": 90291,
+    "spellName": "Massacre",
+    "maxRanks": 1,
+    "spellID": 281001
+  },
+  {
+    "type": 0,
+    "spellIcon": 132312,
+    "nodeID": 90292,
+    "spellName": "Impale",
+    "maxRanks": 1,
+    "spellID": 383430
+  },
+  {
+    "type": 0,
+    "spellIcon": 132338,
+    "nodeID": 90293,
+    "spellName": "Cleave",
+    "maxRanks": 1,
+    "spellID": 845
+  },
+  {
+    "type": 0,
+    "spellIcon": 236269,
+    "nodeID": 90294,
+    "spellName": "Reaping Swings",
+    "maxRanks": 1,
+    "spellID": 383293
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 136111,
+    "nodeID": 90321,
+    "spellName": "Sonic Boom",
+    "maxRanks": 1,
+    "spellID": 390725
+  },
+  {
+    "type": 0,
+    "spellIcon": 132400,
+    "nodeID": 90322,
+    "spellName": "Two-Handed Weapon Specialization",
+    "maxRanks": 1,
+    "spellID": 382896
+  },
+  {
+    "type": 0,
+    "spellIcon": 3565453,
+    "nodeID": 90323,
+    "spellName": "Elysian Might",
+    "maxRanks": 1,
+    "spellID": 386285
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 589768,
+    "nodeID": 90326,
+    "spellName": "Impending Victory",
+    "maxRanks": 1,
+    "spellID": 202168
+  },
+  {
+    "type": 0,
+    "spellIcon": 132349,
+    "nodeID": 90327,
+    "spellName": "Battle Stance",
+    "maxRanks": 1,
+    "spellID": 386164
+  },
+  {
+    "type": 0,
+    "spellIcon": 132205,
+    "nodeID": 90328,
+    "spellName": "War Machine",
+    "maxRanks": 1,
+    "spellID": 262231
+  },
+  {
+    "type": 0,
+    "spellIcon": 132365,
+    "nodeID": 90329,
+    "spellName": "Intervene",
+    "maxRanks": 1,
+    "spellID": 3411
+  },
+  {
+    "type": 0,
+    "spellIcon": 132341,
+    "nodeID": 90330,
+    "spellName": "Defensive Stance",
+    "maxRanks": 1,
+    "spellID": 386208
+  },
+  {
+    "type": 0,
+    "spellIcon": 132351,
+    "nodeID": 90331,
+    "spellName": "Rallying Cry",
+    "maxRanks": 1,
+    "spellID": 97462
+  },
+  {
+    "type": 2,
+    "spellIcon": 463829,
+    "nodeID": 90332,
+    "spellName": "Inspiring Presence",
+    "maxRanks": 1,
+    "spellID": 382310
+  },
+  {
+    "type": 2,
+    "spellIcon": 132175,
+    "nodeID": 90332,
+    "spellName": "Second Wind",
+    "maxRanks": 1,
+    "spellID": 29838
+  },
+  {
+    "type": 2,
+    "spellIcon": 892449,
+    "nodeID": 90333,
+    "spellName": "Barbaric Training",
+    "maxRanks": 1,
+    "spellID": 383082
+  },
+  {
+    "type": 2,
+    "spellIcon": 132348,
+    "nodeID": 90333,
+    "spellName": "Concussive Blows",
+    "maxRanks": 1,
+    "spellID": 383115
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 132152,
+    "nodeID": 90336,
+    "spellName": "Furious Blows",
+    "maxRanks": 1,
+    "spellID": 390354
+  },
+  {
+    "type": 0,
+    "spellIcon": 613535,
+    "nodeID": 90337,
+    "spellName": "Storm Bolt",
+    "maxRanks": 1,
+    "spellID": 107570
+  },
+  {
+    "type": 0,
+    "spellIcon": 136112,
+    "nodeID": 90338,
+    "spellName": "Endurance Training",
+    "maxRanks": 1,
+    "spellID": 382940
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 236305,
+    "nodeID": 90340,
+    "spellName": "Seismic Reverberation",
+    "maxRanks": 1,
+    "spellID": 382956
+  },
+  {
+    "type": 0,
+    "spellIcon": 132453,
+    "nodeID": 90341,
+    "spellName": "Titanic Throw",
+    "maxRanks": 1,
+    "spellID": 384090
+  },
+  {
+    "type": 2,
+    "spellIcon": 460957,
+    "nodeID": 90342,
+    "spellName": "Blood and Thunder",
+    "maxRanks": 1,
+    "spellID": 384277
+  },
+  {
+    "type": 2,
+    "spellIcon": 839979,
+    "nodeID": 90342,
+    "spellName": "Crackling Thunder",
+    "maxRanks": 1,
+    "spellID": 203201
+  },
+  {
+    "type": 0,
+    "spellIcon": 136105,
+    "nodeID": 90343,
+    "spellName": "Thunder Clap",
+    "maxRanks": 1,
+    "spellID": 6343
+  },
+  {
+    "type": 0,
+    "spellIcon": 1394887,
+    "nodeID": 90344,
+    "spellName": "Leeching Strikes",
+    "maxRanks": 1,
+    "spellID": 382258
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 236171,
+    "nodeID": 90346,
+    "spellName": "Heroic Leap",
+    "maxRanks": 1,
+    "spellID": 6544
+  },
+  {
+    "type": 0,
+    "spellIcon": 136225,
+    "nodeID": 90347,
+    "spellName": "Crushing Force",
+    "maxRanks": 2,
+    "spellID": 382764
+  },
+  {
+    "type": 2,
+    "spellIcon": 136009,
+    "nodeID": 90348,
+    "spellName": "Berserker Shout",
+    "maxRanks": 1,
+    "spellID": 384100
+  },
+  {
+    "type": 2,
+    "spellIcon": 136147,
+    "nodeID": 90348,
+    "spellName": "Piercing Howl",
+    "maxRanks": 1,
+    "spellID": 12323
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 2,
+    "spellIcon": 460959,
+    "nodeID": 90351,
+    "spellName": "Wrecking Throw",
+    "maxRanks": 1,
+    "spellID": 384110
+  },
+  {
+    "type": 2,
+    "spellIcon": 311430,
+    "nodeID": 90351,
+    "spellName": "Shattering Throw",
+    "maxRanks": 1,
+    "spellID": 64382
+  },
+  {
+    "type": 0,
+    "spellIcon": 458971,
+    "nodeID": 90352,
+    "spellName": "Frothing Berserker",
+    "maxRanks": 1,
+    "spellID": 392792
+  },
+  {
+    "type": 0,
+    "spellIcon": 135936,
+    "nodeID": 90353,
+    "spellName": "Pain and Gain",
+    "maxRanks": 1,
+    "spellID": 382549
+  },
+  {
+    "type": 0,
+    "spellIcon": 237538,
+    "nodeID": 90354,
+    "spellName": "Honed Reflexes",
+    "maxRanks": 1,
+    "spellID": 382461
+  },
+  {
+    "type": 0,
+    "spellIcon": 236171,
+    "nodeID": 90355,
+    "spellName": "Bounding Stride",
+    "maxRanks": 1,
+    "spellID": 202163
+  },
+  {
+    "type": 0,
+    "spellIcon": 136088,
+    "nodeID": 90356,
+    "spellName": "Bitter Immunity",
+    "maxRanks": 1,
+    "spellID": 383762
+  },
+  {
+    "type": 0,
+    "spellIcon": 134153,
+    "nodeID": 90357,
+    "spellName": "Uproar",
+    "maxRanks": 1,
+    "spellID": 391572
+  },
+  {
+    "type": 0,
+    "spellIcon": 136025,
+    "nodeID": 90358,
+    "spellName": "Thunderous Words",
+    "maxRanks": 1,
+    "spellID": 384969
+  },
+  {
+    "type": 0,
+    "spellIcon": 642418,
+    "nodeID": 90359,
+    "spellName": "Thunderous Roar",
+    "maxRanks": 1,
+    "spellID": 384318
+  },
+  {
+    "type": 0,
+    "spellIcon": 132307,
+    "nodeID": 90360,
+    "spellName": "Wild Strikes",
+    "maxRanks": 2,
+    "spellID": 382946
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 2,
+    "spellIcon": 136056,
+    "nodeID": 90363,
+    "spellName": "Blademaster's Torment",
+    "maxRanks": 1,
+    "spellID": 390138
+  },
+  {
+    "type": 2,
+    "spellIcon": 458972,
+    "nodeID": 90363,
+    "spellName": "Warlord's Torment",
+    "maxRanks": 1,
+    "spellID": 390140
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 613534,
+    "nodeID": 90365,
+    "spellName": "Avatar",
+    "maxRanks": 1,
+    "spellID": 107574
+  },
+  {
+    "type": 0,
+    "spellIcon": 135053,
+    "nodeID": 90366,
+    "spellName": "Armored to the Teeth",
+    "maxRanks": 2,
+    "spellID": 384124
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 132739,
+    "nodeID": 90368,
+    "spellName": "Reinforced Plates",
+    "maxRanks": 1,
+    "spellID": 382939
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 461119,
+    "nodeID": 90371,
+    "spellName": "Fast Footwork",
+    "maxRanks": 1,
+    "spellID": 382260
+  },
+  {
+    "type": 0,
+    "spellIcon": 136009,
+    "nodeID": 90372,
+    "spellName": "Berserker Rage",
+    "maxRanks": 1,
+    "spellID": 18499
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 451165,
+    "nodeID": 90374,
+    "spellName": "Rumbling Earth",
+    "maxRanks": 1,
+    "spellID": 275339
+  },
+  {
+    "type": 0,
+    "spellIcon": 236312,
+    "nodeID": 90375,
+    "spellName": "Shockwave",
+    "maxRanks": 1,
+    "spellID": 46968
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 135424,
+    "nodeID": 90377,
+    "spellName": "Sidearm",
+    "maxRanks": 1,
+    "spellID": 384404
+  },
+  {
+    "type": 0,
+    "spellIcon": 135726,
+    "nodeID": 90378,
+    "spellName": "Overwhelming Rage",
+    "maxRanks": 2,
+    "spellID": 382767
+  },
+  {
+    "type": 0,
+    "spellIcon": 3528286,
+    "nodeID": 90379,
+    "spellName": "Piercing Verdict",
+    "maxRanks": 1,
+    "spellID": 382948
+  },
+  {
+    "type": 0,
+    "spellIcon": 3565453,
+    "nodeID": 90380,
+    "spellName": "Spear of Bastion",
+    "maxRanks": 1,
+    "spellID": 376079
+  },
+  {
+    "type": 0,
+    "spellIcon": 132109,
+    "nodeID": 90381,
+    "spellName": "Cruel Strikes",
+    "maxRanks": 2,
+    "spellID": 392777
+  },
+  {
+    "type": 0,
+    "spellIcon": 237377,
+    "nodeID": 90382,
+    "spellName": "Double Time",
+    "maxRanks": 1,
+    "spellID": 103827
+  },
+  {
+    "type": 2,
+    "spellIcon": 1058933,
+    "nodeID": 90383,
+    "spellName": "Cacophonous Roar",
+    "maxRanks": 1,
+    "spellID": 382954
+  },
+  {
+    "type": 2,
+    "spellIcon": 132154,
+    "nodeID": 90383,
+    "spellName": "Menace",
+    "maxRanks": 1,
+    "spellID": 275338
+  },
+  {
+    "type": 0,
+    "spellIcon": 132154,
+    "nodeID": 90384,
+    "spellName": "Intimidating Shout",
+    "maxRanks": 1,
+    "spellID": 5246
+  },
+  {
+    "type": 0,
+    "spellIcon": 132361,
+    "nodeID": 90385,
+    "spellName": "Spell Reflection",
+    "maxRanks": 1,
+    "spellID": 23920
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 1322721,
+    "nodeID": 90436,
+    "spellName": "Battlelord",
+    "maxRanks": 1,
+    "spellID": 386630
+  },
+  {
+    "type": 0,
+    "spellIcon": 133739,
+    "nodeID": 90437,
+    "spellName": "Deft Experience",
+    "maxRanks": 2,
+    "spellID": 389308
+  },
+  {
+    "type": 0,
+    "spellIcon": 878217,
+    "nodeID": 90438,
+    "spellName": "Bloodletting",
+    "maxRanks": 1,
+    "spellID": 383154
+  },
+  {
+    "type": 0,
+    "spellIcon": 236364,
+    "nodeID": 90439,
+    "spellName": "Fatality",
+    "maxRanks": 1,
+    "spellID": 383703
+  },
+  {
+    "type": 2,
+    "spellIcon": 132355,
+    "nodeID": 90440,
+    "spellName": "Unhinged",
+    "maxRanks": 1,
+    "spellID": 386628
+  },
+  {
+    "type": 2,
+    "spellIcon": 236303,
+    "nodeID": 90440,
+    "spellName": "Hurricane",
+    "maxRanks": 1,
+    "spellID": 390563
+  },
+  {
+    "type": 0,
+    "spellIcon": 236303,
+    "nodeID": 90441,
+    "spellName": "Bladestorm",
+    "maxRanks": 1,
+    "spellID": 227847
+  },
+  {
+    "type": 0,
+    "spellIcon": 135979,
+    "nodeID": 90442,
+    "spellName": "Valor in Victory",
+    "maxRanks": 2,
+    "spellID": 383338
+  },
+  {
+    "type": 0,
+    "spellIcon": 132355,
+    "nodeID": 90443,
+    "spellName": "Improved Mortal Strike",
+    "maxRanks": 1,
+    "spellID": 385573
+  },
+  {
+    "type": 0,
+    "spellIcon": 132109,
+    "nodeID": 90444,
+    "spellName": "Critical Thinking",
+    "maxRanks": 2,
+    "spellID": 389306
+  },
+  {
+    "type": 0,
+    "spellIcon": 135358,
+    "nodeID": 90445,
+    "spellName": "Executioner's Precision",
+    "maxRanks": 1,
+    "spellID": 386634
+  },
+  {
+    "type": 0,
+    "spellIcon": 458975,
+    "nodeID": 90446,
+    "spellName": "Juggernaut",
+    "maxRanks": 1,
+    "spellID": 383292
+  },
+  {
+    "type": 0,
+    "spellIcon": 135328,
+    "nodeID": 90447,
+    "spellName": "Sharpened Blades",
+    "maxRanks": 1,
+    "spellID": 383341
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  }
+]

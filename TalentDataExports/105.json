@@ -1,0 +1,1178 @@
+[
+  {
+    "type": 0,
+    "spellIcon": 236162,
+    "nodeID": 82043,
+    "spellName": "Nourish",
+    "maxRanks": 1,
+    "spellID": 50464
+  },
+  {
+    "type": 0,
+    "spellIcon": 1033486,
+    "nodeID": 82044,
+    "spellName": "Undergrowth",
+    "maxRanks": 1,
+    "spellID": 392301
+  },
+  {
+    "type": 0,
+    "spellIcon": 236153,
+    "nodeID": 82045,
+    "spellName": "Improved Wild Growth",
+    "maxRanks": 1,
+    "spellID": 328025
+  },
+  {
+    "type": 0,
+    "spellIcon": 134157,
+    "nodeID": 82046,
+    "spellName": "Waking Dream",
+    "maxRanks": 1,
+    "spellID": 392221
+  },
+  {
+    "type": 0,
+    "spellIcon": 134914,
+    "nodeID": 82047,
+    "spellName": "Grove Tending",
+    "maxRanks": 1,
+    "spellID": 383192
+  },
+  {
+    "type": 0,
+    "spellIcon": 134157,
+    "nodeID": 82048,
+    "spellName": "Ysera's Gift",
+    "maxRanks": 1,
+    "spellID": 145108
+  },
+  {
+    "type": 0,
+    "spellIcon": 134206,
+    "nodeID": 82049,
+    "spellName": "Lifebloom",
+    "maxRanks": 1,
+    "spellID": 33763
+  },
+  {
+    "type": 0,
+    "spellIcon": 136076,
+    "nodeID": 82050,
+    "spellName": "Nature's Swiftness",
+    "maxRanks": 1,
+    "spellID": 132158
+  },
+  {
+    "type": 2,
+    "spellIcon": 136094,
+    "nodeID": 82051,
+    "spellName": "Nature's Splendor",
+    "maxRanks": 1,
+    "spellID": 392288
+  },
+  {
+    "type": 2,
+    "spellIcon": 136076,
+    "nodeID": 82051,
+    "spellName": "Passing Seasons",
+    "maxRanks": 1,
+    "spellID": 382550
+  },
+  {
+    "type": 2,
+    "spellIcon": 132124,
+    "nodeID": 82052,
+    "spellName": "Abundance",
+    "maxRanks": 1,
+    "spellID": 207383
+  },
+  {
+    "type": 2,
+    "spellIcon": 132137,
+    "nodeID": 82052,
+    "spellName": "Cenarion Ward",
+    "maxRanks": 1,
+    "spellID": 102351
+  },
+  {
+    "type": 2,
+    "spellIcon": 132123,
+    "nodeID": 82053,
+    "spellName": "Inner Peace",
+    "maxRanks": 1,
+    "spellID": 197073
+  },
+  {
+    "type": 2,
+    "spellIcon": 136233,
+    "nodeID": 82053,
+    "spellName": "Dreamstate",
+    "maxRanks": 1,
+    "spellID": 392162
+  },
+  {
+    "type": 0,
+    "spellIcon": 136107,
+    "nodeID": 82054,
+    "spellName": "Tranquility",
+    "maxRanks": 1,
+    "spellID": 740
+  },
+  {
+    "type": 0,
+    "spellIcon": 136085,
+    "nodeID": 82055,
+    "spellName": "Improved Regrowth",
+    "maxRanks": 1,
+    "spellID": 231032
+  },
+  {
+    "type": 0,
+    "spellIcon": 136041,
+    "nodeID": 82056,
+    "spellName": "Cultivation",
+    "maxRanks": 1,
+    "spellID": 200390
+  },
+  {
+    "type": 0,
+    "spellIcon": 134222,
+    "nodeID": 82057,
+    "spellName": "Efflorescence",
+    "maxRanks": 1,
+    "spellID": 145205
+  },
+  {
+    "type": 0,
+    "spellIcon": 136085,
+    "nodeID": 82058,
+    "spellName": "Rampant Growth",
+    "maxRanks": 1,
+    "spellID": 278515
+  },
+  {
+    "type": 0,
+    "spellIcon": 236160,
+    "nodeID": 82059,
+    "spellName": "Soul of the Forest",
+    "maxRanks": 1,
+    "spellID": 158478
+  },
+  {
+    "type": 0,
+    "spellIcon": 4554354,
+    "nodeID": 82060,
+    "spellName": "Verdancy",
+    "maxRanks": 1,
+    "spellID": 392325
+  },
+  {
+    "type": 2,
+    "spellIcon": 306845,
+    "nodeID": 82061,
+    "spellName": "Spring Blossoms",
+    "maxRanks": 1,
+    "spellID": 207385
+  },
+  {
+    "type": 2,
+    "spellIcon": 1408836,
+    "nodeID": 82061,
+    "spellName": "Overgrowth",
+    "maxRanks": 1,
+    "spellID": 203651
+  },
+  {
+    "type": 0,
+    "spellIcon": 960689,
+    "nodeID": 82062,
+    "spellName": "Regenesis",
+    "maxRanks": 2,
+    "spellID": 383191
+  },
+  {
+    "type": 0,
+    "spellIcon": 132145,
+    "nodeID": 82063,
+    "spellName": "Cenarius' Guidance",
+    "maxRanks": 1,
+    "spellID": 393371
+  },
+  {
+    "type": 2,
+    "spellIcon": 236157,
+    "nodeID": 82064,
+    "spellName": "Incarnation: Tree of Life",
+    "maxRanks": 1,
+    "spellID": 33891
+  },
+  {
+    "type": 2,
+    "spellIcon": 3636839,
+    "nodeID": 82064,
+    "spellName": "Convoke the Spirits",
+    "maxRanks": 1,
+    "spellID": 391528
+  },
+  {
+    "type": 0,
+    "spellIcon": 134206,
+    "nodeID": 82065,
+    "spellName": "Harmonious Blooming",
+    "maxRanks": 2,
+    "spellID": 392256
+  },
+  {
+    "type": 0,
+    "spellIcon": 3578197,
+    "nodeID": 82066,
+    "spellName": "Unbridled Swarm",
+    "maxRanks": 1,
+    "spellID": 391951
+  },
+  {
+    "type": 0,
+    "spellIcon": 3578197,
+    "nodeID": 82067,
+    "spellName": "Adaptive Swarm",
+    "maxRanks": 1,
+    "spellID": 391888
+  },
+  {
+    "type": 0,
+    "spellIcon": 1052644,
+    "nodeID": 82068,
+    "spellName": "Luxuriant Soil",
+    "maxRanks": 2,
+    "spellID": 392315
+  },
+  {
+    "type": 0,
+    "spellIcon": 1416160,
+    "nodeID": 82069,
+    "spellName": "Reforestation",
+    "maxRanks": 1,
+    "spellID": 392356
+  },
+  {
+    "type": 0,
+    "spellIcon": 132130,
+    "nodeID": 82070,
+    "spellName": "Embrace of the Dream",
+    "maxRanks": 2,
+    "spellID": 392124
+  },
+  {
+    "type": 0,
+    "spellIcon": 1033478,
+    "nodeID": 82071,
+    "spellName": "Germination",
+    "maxRanks": 1,
+    "spellID": 155675
+  },
+  {
+    "type": 0,
+    "spellIcon": 134207,
+    "nodeID": 82072,
+    "spellName": "Budding Leaves",
+    "maxRanks": 2,
+    "spellID": 392167
+  },
+  {
+    "type": 0,
+    "spellIcon": 464030,
+    "nodeID": 82073,
+    "spellName": "Photosynthesis",
+    "maxRanks": 1,
+    "spellID": 274902
+  },
+  {
+    "type": 0,
+    "spellIcon": 132119,
+    "nodeID": 82074,
+    "spellName": "Circle of Life and Death",
+    "maxRanks": 1,
+    "spellID": 391969
+  },
+  {
+    "type": 0,
+    "spellIcon": 136065,
+    "nodeID": 82075,
+    "spellName": "Regenerative Heartwood",
+    "maxRanks": 1,
+    "spellID": 392116
+  },
+  {
+    "type": 0,
+    "spellIcon": 236166,
+    "nodeID": 82076,
+    "spellName": "Nurturing Dormancy",
+    "maxRanks": 1,
+    "spellID": 392099
+  },
+  {
+    "type": 2,
+    "spellIcon": 1033482,
+    "nodeID": 82077,
+    "spellName": "Power of the Archdruid",
+    "maxRanks": 1,
+    "spellID": 392302
+  },
+  {
+    "type": 2,
+    "spellIcon": 136073,
+    "nodeID": 82077,
+    "spellName": "Invigorate",
+    "maxRanks": 1,
+    "spellID": 392160
+  },
+  {
+    "type": 0,
+    "spellIcon": 136048,
+    "nodeID": 82078,
+    "spellName": "Natural Wisdom",
+    "maxRanks": 1,
+    "spellID": 326228
+  },
+  {
+    "type": 2,
+    "spellIcon": 134918,
+    "nodeID": 82079,
+    "spellName": "Verdant Infusion",
+    "maxRanks": 1,
+    "spellID": 392410
+  },
+  {
+    "type": 2,
+    "spellIcon": 538743,
+    "nodeID": 82079,
+    "spellName": "Flourish",
+    "maxRanks": 1,
+    "spellID": 197721
+  },
+  {
+    "type": 0,
+    "spellIcon": 236153,
+    "nodeID": 82080,
+    "spellName": "Unstoppable Growth",
+    "maxRanks": 2,
+    "spellID": 382559
+  },
+  {
+    "type": 2,
+    "spellIcon": 646672,
+    "nodeID": 82081,
+    "spellName": "Stonebark",
+    "maxRanks": 1,
+    "spellID": 197061
+  },
+  {
+    "type": 2,
+    "spellIcon": 572025,
+    "nodeID": 82081,
+    "spellName": "Improved Ironbark",
+    "maxRanks": 1,
+    "spellID": 382552
+  },
+  {
+    "type": 0,
+    "spellIcon": 572025,
+    "nodeID": 82082,
+    "spellName": "Ironbark",
+    "maxRanks": 1,
+    "spellID": 102342
+  },
+  {
+    "type": 0,
+    "spellIcon": 136017,
+    "nodeID": 82083,
+    "spellName": "Flash of Clarity",
+    "maxRanks": 1,
+    "spellID": 392220
+  },
+  {
+    "type": 0,
+    "spellIcon": 136017,
+    "nodeID": 82084,
+    "spellName": "Omen of Clarity",
+    "maxRanks": 1,
+    "spellID": 113043
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 538517,
+    "nodeID": 82197,
+    "spellName": "Tireless Pursuit",
+    "maxRanks": 1,
+    "spellID": 377801
+  },
+  {
+    "type": 2,
+    "spellIcon": 538771,
+    "nodeID": 82198,
+    "spellName": "Wild Charge",
+    "maxRanks": 1,
+    "spellID": 102401
+  },
+  {
+    "type": 2,
+    "spellIcon": 1817485,
+    "nodeID": 82198,
+    "spellName": "Tiger Dash",
+    "maxRanks": 1,
+    "spellID": 252216
+  },
+  {
+    "type": 0,
+    "spellIcon": 132122,
+    "nodeID": 82199,
+    "spellName": "Rake",
+    "maxRanks": 1,
+    "spellID": 1822
+  },
+  {
+    "type": 0,
+    "spellIcon": 135730,
+    "nodeID": 82200,
+    "spellName": "Starsurge",
+    "maxRanks": 1,
+    "spellID": 197626
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 236288,
+    "nodeID": 82203,
+    "spellName": "Improved Nature's Cure",
+    "maxRanks": 1,
+    "spellID": 392378
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 132137,
+    "nodeID": 82206,
+    "spellName": "Natural Recovery",
+    "maxRanks": 2,
+    "spellID": 377796
+  },
+  {
+    "type": 0,
+    "spellIcon": 236216,
+    "nodeID": 82207,
+    "spellName": "Improved Sunfire",
+    "maxRanks": 1,
+    "spellID": 231050
+  },
+  {
+    "type": 0,
+    "spellIcon": 236216,
+    "nodeID": 82208,
+    "spellName": "Sunfire",
+    "maxRanks": 1,
+    "spellID": 93402
+  },
+  {
+    "type": 0,
+    "spellIcon": 236170,
+    "nodeID": 82209,
+    "spellName": "Typhoon",
+    "maxRanks": 1,
+    "spellID": 132469
+  },
+  {
+    "type": 0,
+    "spellIcon": 1029587,
+    "nodeID": 82210,
+    "spellName": "Astral Influence",
+    "maxRanks": 2,
+    "spellID": 197524
+  },
+  {
+    "type": 0,
+    "spellIcon": 136090,
+    "nodeID": 82211,
+    "spellName": "Hibernate",
+    "maxRanks": 1,
+    "spellID": 2637
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 136022,
+    "nodeID": 82213,
+    "spellName": "Cyclone",
+    "maxRanks": 1,
+    "spellID": 33786
+  },
+  {
+    "type": 0,
+    "spellIcon": 132130,
+    "nodeID": 82214,
+    "spellName": "Nurturing Instinct",
+    "maxRanks": 3,
+    "spellID": 33873
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 134914,
+    "nodeID": 82216,
+    "spellName": "Swiftmend",
+    "maxRanks": 1,
+    "spellID": 18562
+  },
+  {
+    "type": 0,
+    "spellIcon": 136081,
+    "nodeID": 82217,
+    "spellName": "Rejuvenation",
+    "maxRanks": 1,
+    "spellID": 774
+  },
+  {
+    "type": 0,
+    "spellIcon": 132091,
+    "nodeID": 82218,
+    "spellName": "Verdant Heart",
+    "maxRanks": 1,
+    "spellID": 301768
+  },
+  {
+    "type": 0,
+    "spellIcon": 136097,
+    "nodeID": 82219,
+    "spellName": "Improved Barkskin",
+    "maxRanks": 1,
+    "spellID": 327993
+  },
+  {
+    "type": 0,
+    "spellIcon": 132091,
+    "nodeID": 82220,
+    "spellName": "Frenzied Regeneration",
+    "maxRanks": 1,
+    "spellID": 22842
+  },
+  {
+    "type": 0,
+    "spellIcon": 132134,
+    "nodeID": 82221,
+    "spellName": "Maim",
+    "maxRanks": 1,
+    "spellID": 22570
+  },
+  {
+    "type": 0,
+    "spellIcon": 132152,
+    "nodeID": 82222,
+    "spellName": "Rip",
+    "maxRanks": 1,
+    "spellID": 1079
+  },
+  {
+    "type": 0,
+    "spellIcon": 451161,
+    "nodeID": 82223,
+    "spellName": "Thrash",
+    "maxRanks": 1,
+    "spellID": 106832
+  },
+  {
+    "type": 0,
+    "spellIcon": 236946,
+    "nodeID": 82224,
+    "spellName": "Skull Bash",
+    "maxRanks": 1,
+    "spellID": 106839
+  },
+  {
+    "type": 0,
+    "spellIcon": 132138,
+    "nodeID": 82225,
+    "spellName": "Killer Instinct",
+    "maxRanks": 3,
+    "spellID": 108299
+  },
+  {
+    "type": 0,
+    "spellIcon": 134296,
+    "nodeID": 82226,
+    "spellName": "Swipe",
+    "maxRanks": 1,
+    "spellID": 213764
+  },
+  {
+    "type": 0,
+    "spellIcon": 1378702,
+    "nodeID": 82227,
+    "spellName": "Ironfur",
+    "maxRanks": 1,
+    "spellID": 192081
+  },
+  {
+    "type": 0,
+    "spellIcon": 134355,
+    "nodeID": 82228,
+    "spellName": "Thick Hide",
+    "maxRanks": 2,
+    "spellID": 16931
+  },
+  {
+    "type": 0,
+    "spellIcon": 132163,
+    "nodeID": 82229,
+    "spellName": "Soothe",
+    "maxRanks": 1,
+    "spellID": 2908
+  },
+  {
+    "type": 0,
+    "spellIcon": 463283,
+    "nodeID": 82230,
+    "spellName": "Improved Stampeding Roar",
+    "maxRanks": 1,
+    "spellID": 288826
+  },
+  {
+    "type": 0,
+    "spellIcon": 135879,
+    "nodeID": 82231,
+    "spellName": "Heart of the Wild",
+    "maxRanks": 1,
+    "spellID": 319454
+  },
+  {
+    "type": 0,
+    "spellIcon": 136059,
+    "nodeID": 82232,
+    "spellName": "Renewal",
+    "maxRanks": 1,
+    "spellID": 108238
+  },
+  {
+    "type": 0,
+    "spellIcon": 3536177,
+    "nodeID": 82233,
+    "spellName": "Lycara's Teachings",
+    "maxRanks": 3,
+    "spellID": 378988
+  },
+  {
+    "type": 0,
+    "spellIcon": 464343,
+    "nodeID": 82234,
+    "spellName": "Stampeding Roar",
+    "maxRanks": 1,
+    "spellID": 106898
+  },
+  {
+    "type": 0,
+    "spellIcon": 1378703,
+    "nodeID": 82235,
+    "spellName": "Ursine Vigor",
+    "maxRanks": 2,
+    "spellID": 377842
+  },
+  {
+    "type": 0,
+    "spellIcon": 136097,
+    "nodeID": 82236,
+    "spellName": "Matted Fur",
+    "maxRanks": 1,
+    "spellID": 385786
+  },
+  {
+    "type": 2,
+    "spellIcon": 132121,
+    "nodeID": 82237,
+    "spellName": "Incapacitating Roar",
+    "maxRanks": 1,
+    "spellID": 99
+  },
+  {
+    "type": 2,
+    "spellIcon": 132114,
+    "nodeID": 82237,
+    "spellName": "Mighty Bash",
+    "maxRanks": 1,
+    "spellID": 5211
+  },
+  {
+    "type": 0,
+    "spellIcon": 132278,
+    "nodeID": 82238,
+    "spellName": "Primal Fury",
+    "maxRanks": 1,
+    "spellID": 159286
+  },
+  {
+    "type": 0,
+    "spellIcon": 538517,
+    "nodeID": 82239,
+    "spellName": "Feline Swiftness",
+    "maxRanks": 2,
+    "spellID": 131768
+  },
+  {
+    "type": 0,
+    "spellIcon": 136081,
+    "nodeID": 82240,
+    "spellName": "Improved Rejuvenation",
+    "maxRanks": 1,
+    "spellID": 231040
+  },
+  {
+    "type": 0,
+    "spellIcon": 236153,
+    "nodeID": 82241,
+    "spellName": "Wild Growth",
+    "maxRanks": 1,
+    "spellID": 48438
+  },
+  {
+    "type": 2,
+    "spellIcon": 538515,
+    "nodeID": 82242,
+    "spellName": "Mass Entanglement",
+    "maxRanks": 1,
+    "spellID": 102359
+  },
+  {
+    "type": 2,
+    "spellIcon": 571588,
+    "nodeID": 82242,
+    "spellName": "Ursol's Vortex",
+    "maxRanks": 1,
+    "spellID": 102793
+  },
+  {
+    "type": 0,
+    "spellIcon": 136048,
+    "nodeID": 82243,
+    "spellName": "Innervate",
+    "maxRanks": 1,
+    "spellID": 29166
+  },
+  {
+    "type": 0,
+    "spellIcon": 236764,
+    "nodeID": 82244,
+    "spellName": "Nature's Vigil",
+    "maxRanks": 1,
+    "spellID": 124974
+  },
+  {
+    "type": 0,
+    "spellIcon": 1408834,
+    "nodeID": 82245,
+    "spellName": "Protector of the Pack",
+    "maxRanks": 1,
+    "spellID": 378986
+  },
+  {
+    "type": 0,
+    "spellIcon": 236169,
+    "nodeID": 82246,
+    "spellName": "Well-Honed Instincts",
+    "maxRanks": 2,
+    "spellID": 377847
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 135753,
+    "nodeID": 91040,
+    "spellName": "Starfire",
+    "maxRanks": 1,
+    "spellID": 197628
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "type": 0,
+    "spellIcon": 136036,
+    "nodeID": 91042,
+    "spellName": "Moonkin Form",
+    "maxRanks": 1,
+    "spellID": 197625
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  },
+  {
+    "deadTalent": 1
+  }
+]
